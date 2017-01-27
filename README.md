@@ -1,12 +1,6 @@
 # N-T-cursus-DJOG
 
-Natuur &amp; Techniek cursus bij DJOG op vrijdagavond.
-
-Je kunt:
-
- * A doen 
- * B doen
- 
+# Natuur &amp; Techniek cursus bij DJOG op vrijdagavond.
 
 # Vind je het leuk, te weten hoe de wereld in elkaar zit? gezondheid, gedrag, natuur, duurzame energie?
 En vind je het leuk, zelf te doen, te maken en onderzoeken?
@@ -25,9 +19,9 @@ En vind je het leuk, zelf te doen, te maken en onderzoeken?
  
  * Aerodynamica en stromingsleer, vleugelprofiel, stroomlijnlichaam, vliegen. Toepassing op techniek en op de levende natuur.
  
-  Hefbomen en katrollen, hijsen.
+ * Hefbomen en katrollen, hijsen.
  
-  Spagettibrug ontwerpen en bouwen, welke kan de hoogste belasting aan voor bezwijken?
+ * Spagettibrug ontwerpen en bouwen, welke kan de hoogste belasting aan voor bezwijken?
  
  * Hydrauliek; verschillende maten injectiespuiten met slang koppelen.
  
@@ -51,40 +45,40 @@ En vind je het leuk, zelf te doen, te maken en onderzoeken?
 
  * Gebruik van de microscoop, materiaal verzamelen, preparaten maken.
  
-Licht en kleur, kleurenzien
+ * Licht en kleur, kleurenzien
  
-Optische illusies
+ * Optische illusies
  
-Pollenanalyse (stuifmeelkorrels)
+ * Pollenanalyse (stuifmeelkorrels)
  
-Gebruik van de PCR machine
+ * Gebruik van de PCR machine
  
-Bacteriegroei op petrischalen, gebruik van de broedstoof, microscopie.
+ * Bacteriegroei op petrischalen, gebruik van de broedstoof, microscopie.
  
-Nuttige micro-organismen bij voedselbereiding, gist, deeg rijzen, zuurkool maken.
+ * Nuttige micro-organismen bij voedselbereiding, gist, deeg rijzen, zuurkool maken.
  
-Kaas en yoghurt maken.
+ * Kaas en yoghurt maken.
  
-Slow cooking.
+ * Slow cooking.
  
-Lenzen en licht, zelf bouwen van telescoop, microscoop, camera.
+ * Lenzen en licht, zelf bouwen van telescoop, microscoop, camera.
  
-Trillingen, golven en geluid, muziekinstrumenten.
+ * Trillingen, golven en geluid, muziekinstrumenten.
  
-Onzichtbaar licht, foto, video en communicatie.
+ * Onzichtbaar licht, foto, video en communicatie.
  
-Scheikunde, nanotechnologie?
+ * Scheikunde, nanotechnologie?
  
-Gebruik van de eenvoudige spectrofotometer, de Vitatron extinctiemeter bij bijvoorbeeld wateronderzoek, oppervlakte water
+ * Gebruik van de eenvoudige spectrofotometer, de Vitatron extinctiemeter bij bijvoorbeeld wateronderzoek, oppervlakte water
  
-Gebruik van de geavanceerde UV-VIS spectrofotometer, spectrum witte LED.
+ * Gebruik van de geavanceerde UV-VIS spectrofotometer, spectrum witte LED.
  
-Vingerafdrukken zichtbaar maken met superlijm (CSI)
+ * Vingerafdrukken zichtbaar maken met superlijm (CSI)
  
-Solderen en hardsolderen, waterleidingbuizen solderen.
+ * Solderen en hardsolderen, waterleidingbuizen solderen.
  
-Elektrisch lassen
+ * Elektrisch lassen
  
-Goede verbindingen maken met verschillende soorten lijm.
+ * Goede verbindingen maken met verschillende soorten lijm.
 
 
