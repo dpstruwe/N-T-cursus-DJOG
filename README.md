@@ -15,13 +15,13 @@ En vind je het leuk, zelf te doen, te maken en onderzoeken?
  
 #.........of je zegt: dat ga ik nu doen, op mijn niveau, omdat ik het wil!
  
-Dat kan op vrijdagavond bij De Jonge Onderzoekers aan de Dirk Huizingastraat.
+##Dat kan op vrijdagavond bij De Jonge Onderzoekers aan de Dirk Huizingastraat.
  
-Op vrijdagavond vind je makende en onderzoekende jonge mensen met ervaren makers en onderzoekers op allerlei gebied.
+##Op vrijdagavond vind je makende en onderzoekende jonge mensen met ervaren makers en onderzoekers op allerlei gebied.
  
-Wij pakken iedere vrijdagavond een of meer onderwerpen op, je kan ook zelf onderwerpen voorstellen.
+##ij pakken iedere vrijdagavond een of meer onderwerpen op, je kan ook zelf onderwerpen voorstellen.
  
-We gaan bijvoorbeeld aan de slag met:
+##We gaan bijvoorbeeld aan de slag met:
  
  * Aerodynamica en stromingsleer, vleugelprofiel, stroomlijnlichaam, vliegen. Toepassing op techniek en op de levende natuur.
  
@@ -29,28 +29,27 @@ We gaan bijvoorbeeld aan de slag met:
  
   Spagettibrug ontwerpen en bouwen, welke kan de hoogste belasting aan voor bezwijken?
  
-Hydrauliek; verschillende maten injectiespuiten met slang koppelen.
+ * Hydrauliek; verschillende maten injectiespuiten met slang koppelen.
  
-Motoren: de heteluchtmotor van DJO, elektromotor.
+ * Motoren: de heteluchtmotor van DJO, elektromotor.
  
-Stroomkring elektriciteit
+ * Stroomkring elektriciteit
  
-Serieschakeling kerstlampjes, spanningsdeler
+ * Serieschakeling kerstlampjes, spanningsdeler
  
-Varabele weerstanden: sensoren voor licht, temperatuur.
+ * Variabele weerstanden: sensoren voor licht, temperatuur.
  
-Gelijkstroom en wisselstroom (2 kleuren LEDjes, condensator)
+ * Gelijkstroom en wisselstroom (2 kleuren LEDjes, condensator)
  
-Elektriciteit zelf opwekken.
+ * Elektriciteit zelf opwekken.
  
-Elektrolyse en verkoperen.
+ * Elektrolyse en verkoperen.
  
-Magneten, elektromagneten, spoelen, inductie, transformator
+ * Magneten, elektromagneten, spoelen, inductie, transformator
  
-Printplaten belichten en etsen (evt. een kopergravure met bijenwas en goedkoop printplaat materiaal, afdrukken maken.)
-Zoals je ziet, vind ik het niet verkeerd, een keer een uitstapje te maken buiten natuur & techniek: ik denk dat op school niet snel een kopergravure gemaakt zal worden door leerlingen, terwijl wij er de spullen voor in huis hebben.
- 
-Gebruik van de microscoop, materiaal verzamelen, preparaten maken.
+ * Printplaten belichten en etsen (evt. een kopergravure met bijenwas en goedkoop printplaat materiaal, afdrukken maken.)
+
+ * Gebruik van de microscoop, materiaal verzamelen, preparaten maken.
  
 Licht en kleur, kleurenzien
  
