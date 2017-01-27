@@ -3,7 +3,7 @@
 # Natuur &amp; Techniek cursus bij DJOG op vrijdagavond.
 
 # Vind je het leuk, te weten hoe de wereld in elkaar zit? gezondheid, gedrag, natuur, duurzame energie?
-En vind je het leuk, zelf te doen, te maken en onderzoeken?
+#En vind je het leuk, zelf te doen, te maken en onderzoeken?
  
 #........dan kan je natuurlijk braaf blijven wachten totdat deze onderwerpen eindelijk aan bod komen in de klas, of nog later, tijdens studie of werk...... 
  
