@@ -11,33 +11,33 @@ Dat kan op vrijdagavond bij De Jonge Onderzoekers aan de Dirk Huizingastraat. Da
 We gaan bijvoorbeeld aan de slag met:
 
 * Stroomkring en elektriciteit
-* Variabele weerstanden: sensoren voor licht, temperatuur
+* Scheikunde, atomen en moleculen
+* Sterrenkunde
+* DNA, erfelijkheid en biotechnologie
+* Vingerafdrukken zichtbaar maken met superlijm (CSI)
 * Aerodynamica en stromingsleer, vleugelprofiel, stroomlijnlichaam, vliegen. Toepassing op techniek en op de levende natuur.
 * Hefbomen en katrollen, hijsen.
 * Spagettibrug ontwerpen en bouwen, welke kan de hoogste belasting aan voor bezwijken?
 * Hydrauliek; verschillende maten injectiespuiten met slang koppelen.
-* Motoren: de heteluchtmotor van DJO, elektromotor.
-* Elektrolyse en verkoperen.
+* Motoren: heteluchtmotor, elektromotor.
 * Magneten, elektromagneten, spoelen, inductie, transformator
 * Printplaten belichten en etsen (evt. een kopergravure met bijenwas en goedkoop printplaatmateriaal, afdrukken maken.)
 * Gebruik van de microscoop, materiaal verzamelen, preparaten maken.
+* Gebruik van de spectrofotometer
 * Licht en kleur, kleurenzien
 * Optische illusies
 * Pollenanalyse (stuifmeelkorrels)
-* Gebruik van de PCR-machine
 * Bacteriegroei op petrischalen, gebruik van de broedstoof.
 * Nuttige micro-organismen bij voedselbereiding; gisting, deeg rijzen, zuurkool maken.
 * Kaas en yoghurt maken.
+* Gebruik van de PCR-machine
 * Slow cooking.
 * Lenzen en licht, zelf bouwen van telescoop, microscoop, camera.
 * Trillingen, golven en geluid, muziekinstrumenten.
 * Onzichtbaar licht, foto, video en communicatie.
-* Scheikunde, atomen en moleculen
-* Sterrenkunde
-* DNA, erfelijkheid en biotechnologie
-* Gebruik van de spectrofotometer
-* Vingerafdrukken zichtbaar maken met superlijm (CSI)
+* Variabele weerstanden: sensoren voor licht, temperatuur
 * Solderen en hardsolderen, waterleidingbuizen solderen.
+* Elektrolyse en verkoperen.
 * Elektrisch lassen
 * Goede verbindingen maken met verschillende soorten lijm.
 
