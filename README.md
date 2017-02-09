@@ -1,84 +1,61 @@
-# N-T-cursus-DJOG
+# Natuur & Techniek-cursus
 
-# Natuur &amp; Techniek cursus bij DJOG op vrijdagavond.
+![djogkleiner](https://cloud.githubusercontent.com/assets/25673660/22806842/50171992-ef24-11e6-89bc-607339c92c05.png)
 
-# Vind je het leuk, te weten hoe de wereld in elkaar zit? gezondheid, gedrag, natuur, duurzame energie?
-#En vind je het leuk, zelf te doen, te maken en onderzoeken?
- 
-#........dan kan je natuurlijk braaf blijven wachten totdat deze onderwerpen eindelijk aan bod komen in de klas, of nog later, tijdens studie of werk...... 
- 
-#.........of je zegt: dat ga ik nu doen, op mijn niveau, omdat ik het wil!
- 
-##Dat kan op vrijdagavond bij De Jonge Onderzoekers aan de Dirk Huizingastraat.
- 
-##Op vrijdagavond vind je makende en onderzoekende jonge mensen met ervaren makers en onderzoekers op allerlei gebied.
- 
-##ij pakken iedere vrijdagavond een of meer onderwerpen op, je kan ook zelf onderwerpen voorstellen.
- 
-##We gaan bijvoorbeeld aan de slag met:
- 
- * Aerodynamica en stromingsleer, vleugelprofiel, stroomlijnlichaam, vliegen. Toepassing op techniek en op de levende natuur.
- 
- * Hefbomen en katrollen, hijsen.
- 
- * Spagettibrug ontwerpen en bouwen, welke kan de hoogste belasting aan voor bezwijken?
- 
- * Hydrauliek; verschillende maten injectiespuiten met slang koppelen.
- 
- * Motoren: de heteluchtmotor van DJO, elektromotor.
- 
- * Stroomkring elektriciteit
- 
- * Serieschakeling kerstlampjes, spanningsdeler
- 
- * Variabele weerstanden: sensoren voor licht, temperatuur.
- 
- * Gelijkstroom en wisselstroom (2 kleuren LEDjes, condensator)
- 
- * Elektriciteit zelf opwekken.
- 
- * Elektrolyse en verkoperen.
- 
- * Magneten, elektromagneten, spoelen, inductie, transformator
- 
- * Printplaten belichten en etsen (evt. een kopergravure met bijenwas en goedkoop printplaat materiaal, afdrukken maken.)
+Ben je tussen de 8 en de 18 jaar oud en vind je het leuk om te weten hoe de wereld in elkaar zit? Zoals je lichaam en gezondheid, natuurverschijnselen en (duurzame) energie? En vind je het leuk om zelf dingen te doen, te maken en te onderzoeken? Dan kan je natuurlijk braaf blijven wachten totdat deze onderwerpen eindelijk aan bod komen in de klas, of nog later, tijdens studie of werk...
 
- * Gebruik van de microscoop, materiaal verzamelen, preparaten maken.
- 
- * Licht en kleur, kleurenzien
- 
- * Optische illusies
- 
- * Pollenanalyse (stuifmeelkorrels)
- 
- * Gebruik van de PCR machine
- 
- * Bacteriegroei op petrischalen, gebruik van de broedstoof, microscopie.
- 
- * Nuttige micro-organismen bij voedselbereiding, gist, deeg rijzen, zuurkool maken.
- 
- * Kaas en yoghurt maken.
- 
- * Slow cooking.
- 
- * Lenzen en licht, zelf bouwen van telescoop, microscoop, camera.
- 
- * Trillingen, golven en geluid, muziekinstrumenten.
- 
- * Onzichtbaar licht, foto, video en communicatie.
- 
- * Scheikunde, nanotechnologie?
- 
- * Gebruik van de eenvoudige spectrofotometer, de Vitatron extinctiemeter bij bijvoorbeeld wateronderzoek, oppervlakte water
- 
- * Gebruik van de geavanceerde UV-VIS spectrofotometer, spectrum witte LED.
- 
- * Vingerafdrukken zichtbaar maken met superlijm (CSI)
- 
- * Solderen en hardsolderen, waterleidingbuizen solderen.
- 
- * Elektrisch lassen
- 
- * Goede verbindingen maken met verschillende soorten lijm.
+....of je zegt: dat ga ik *nu* doen, op mijn niveau, omdat ik het wil!
 
+Dat kan op vrijdagavond bij De Jonge Onderzoekers aan de Dirk Huizingastraat. Daar vind je makende en onderzoekende jonge mensen met ervaren makers en onderzoekers op allerlei gebied. Wij pakken iedere vrijdagavond een of meer onderwerpen op, en je kan ook zelf onderwerpen voorstellen.
 
+We gaan bijvoorbeeld aan de slag met:
+
+* Stroomkring en elektriciteit
+* Variabele weerstanden: sensoren voor licht, temperatuur
+* Aerodynamica en stromingsleer, vleugelprofiel, stroomlijnlichaam, vliegen. Toepassing op techniek en op de levende natuur.
+* Hefbomen en katrollen, hijsen.
+* Spagettibrug ontwerpen en bouwen, welke kan de hoogste belasting aan voor bezwijken?
+* Hydrauliek; verschillende maten injectiespuiten met slang koppelen.
+* Motoren: de heteluchtmotor van DJO, elektromotor.
+* Elektrolyse en verkoperen.
+* Magneten, elektromagneten, spoelen, inductie, transformator
+* Printplaten belichten en etsen (evt. een kopergravure met bijenwas en goedkoop printplaatmateriaal, afdrukken maken.)
+* Gebruik van de microscoop, materiaal verzamelen, preparaten maken.
+* Licht en kleur, kleurenzien
+* Optische illusies
+* Pollenanalyse (stuifmeelkorrels)
+* Gebruik van de PCR-machine
+* Bacteriegroei op petrischalen, gebruik van de broedstoof.
+* Nuttige micro-organismen bij voedselbereiding; gisting, deeg rijzen, zuurkool maken.
+* Kaas en yoghurt maken.
+* Slow cooking.
+* Lenzen en licht, zelf bouwen van telescoop, microscoop, camera.
+* Trillingen, golven en geluid, muziekinstrumenten.
+* Onzichtbaar licht, foto, video en communicatie.
+* Scheikunde, atomen en moleculen
+* Sterrenkunde
+* DNA, erfelijkheid en biotechnologie
+* Gebruik van de spectrofotometer
+* Vingerafdrukken zichtbaar maken met superlijm (CSI)
+* Solderen en hardsolderen, waterleidingbuizen solderen.
+* Elektrisch lassen
+* Goede verbindingen maken met verschillende soorten lijm.
+
+## Praktische info:
+
+* Dag: Elke vrijdagavond, behalve op feestdagen en in de kerstvakantie
+* Tijd: 
+   * 17.45: inloop
+   * 18:00: start les
+   * 19:00: pauze
+   * 19:15: start les
+   * 20:00: einde les
+* Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
+* Kosten per leerling:
+  * 20 euro per kwartaal
+* Leeftijd: 8-18 jaar
+* Benodigdheden: Doorgaans niks, maar als je een laptop met WiFi hebt, kun je die altijd meenemen voor de zekerheid
+
+Opgeven kan via info@dejongeonderzoekers.nl
+
+Of kom eerst een keertje vrijblijvend kijken om te zien hoe het gaat. We staan je graag te woord buiten de lestijden om.
