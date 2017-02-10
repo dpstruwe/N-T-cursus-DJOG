@@ -17,7 +17,7 @@ We gaan bijvoorbeeld aan de slag met:
 * Vingerafdrukken zichtbaar maken met superlijm (CSI)
 * Aerodynamica en stromingsleer, vleugelprofiel, stroomlijnlichaam, vliegen. Toepassing op techniek en op de levende natuur.
 * Hefbomen en katrollen, hijsen.
-* Spagettibrug ontwerpen en bouwen, welke kan de hoogste belasting aan voor bezwijken?
+* Spaghettibrug ontwerpen en bouwen, welke kan de hoogste belasting aan voor bezwijken?
 * Hydrauliek; verschillende maten injectiespuiten met slang koppelen.
 * Motoren: heteluchtmotor, elektromotor.
 * Magneten, elektromagneten, spoelen, inductie, transformator
