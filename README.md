@@ -45,7 +45,7 @@ We gaan bijvoorbeeld aan de slag met:
 
 ## Praktische info:
 
-* Dag: Elke vrijdagavond, behalve op feestdagen en in de kerstvakantie
+* Dag: Elke vrijdagavond, vanaf 3-3-2017 (behalve op feestdagen en in de kerstvakantie)
 * Tijd: 
    * 17.45: inloop
    * 18:00: start les
