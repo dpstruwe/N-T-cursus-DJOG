@@ -6,7 +6,7 @@ Ben je tussen de 8 en de 18 jaar oud en vind je het leuk om te weten hoe de were
 
 ....of je zegt: dat ga ik *nu* doen, op mijn niveau, omdat ik het wil!
 
-Dat kan op vrijdagavond bij De Jonge Onderzoekers aan de Dirk Huizingastraat. Daar vind je makende en onderzoekende jonge mensen met ervaren makers en onderzoekers op allerlei gebied. Wij pakken iedere vrijdagavond een of meer onderwerpen op, en je kan ook zelf onderwerpen voorstellen.
+Dat kan op vrijdagavond bij De Jonge Onderzoekers aan de Dirk Huizingastraat. Daar vind je makende en onderzoekende jonge mensen met ervaren makers en onderzoekers op allerlei gebied. Of je nu nog op de basisschool zit of al op het voortgezet onderwijs maakt niet uit, we leren met elkaar en van elkaar. We pakken iedere vrijdagavond een of meer onderwerpen op, en je kan ook zelf onderwerpen voorstellen.
 
 We gaan bijvoorbeeld aan de slag met:
 
