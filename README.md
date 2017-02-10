@@ -61,3 +61,5 @@ We gaan bijvoorbeeld aan de slag met:
 Opgeven kan via info@dejongeonderzoekers.nl
 
 Of kom eerst een keertje vrijblijvend kijken om te zien hoe het gaat. We staan je graag te woord buiten de lestijden om.
+
+(Kijk [hier](Rooster.md) voor het voorlopige rooster).
