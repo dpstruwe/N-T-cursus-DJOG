@@ -41,6 +41,8 @@ We gaan bijvoorbeeld aan de slag met:
 * Elektrisch lassen
 * Goede verbindingen maken met verschillende soorten lijm.
 
+![science](https://cloud.githubusercontent.com/assets/25673660/22808370/d6e8732e-ef2b-11e6-9119-9c2a05962913.png)
+
 ## Praktische info:
 
 * Dag: Elke vrijdagavond, behalve op feestdagen en in de kerstvakantie
