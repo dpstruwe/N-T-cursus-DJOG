@@ -58,7 +58,7 @@ We gaan bijvoorbeeld aan de slag met:
 * Leeftijd: 8-18 jaar
 * Benodigdheden: Doorgaans niks, maar als je een laptop of tablet hebt, kun je die altijd meenemen voor de zekerheid. Ook kun je er zelf voor kiezen om een schriftje of klapper mee te nemen om aantekeningen te maken.
 
-Opgeven kan via info@dejongeonderzoekers.nl
+Opgeven kan via info@dejongeonderzoekers.nl (**Let op**: op dit moment nemen we even geen nieuwe deelnemers meer aan, maar bij belangstelling kunnen we je op de reservelijst plaatsen)
 
 Of kom eerst een keertje vrijblijvend kijken om te zien hoe het gaat. We staan je graag te woord buiten de lestijden om.
 
