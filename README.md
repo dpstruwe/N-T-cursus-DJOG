@@ -56,7 +56,7 @@ We gaan bijvoorbeeld aan de slag met:
 * Kosten per leerling:
   * 20 euro per semester
 * Leeftijd: 8-18 jaar
-* Benodigdheden: Doorgaans niks, maar als je een laptop of tablet hebt, kun je die altijd meenemen voor de zekerheid
+* Benodigdheden: Doorgaans niks, maar als je een laptop of tablet hebt, kun je die altijd meenemen voor de zekerheid. Ook kun je er zelf voor kiezen om een schriftje of klapper mee te nemen om aantekeningen te maken.
 
 Opgeven kan via info@dejongeonderzoekers.nl
 
