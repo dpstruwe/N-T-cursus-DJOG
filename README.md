@@ -60,7 +60,7 @@ We gaan bijvoorbeeld aan de slag met:
 
 [Hier](Rooster.md) vind je het rooster.
 
-Opgeven kan via info@dejongeonderzoekers.nl *(**Let op**: op dit moment nemen we even geen nieuwe deelnemers meer aan, maar bij belangstelling kunnen we je op de reservelijst plaatsen)*
+Opgeven kan via info@dejongeonderzoekers.nl (**Let op**: op dit moment nemen we even geen nieuwe deelnemers meer aan, maar bij belangstelling kunnen we je op de wachtlijst plaatsen)
 
 Kom gerust een keertje kijken om te zien hoe het gaat. We staan je graag te woord buiten de lestijden om.
 
