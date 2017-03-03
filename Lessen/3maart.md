@@ -1,0 +1,5 @@
+#Eerste uur
+Na een voorstelrondje zijn de verschillen tussen de vakken biologie, natuurkunde, scheikunde en techniek besproken. Biologie gaat over de levende natuur (zoals dieren, ons lichaam, cellen), natuurkunde gaat over de (niet-levende) natuurverschijnselen om ons heen (zoals wind, elektriciteit, licht, zwaartekracht), en scheikunde gaat over stoffen (zoals water, suiker, zout) en hoe die met elkaar reageren. Onder techniek vallen dingen als solderen, lijmen, tandwielen, of bijvoorbeeld het maken/in elkaar zetten van apparaten. Het onderscheid tussen al deze vakken is niet altijd even duidelijk: sommige dingen vallen onder meerdere vakken. Bijvoorbeeld de werking van onze ogen: dit is zowel biologie (ze leven) als natuurkunde (ze gebruiken licht en lenzen om een beeld te vormen).
+
+#Tweede uur
+In het tweede uur hebben de cursisten zelf een apparaat gemaakt om statische elektriciteit te meten. Hiermee kun je bijvoorbeeld laten zien dat een plastic buis of ballon die je over een trui wrijft, elektrisch (statisch) geladen wordt. De twee stukjes aluminiumfolie in de pot gaan dan uit elkaar bewegen.
