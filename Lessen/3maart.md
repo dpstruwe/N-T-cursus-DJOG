@@ -3,4 +3,4 @@ Na een voorstelrondje zijn de verschillen tussen de vakken biologie, natuurkunde
 ![NatuurTechniek](https://github.com/dpstruwe/N-T-cursus-DJOG/blob/master/Lessen/poster.jpg)
 
 # Tweede uur
-In het tweede uur hebben de cursisten zelf een apparaat gemaakt om statische elektriciteit te meten. Hiermee kun je bijvoorbeeld laten zien dat een plastic buis of ballon die je over een trui wrijft, elektrisch (statisch) geladen wordt. De twee strookjes aluminiumfolie in de pot gaan dan uit elkaar bewegen als je het apparaat bij de buis houdt. Dit komt doordat ze negatief geladen worden en de negatief geladen deeltjes in het folie stoten elkaar af.
+In het tweede uur hebben de cursisten zelf een apparaat gemaakt om statische elektriciteit te meten (een elektroscoop). Hiermee kun je bijvoorbeeld laten zien dat een plastic buis of ballon die je over een trui wrijft, elektrisch (statisch) geladen wordt. De twee strookjes aluminiumfolie in de pot gaan dan uit elkaar bewegen als je het apparaat bij de buis houdt. Dit komt doordat ze negatief geladen worden en de negatief geladen deeltjes in het folie stoten elkaar af.
