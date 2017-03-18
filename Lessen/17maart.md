@@ -7,3 +7,5 @@ Aan het einde van de les hebben de cursisten nog wat geleerd over moleculen. Eer
 
 Tot slot mochten de cursisten nog zelf een molecuul bouwen met de molecuulbouwdoos, namelijk een alcoholmolecuul. Hiervoor hadden ze 2 koolstofatomen, 1 zuurstofatoom en 6 waterstofatomen nodig. Het bleek dat je hiermee twee verschillende moleculen kon maken: naast alcohol ook nog een andere stof (dimethylether).
 ![alcohol](alcohol.png)
+
+*Een alcoholmolecuul. De zwarte bolletjes zijn koolstofatomen, het rode bolletje is een zuurstofatoom en de witte bolletjes zijn waterstofatomen.*
