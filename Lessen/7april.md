@@ -1,4 +1,4 @@
-Tijdens deze les is de groep opgesplitst in twee kleinere groepjes, waarbij elke groep begon met een ander onderwerp. Na de pauze werd er gewisseld zodat iedereen uiteindelijk hetzelfde heeft gedaan.
+Tijdens deze les is de groep opgesplitst in twee kleinere groepjes, waarbij elk groepje begon met een ander onderwerp. Na de pauze werd er gewisseld zodat iedereen uiteindelijk hetzelfde heeft gedaan.
 
 # Microscopie
 Er werd een korte, basale inleiding gegeven over microscopie, waarbij werd verteld wat je kon zien en hoe je met een microscoop om moet gaan. Daarna konden de cursisten zelf in tweetallen aan de slag met een microscoop, waarbij ze ook zelf preparaten hebben gemaakt die ze konden bekijken. Ze hebben onder andere gekeken naar uiencellen en aardappelcellen. Ook hebben ze met stereomicroscopen naar grotere objecten gekeken, zoals insecten.
