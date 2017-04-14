@@ -1,0 +1,2 @@
+# Microscopie
+Deze les was een vervolg op de vorige les over microscopie. De cursisten hebben buiten bij en in de vijver watermonsters en andere materialen verzameld om te bekijken onder de microscopen. Zo konden ze onder andere watervlooien (met eitjes!) zien en zelfs enkele bacteriën. Ook hebben sommigen nog hun eigen wangslijmcellen bekeken. Aan het einde werd nog een soort quizje gedaan over de 'moeilijke woorden' die ze geleerd hadden die bij microscoperen belangrijk zijn.
