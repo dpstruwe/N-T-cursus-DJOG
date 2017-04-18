@@ -11,3 +11,4 @@ Wanneer|Wie|Wat
 31 maart|Jeffrey Bout|[Sterrenkunde: Mars](/Lessen/31maart.md)
 7 april|Peter, Bas en Jolien|[Microscopie + Slingerproef](/Lessen/7april.md)
 14 april|Peter en Bas|[Microscopie (vervolg)](/Lessen/14april.md)
+21 april|Peter en Bas|Wiskunde + Elektromagneet maken
