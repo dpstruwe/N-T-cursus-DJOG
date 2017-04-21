@@ -3,7 +3,7 @@ Tijdens deze les leerden de cursisten dat het bij wiskunde zeker niet alleen maa
 
 ![figuur](figuur.png)
 
-De oplossing zit hem in het feit dat de grote driehoek, die bestaat uit de andere gekleurde figuren, eigenlijk geen driekhoek is. Als je er een liniaal langs legt, zie je dat er een knik in de schuine zijde zit op de plek waar de kleine gekleurde driehoeken elkaar raken. Het is dus eigenlijk een vorm van gezichtsbedrog.
+De oplossing zit hem in het feit dat de grote driehoek, die bestaat uit de andere gekleurde figuren, eigenlijk geen driehoek is. Als je er een liniaal langs legt, zie je dat er een knik in de schuine zijde zit op de plek waar de kleine gekleurde driehoeken elkaar raken. Het is dus eigenlijk een vorm van gezichtsbedrog.
 
 Ook moesten de cursisten nog het raadsel van de 7 bruggen van Koningsbergen oplossen, waarbij het de vraag was of het mogelijk is om alle 7 bruggen tijdens een wandeling slechts één keer over te steken. Door een schematische afbeelding te maken van de situatie, een zogeheten graaf, wordt het iets makkelijker om te bepalen of dit mogelijk is. Maar het kostte de beroemde wiskundige Leonhard Euler destijds al de nodige moeite om hier een wiskundig bewijs voor te vinden.
 
