@@ -1,5 +1,5 @@
 # Eerste uur
-Tijdens deze les leerden de cursisten dat het bij wiskunde zeker niet alleen maar om rekenen en formules draait. Met alleen maar afbeeldingen kun je - zonder te rekenen - toch aan wiskunde doen, door logisch na te denken en verder te kijken dan je neus lang is. Zo moesten de cursisten ontdekken hoe het komt dat in de onderstaande afbeelding er ineens een vakje overblijft, wat uit het niets lijkt te komen.
+Tijdens deze les leerden de cursisten dat het bij wiskunde zeker niet alleen maar om rekenen en formules draait. Met alleen afbeeldingen kun je - zonder te rekenen - toch aan wiskunde doen, door logisch na te denken en verder te kijken dan je neus lang is. Zo moesten de cursisten ontdekken hoe het komt dat in de onderstaande afbeelding er ineens een vakje overblijft, wat uit het niets lijkt te komen.
 
 ![figuur](figuur.png)
 
