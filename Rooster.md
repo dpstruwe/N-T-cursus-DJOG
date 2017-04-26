@@ -12,3 +12,5 @@ Wanneer|Wie|Wat
 7 april|Peter, Bas en Jolien|[Microscopie + Slingerproef](/Lessen/7april.md)
 14 april|Peter en Bas|[Microscopie (vervolg)](/Lessen/14april.md)
 21 april|Peter, Bas en Jolien|[Wiskunde + Elektromagneet maken](/Lessen/21april.md)
+28 april|Peter, ...|?
+5 mei|Gesloten|Geen les!
