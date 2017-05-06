@@ -14,4 +14,4 @@ Wanneer|Wie|Wat
 21 april|Peter, Bas en Jolien|[Wiskunde + Elektromagneet maken](/Lessen/21april.md)
 28 april|Peter en Bas|[Elektromotor maken](/Lessen/28april.md)
 5 mei|Gesloten|Geen les!
-12 mei|Peter, Bas, ...|Dichtheid + ...
+12 mei|Peter, Bas en Maria|Dichtheid en Archimedes
