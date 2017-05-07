@@ -15,3 +15,5 @@ Wanneer|Wie|Wat
 28 april|Peter en Bas|[Elektromotor maken](/Lessen/28april.md)
 5 mei|Gesloten|Geen les!
 12 mei|Peter, Bas en Maria|Dichtheid en Archimedes
+19 mei|?|?
+26 mei|Ynze van der Spek|Luidsprekertje maken, geluid en inductie
