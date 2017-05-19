@@ -6,4 +6,6 @@ Tijdens deze les hebben de cursisten verschillende kleurstoffen (stiften, printe
 
 ![papierchromatografie](chromatografie.JPG)
 
+*(Een voorbeeld van papierchromatografie)*
+
 Tot slot werd nog gedemonstreerd dat je (karne)melk met een zeer snelle centrifuge kunt scheiden in een kleurloos, waterig deel en een dikkig, wit deel wat grotendeels bestaat uit eiwitten en vet.
