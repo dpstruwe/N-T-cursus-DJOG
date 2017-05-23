@@ -17,4 +17,4 @@ Wanneer|Wie|Wat
 12 mei|Peter, Bas en Maria|[Dichtheid en Archimedes](/Lessen/12mei.md)
 19 mei|Peter, Bas en Maria|[Chromatografie en andere scheidingstechnieken](/Lessen/19mei.md)
 26 mei|Ynze van der Spek|Luidsprekertje maken, geluid en inductie
-2 juni|Jeffrey Bout|Sterrenkunde
+2 juni|Jeffrey Bout, Peter, Bas en Jolien?|Sterrenkunde, licht/optica en sterrenkijkers
