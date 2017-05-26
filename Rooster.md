@@ -16,5 +16,5 @@ Wanneer|Wie|Wat
 5 mei|Gesloten|Geen les!
 12 mei|Peter, Bas en Maria|[Dichtheid en Archimedes](/Lessen/12mei.md)
 19 mei|Peter, Bas en Maria|[Chromatografie en andere scheidingstechnieken](/Lessen/19mei.md)
-26 mei|Ynze van der Spek|Luidsprekertje maken, geluid en inductie
+26 mei|Ynze van der Spek|[Geluid en luidsprekertjes maken](/Lessen/26mei.md)
 2 juni|Jeffrey Bout en Jolien|Sterrenkunde: sterrenkijkers en sterren kijken + Optica (licht en lenzen)
