@@ -10,6 +10,6 @@ In het tweede uur leerden de cursisten hoe licht wordt afgebogen als het door ee
 
 *Dit grappige effect wordt veroorzaakt door de breking van het licht door het water*
 
-![prisma](prisma.png)
+![prisma](Prisma.png)
 
 *De breking van een (witte) lichtstraal door een prisma*
