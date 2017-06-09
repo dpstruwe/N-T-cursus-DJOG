@@ -12,6 +12,7 @@ De meeste elementen zijn ontstaan in sterren, door kernfusie. Vlak na de oerknal
 *De tijdlijn van de vorming van het heelal. Het element waterstof is vlak na de oerknal (Big Bang) gevormd, de meeste andere elementen pas na het ontstaan van de eerste sterren.*
 
 Link naar een filmpje over het Periodiek Systeem: http://ntracademie.nl/clips/clip/show/188-periodiek-systeem.html
+
 Een digitale versie van het Periodiek Systeem, met een beschrijving van alle elementen, kan je vinden op: http://periodieksysteem.com
 
 # Tweede uur
