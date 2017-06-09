@@ -5,13 +5,14 @@ In het eerste uur werd uitgelegd wat moleculen, atomen en elementen zijn. Molecu
 
 *Het periodiek systeem*
 
-De meeste elementen zijn ontstaan in sterren, door kernfusie. Vlak na de oerknal was er bijna alleen waterstof, maar toen de eerste sterren ontstonden (na een paar honderd miljoen jaar) werd waterstof omgezet in helium en daarna, door zwaardere sterren, in zwaardere elementen. Omdat wij voor een belangrijk deel uit zwaardere elementen bestaan, zoals zuurstof en koolstof, kun je dus zeggen dat wij uit sterrenstof bestaan. De elementen die ons lichaam vormen zijn immers ooit in sterren gevormd, en toen deze sterren aan het eind van hun leven ontploften en al hun gassen het heelal in bliezen, konden hieruit weer nieuwe sterren en planeten zoals de Aarde onmtstaan.
+De meeste elementen zijn ontstaan in sterren, door kernfusie. Vlak na de oerknal was er bijna alleen waterstof, maar toen de eerste sterren ontstonden (na een paar honderd miljoen jaar) werd waterstof omgezet in helium en daarna, door zwaardere sterren, in zwaardere elementen. Omdat wij voor een belangrijk deel uit zwaardere elementen bestaan, zoals zuurstof en koolstof, kun je dus zeggen dat wij uit sterrenstof bestaan. De elementen die ons lichaam vormen zijn immers ooit in sterren gevormd, en toen deze sterren aan het eind van hun leven ontploften en al hun gassen het heelal in bliezen, konden hieruit weer nieuwe sterren en planeten zoals de Aarde ontstaan.
 
 ![Tijdlijn](tijdlijn.jpg)
 
 *De tijdlijn van de vorming van het heelal. Het element waterstof is vlak na de oerknal (Big Bang) gevormd, de meeste andere elementen pas na het ontstaan van de eerste sterren.*
 
 Link naar een filmpje over het Periodiek Systeem: http://ntracademie.nl/clips/clip/show/188-periodiek-systeem.html
+Een digitale versie van het Periodiek Systeem, met een beschrijving van alle elementen, kan je vinden op: http://periodieksysteem.com
 
 # Tweede uur
 Dit uur ging over krachten, katrollen en hefbomen. De cursisten hebben zelf met katrollen geprobeerd om allerlei gewichten op te tillen om zo te ervaren dat dat makkelijker gaat dan zonder katrollen. Dat komt doordat het gewicht door de katrollen verdeeld wordt over meerdere kabels. Hoe meer kabels (en dus hoe meer katrollen) je gebruikt, hoe lichter het wordt om iets op te tillen. Het is alleen wel zo dat hoe meer katrollen je gebruikt, hoe langzamer je het gewicht omhoog trekt. Het kost je dus minder kracht, maar je moet wel vaker trekken waardoor het langer duurt. Op deze manier kan je zelfs hele zware voorwerpen, zoals een auto, in je eentje omhoog hijsen. Als je maar genoeg katrollen en genoeg touw gebruikt. Hijskranen werken ook volgens dit principe.
