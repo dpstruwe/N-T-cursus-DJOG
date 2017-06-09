@@ -18,4 +18,5 @@ Wanneer|Wie|Wat
 19 mei|Peter, Bas en Maria|[Chromatografie en andere scheidingstechnieken](/Lessen/19mei.md)
 26 mei|Ynze van der Spek|[Geluid en luidsprekertjes maken](/Lessen/26mei.md)
 2 juni|Jeffrey Bout en Jolien|[Sterrenkunde: sterrenkijkers en sterren kijken + Optica (licht en lichtbreking)](/Lessen/2juni.md)
-9 juni|Bas en Peter|Het periodiek systeem: atomen en elementen + Krachten: hefbomen en katrollen
+9 juni|Peter en Bas|[Het periodiek systeem: moleculen, atomen en elementen + Krachten: hefbomen en katrollen](/Lessen/9juni.md)
+16 juni|Peter en Bas|DNA: wat is het en wat kan je ermee? + ...
