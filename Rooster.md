@@ -19,4 +19,4 @@ Wanneer|Wie|Wat
 26 mei|Ynze van der Spek|[Geluid en luidsprekertjes maken](/Lessen/26mei.md)
 2 juni|Jeffrey Bout en Jolien|[Sterrenkunde: sterrenkijkers en sterren kijken + Optica (licht en lichtbreking)](/Lessen/2juni.md)
 9 juni|Peter en Bas|[Het periodiek systeem: moleculen, atomen en elementen + Krachten: hefbomen en katrollen](/Lessen/9juni.md)
-16 juni|Peter en Bas|DNA: wat is het en wat kan je ermee? + ...
+16 juni|Bas en Jolien|DNA: wat is het en wat kan je ermee? + Experimenteren met knettersuiker
