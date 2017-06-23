@@ -7,6 +7,8 @@ De eerste les ging over micro-organismen, ofwel levende wezens die alleen zichtb
 
 Bacteriën en gisten kunnen soms schadelijk zijn, maar ze kunnen voor ons ook erg nuttig zijn. We kunnen ze namelijk gebruiken voor het maken van bepaalde voedselproducten. Zo worden yoghurt en zuurkool gemaakt met melkzuurbacteriën, die suikers omzetten in melkzuur waardoor je een zure smaak krijgt. En gist wordt gebruikt om alcohol te maken uit suikers, zoals bij wijn en bier. Ook brood wordt gemaakt met gist omdat het het deeg laat rijzen (doordat er koolzuurgas wordt gevormd).
 
+De cursisten hebben zelf een kweekje gemaakt van de bacteriën van hun vingers: eerst zonder wassen, daarna na wassen met alleen water, na wassen met zeep en ten slotte na het dopen van hun vinger in alcohol (wat bacteriën doodt). Na een week kunnen ze het resultaat bekijken.
+
 ![stamboom](stamboom.png)
 
 *De stamboom van het leven op aarde. Micro-organismen komen voor onder de bacteriën, archaebacteriën, algen, protisten en schimmels.*
