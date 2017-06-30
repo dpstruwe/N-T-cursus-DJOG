@@ -21,4 +21,4 @@ Wanneer|Wie|Wat
 9 juni|Peter en Bas|[Het periodiek systeem: moleculen, atomen en elementen + Krachten: hefbomen en katrollen](/Lessen/9juni.md)
 16 juni|Bas, Jolien en Maria|[DNA: wat is het en wat kan je ermee? + Experimenten met knettersuiker en luiers](/Lessen/16juni.md)
 23 juni|Peter en Bas|[Micro-organismen + Stroom, spanning en spanningsval](/Lessen/23juni.md)
-30 juni|Peter en Bas|Chemische reacties + Transistoren
+30 juni|Peter, Bas en Maria|[Chemische reacties + Solderen](/Lessen/30juni.md)
