@@ -23,3 +23,5 @@ Wanneer|Wie|Wat
 23 juni|Peter en Bas|[Micro-organismen + Stroom, spanning en spanningsval](/Lessen/23juni.md)
 30 juni|Peter, Bas en Maria|[Chemische reacties + Solderen](/Lessen/30juni.md)
 7 juli|Peter en Bas|Enzymen + Transistoren
+14 juli|?|?
+21 juli|Bert Otten|Experimenten met je lichaam + ...
