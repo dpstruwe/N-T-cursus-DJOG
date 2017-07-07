@@ -24,4 +24,4 @@ Wanneer|Wie|Wat
 30 juni|Peter, Bas en Maria|[Chemische reacties + Solderen](/Lessen/30juni.md)
 7 juli|Peter en Bas|[Enzymen + Vervolg solderen van transistorschakeling](/Lessen/7juli.md)
 14 juli|Peter en Bas|Vervolg solderen van transistorschakeling
-21 juli|Bert Otten|Experimenten met je lichaam (onder voorbehoud van aantal deelnemers)
+21 juli|Bert Otten|Experimenten met je lichaam (onder voorbehoud van voldoende deelnemers)
