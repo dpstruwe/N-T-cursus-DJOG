@@ -23,5 +23,5 @@ Wanneer|Wie|Wat
 23 juni|Peter en Bas|[Micro-organismen + Stroom, spanning en spanningsval](/Lessen/23juni.md)
 30 juni|Peter, Bas en Maria|[Chemische reacties + Solderen](/Lessen/30juni.md)
 7 juli|Peter en Bas|[Enzymen + Vervolg solderen van transistorschakeling](/Lessen/7juli.md)
-14 juli|Peter en Bas|Vervolg solderen van transistorschakeling
+14 juli|Peter|[Vervolg solderen van transistorschakeling](/Lessen/14juli.md)
 21 juli|Bert Otten|Experimenten met je lichaam (onder voorbehoud van voldoende deelnemers)
