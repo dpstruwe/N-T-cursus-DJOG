@@ -1,0 +1,3 @@
+# Solderen van een transistorschakeling
+
+Tijdens deze les hebben de cursisten hun eigen transistorschakeling gesoldeerd. Een transistor is een elektronische component (een onderdeel uit elektrische apparatuur) die een kleine elektrische stroom kan versterken. De cursisten hebben hun schakeling zo gemaakt dat een hele kleine stroom die bijvoorbeeld door hun vinger loopt, door de transistor zo versterkt wordt dat er een ledlampje gaat branden. Een kleine aanraking op een bepaalde plek zorgt er dus voor dat er voldoende stroom gaat lopen om het ledje te laten branden. Dit is een van de eenvoudigste toepassingen van een transistor.
