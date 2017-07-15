@@ -1,6 +1,6 @@
 # Rooster
 
-Ons voorlopige lesrooster, onderhevig aan veranderingen
+## Seizoen 1
 
 Wanneer|Wie|Wat
 ---|---|---
@@ -25,3 +25,9 @@ Wanneer|Wie|Wat
 7 juli|Peter en Bas|[Enzymen + Vervolg solderen van transistorschakeling](/Lessen/7juli.md)
 14 juli|Peter|[Vervolg solderen van transistorschakeling](/Lessen/14juli.md)
 21 juli|Peter en Bas|Evaluatie, vooruitblik op nieuwe seizoen + Keuzeprogramma
+
+## Seizoen 2
+
+Wanneer|Wie|Wat
+---|---|---
+8 september|Peter en Bas|Introductie nieuwe seizoen
