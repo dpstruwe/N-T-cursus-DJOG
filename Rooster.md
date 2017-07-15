@@ -28,6 +28,8 @@ Wanneer|Wie|Wat
 
 ## Seizoen 2
 
+Het voorlopige rooster
+
 Wanneer|Wie|Wat
 ---|---|---
 8 september|Peter en Bas|Introductie nieuwe seizoen
