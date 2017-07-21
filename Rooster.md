@@ -1,5 +1,14 @@
 # Rooster
 
+## Seizoen 2
+
+Het voorlopige rooster voor het nieuwe seizoen
+
+Wanneer|Wie|Wat
+---|---|---
+8 september|Peter en Bas|Introductie nieuwe seizoen
+
+
 ## Seizoen 1
 
 Wanneer|Wie|Wat
@@ -26,10 +35,3 @@ Wanneer|Wie|Wat
 14 juli|Peter|[Vervolg solderen van transistorschakeling](/Lessen/14juli.md)
 21 juli|Peter, Bas en Jolien|[Evaluatie + Solderen](/Lessen/21juli.md)
 
-## Seizoen 2
-
-Het voorlopige rooster
-
-Wanneer|Wie|Wat
----|---|---
-8 september|Peter en Bas|Introductie nieuwe seizoen
