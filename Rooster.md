@@ -6,8 +6,9 @@ Het voorlopige rooster voor het nieuwe seizoen
 
 Wanneer|Wie|Wat
 ---|---|---
-8 september|Peter en Bas|Introductie nieuwe seizoen + Gebruik van Japanse trekzaag
-15 september|Bert Otten|Experimenten met je lichaam
+8 september|Peter|[Gebruik van de Japanse trekzaag](/Lesssen/8september.md)
+15 september|Bert Otten en Peter|Experimenten met je lichaam + Soldeerexperiment
+22 september|Richel en ?|DNA en stambomen + ...
 
 
 ## Seizoen 1
