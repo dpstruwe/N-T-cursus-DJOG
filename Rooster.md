@@ -11,6 +11,7 @@ Wanneer|Wie|Wat
 22 september|Richel en ?|DNA en stambomen + ...
 .|.|
 3 november|Bas Dam|Geologie: vulkanisme en gesteenten
+10 november|Jeffrey Bout|Sterrenkunde: tijd in het heelal
 
 
 ## Seizoen 1
