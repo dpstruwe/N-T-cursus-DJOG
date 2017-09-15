@@ -7,7 +7,7 @@ Het voorlopige rooster voor het nieuwe seizoen
 Wanneer|Wie|Wat
 ---|---|---
 8 september|Peter|[Gebruik van de Japanse zaag](/Lessen/8september.md)
-15 september|Bert Otten en Peter|Experimenten met je lichaam + Soldeerexperiment
+15 september|Bert Otten en Peter|[Experimenten met je lichaam + Soldeerexperiment](/Lessen/15september.md)
 22 september|Richel en ?|DNA en stambomen + ...
 .|.|
 3 november|Bas Dam|Geologie: vulkanisme en gesteenten
