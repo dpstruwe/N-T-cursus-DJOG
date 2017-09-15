@@ -1,0 +1,7 @@
+# Eerste uur
+In het eerste uur werd uitgelegd hoe onze hersenen en ons lichaam samenwerken om alle bewegingen goed uit te kunnen voeren. Ook de soepelheid van ons lichaam speelt hierbij een belangrijke rol (robots bewegen bijvoorbeeld lang niet zo goed als wij, mede doordat ze zo stijf gebouwd zijn). We denken ook niet na over onze bewegingen, het meeste gaat automatisch, juist doordat onze hersenen er niet of nauwelijks aan meedoen. Dit is zeker ook voor (top)sporters het geval.
+
+Na de uitleg hebben de cursisten een aantal experimenten gedaan met hun lichaam. Zo hebben ze onder andere ervaren wat er gebeurt als je iets zwaars en iets lichts tegelijk snel optilt, hoe moeilijk het eigenlijk is om op een smal richeltje te balanceren en hoe je dat het beste kunt doen, en hoe lastig je vanaf een foto van je eigen rug kunt aangeven op welke plek je precies bent aangeraakt.
+
+# Tweede uur
+In dit tweede uur hebben de cursisten meer geleerd over de werking van hars in soldeertin en waarom je dit precies nodig hebt. Zonder hars vloeit de soldeer niet goed uit en blijft het niet goed vast zitten aan het werkstuk. Een beetje vergelijkbaar met een waterdruppel die je op een glad bord laat vallen: die blijft een bolletje doordat de waterdeeltjes elkaar stevig aantrekken. Wanneer je eerst wat zeep op het bord smeert, vloeit de waterdruppel uit tot een klein plasje en blijft daardoor veel beter aan het bord kleven. Net zoals de hars in het soldeer ervoor zorgt dat het soldeer beter uitvloeit en dus goed vast blijft zitten.
