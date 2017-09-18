@@ -10,6 +10,8 @@ Wanneer|Wie|Wat
 15 september|Bert Otten en Peter|[Experimenten met je lichaam + Soldeerexperiment](/Lessen/15september.md)
 22 september|Richel en Peter|Leren werken volgens een wetenschappelijk protocol + ...
 .|.|
+6 oktober|Maarten Loonen|Aanpassen aan de kou in de poolgebieden
+.|.|
 3 november|Bas Dam|Geologie: vulkanisme en gesteenten
 10 november|Jeffrey Bout|Sterrenkunde: tijd in het heelal
 
