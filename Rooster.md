@@ -8,7 +8,7 @@ Wanneer|Wie|Wat
 ---|---|---
 8 september|Peter|[Gebruik van de Japanse zaag](/Lessen/8september.md)
 15 september|Bert Otten en Peter|[Experimenten met je lichaam + Soldeerexperiment](/Lessen/15september.md)
-22 september|Richel en Peter|Leren werken volgens een wetenschappelijk protocol + ...
+22 september|Richel en Bas|Leren werken volgens een wetenschappelijk protocol + Experimenten met hartslag en bloeddruk
 .|.|
 6 oktober|Maarten Loonen|Aanpassen aan de kou in de poolgebieden
 .|.|
