@@ -14,6 +14,8 @@ Wanneer|Wie|Wat
 .|.|
 3 november|Bas Dam|Geologie: vulkanisme en gesteenten
 10 november|Jeffrey Bout|Sterrenkunde: tijd in het heelal
+.|.|
+1 december|Raymond Klaassen|Vogeltrek en datalogging
 
 
 ## Seizoen 1
