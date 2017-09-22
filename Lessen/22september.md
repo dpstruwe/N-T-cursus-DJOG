@@ -4,7 +4,7 @@ In dit eerste uur hebben de cursisten zelfstandig een zogeheten protocol gevolgd
 # Tweede uur
 Het tweede uur ging over het hart en de bloedsomloop. Er werd eerst wat uitleg gegeven over de werking van het hart en wat de grote de kleine bloedsomloop zijn. Het hart is eigenlijk een pomp die het bloed door het lichaam pompt, zodat de zuurstof die door het bloed wordt opgenomen in de longen zich door het hele lichaam kan verspreiden. De kleine bloedsomloop gaat van het hart naar de longen en weer terug, de grote bloedsomloop gaat vervolgens van het hart naar de rest van het lichaam en weer terug.
 
-![bloedsomloop](hart en bloedsomloop.png)
+![bloedsomloop](hart_en_bloedsomloop.png)
 
 *(De grote en de kleine bloedsomloop)*
 
