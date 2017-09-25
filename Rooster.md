@@ -9,13 +9,19 @@ Wanneer|Wie|Wat
 8 september|Peter|[Gebruik van de Japanse zaag](/Lessen/8september.md)
 15 september|Bert Otten en Peter|[Experimenten met je lichaam + Soldeerexperiment](/Lessen/15september.md)
 22 september|Richel en Bas|[Leren werken volgens een wetenschappelijk protocol + Experimenten met hartslag en bloeddruk](/Lessen/22september.md)
-.|.|
+29 september|.|.
 6 oktober|Maarten Loonen|Aanpassen aan de kou in de poolgebieden
-.|.|
+13 oktober|.|.
+20 oktober|.|.
+27 oktober|.|.
 3 november|Bas Dam|Geologie: vulkanisme en gesteenten
 10 november|Jeffrey Bout|Sterrenkunde: tijd in het heelal
-.|.|
+17 november|.|.
+24 november|.|.
 1 december|Raymond Klaassen|Vogeltrek en datalogging
+8 december|.|.
+15 december|.|.
+22 december|.|.
 
 
 ## Seizoen 1
