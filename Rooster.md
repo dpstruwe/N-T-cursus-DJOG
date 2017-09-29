@@ -9,7 +9,7 @@ Wanneer|Wie|Wat
 8 september|Peter|[Gebruik van de Japanse zaag](/Lessen/8september.md)
 15 september|Bert Otten en Peter|[Experimenten met je lichaam + Soldeerexperiment](/Lessen/15september.md)
 22 september|Richel en Bas|[Leren werken volgens een wetenschappelijk protocol + Experimenten met hartslag en bloeddruk](/Lessen/22september.md)
-29 september|Peter, Bas, Maria en anderen|Rondleiding universiteit: scheikunde en levenswetenschappen 
+29 september|Peter, Bas, Maria en anderen|[Rondleiding universiteit: scheikunde en levenswetenschappen](/Lessen/29september.md) 
 6 oktober|Maarten Loonen|Aanpassen aan de kou in de poolgebieden
 13 oktober|.|.
 20 oktober|.|.
