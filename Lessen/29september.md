@@ -1,0 +1,3 @@
+# Rondleiding bij Natuur & Scheikunde en Levenswetenschappen
+
+De cursisten hebben eerst een rondleiding gehad in een laboratorium waar onderzoek wordt gedaan aan onder andere zonnecellen. Ze mochten ook even zelf met hun handen in grote handschoenen die onderdeel waren van een speciale kast waarin geen zuurstof aanwezig was. Hier worden onderdelen in gemaakt die niet tegen zuurstof kunnen. Daarna hebben ze nog een rondleiding gekregen bij een afdeling waar onderzoek werd gedaan met proefdieren. Ze hebben ook een aantal kooien met ratten bekeken en uitleg gekregen over wat voor soort onderzoek er gedaan wordt.
