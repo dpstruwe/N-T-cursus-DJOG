@@ -16,7 +16,7 @@ Wanneer|Wie|Wat
 27 oktober|.|.
 3 november|Bas Dam|Geologie: vulkanisme en gesteenten
 10 november|Jeffrey Bout|Sterrenkunde: tijd in het heelal
-17 november|.|.
+17 november|Ynze van der Spek|Licht, kleur en kleurenzien
 24 november|.|.
 1 december|Raymond Klaassen|Vogeltrek en datalogging
 8 december|.|.
