@@ -12,7 +12,7 @@ Wanneer|Wie|Wat
 29 september|Peter, Bas, Maria en anderen|[Rondleiding universiteit: scheikunde en levenswetenschappen](/Lessen/29september.md) 
 6 oktober|Maarten Loonen|Aanpassen aan de kou in de poolgebieden
 13 oktober|.|.
-20 oktober|.|.
+20 oktober|Barteld Kooi|Logica
 27 oktober|.|.
 3 november|Bas Dam|Geologie: vulkanisme en gesteenten
 10 november|Jeffrey Bout|Sterrenkunde: tijd in het heelal
