@@ -45,7 +45,7 @@ We gaan bijvoorbeeld aan de slag met:
 
 ## Praktische info:
 
-* Dag: Elke vrijdagavond, vanaf 3-3-2017
+* Dag: Elke vrijdagavond (sinds 3-3-2017)
 * Tijd: 
    * 17.45: inloop
    * 18:00: start les
@@ -54,7 +54,7 @@ We gaan bijvoorbeeld aan de slag met:
    * 20:00: einde les
 * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
 * Kosten per leerling:
-  * 25 euro per semester
+  * 25 euro per semester (september-januari en februari-juni)
 * Leeftijd: 8-18 jaar
 
 [Hier](Rooster.md) vind je het rooster.
