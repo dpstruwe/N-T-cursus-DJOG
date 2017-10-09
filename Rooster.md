@@ -22,7 +22,7 @@ Wanneer|Wie|Wat
 8 december|.|.
 15 december|.|.
 22 december|.|.
-29 december|.|.
+29 december|*Gesloten*|*geen les*
 5 januari|.|.
 12 januari|.|.
 19 januari|.|.
