@@ -22,6 +22,11 @@ Wanneer|Wie|Wat
 8 december|.|.
 15 december|.|.
 22 december|.|.
+29 december|.|.
+5 januari|.|.
+12 januari|.|.
+19 januari|.|.
+26 januari|.|.
 
 
 ## Seizoen 1
