@@ -54,7 +54,7 @@ We gaan bijvoorbeeld aan de slag met:
    * 20:00: einde les
 * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
 * Kosten per leerling:
-  * 20 euro per semester
+  * 25 euro per semester
 * Leeftijd: 8-18 jaar
 
 [Hier](Rooster.md) vind je het rooster.
