@@ -14,7 +14,7 @@ Tijdens deze les werd geprobeerd om alcohol te destilleren uit een brouwsel van 
 # Demontage
 Het tweede deel van de les ging over demontage. Dat is het uit elkaar halen van bijvoorbeeld een apparaat zonder het kapot te maken. Na demontage kan een apparaat altijd weer in elkaar worden gezet. Bijvoorbeeld na een reparatie. De cursisten hebben zelf verschillende apparaten gedemonteerd en geleerd welke schroevendraaiers je hiervoor moet gebruiken.
 
-De twee belangrijkste soorten schroevendraaiers zijn de phillipsschroevendraaier (PH) (kruiskop) en de pozidrivschroevendraaier (PZ) (kruiskop met extra sterretje). Dit laatste type heeft vier extra ribben en past alleen op schroeven die extra gleuven hebben. De verschillen zijn te zien in de afbeelding hieronder.
+De twee belangrijkste soorten schroevendraaiers zijn de phillipsschroevendraaier (PH) (kruiskop) en de pozidrivschroevendraaier (PZ) (kruiskop met extra sterretje). Dit laatste type heeft vier extra ribben en past alleen op schroeven die extra gleuven hebben. Omgekeerd past de phillips alleen op een gewone kruiskopschroef. De verschillen zijn te zien in de afbeelding hieronder.
 
 ![schroevendraaiers](schroevendraaiers.jpg)
 
