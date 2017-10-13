@@ -16,3 +16,5 @@ De twee belangrijkste soorten schroevendraaiers zijn de phillipsschroevendraaier
 
 ![schroevendraaiers](schroevendraaiers.jpg)
 
+*(Links de phillips kruiskop en rechts de Pozidriv-schroef en bit)*
+
