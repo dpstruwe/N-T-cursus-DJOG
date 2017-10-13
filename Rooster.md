@@ -11,7 +11,7 @@ Wanneer|Wie|Wat
 22 september|Richel en Bas|[Leren werken volgens een wetenschappelijk protocol + Experimenten met hartslag en bloeddruk](/Lessen/22september.md)
 29 september|Peter, Bas, Maria en anderen|[Rondleiding universiteit: scheikunde en levenswetenschappen](/Lessen/29september.md) 
 6 oktober|Maarten Loonen en Peter|[Aanpassen aan de kou in het Poolgebied](/Lessen/6oktober.md)
-13 oktober|Peter en Bas|Lijmverbindingen maken en demontage + Destillatie
+13 oktober|Peter en Bas|[Destillatie + Demontage](/Lessen/13oktober.md)
 20 oktober|Barteld Kooi|Logica
 27 oktober|.|.
 3 november|Bas Dam|Geologie: vulkanisme en gesteenten
