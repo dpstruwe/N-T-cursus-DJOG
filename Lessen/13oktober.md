@@ -9,8 +9,10 @@ Het proces waarbij je op deze manier, dus met verdampen en weer condenseren, (vl
 
 ![destillatie](destillatie.jpg)
 
+Tijdens deze les werd geprobeerd om alcohol te destilleren uit een brouwsel van gist en suikerwater wat een week had staan gisten. Er werd een klein beetje heldere vloeistof opgevangen die sterk rook naar alcohol. Er zal dus zeker alcohol in hebben gezeten, maar om te weten hoeveel zou je verdere metingen moeten gaan doen.
+
 # Demontage
-Het tweede onderdeel van de les ging over demontage. Dat is het uit elkaar halen van bijvoorbeeld een apparaat zonder het kapot te maken. Na demontage kan een apparaat altijd weer in elkaar worden gezet. Bijvoorbeeld na een reparatie. De cursisten hebben zelf verschillende apparaten gedemonteerd en geleerd welke schroevendraaiers je hiervoor moet gebruiken.
+Het tweede deel van de les ging over demontage. Dat is het uit elkaar halen van bijvoorbeeld een apparaat zonder het kapot te maken. Na demontage kan een apparaat altijd weer in elkaar worden gezet. Bijvoorbeeld na een reparatie. De cursisten hebben zelf verschillende apparaten gedemonteerd en geleerd welke schroevendraaiers je hiervoor moet gebruiken.
 
 De twee belangrijkste soorten schroevendraaiers zijn de phillipsschroevendraaier (PH) (kruiskop) en de pozidrivschroevendraaier (PZ) (kruiskop met extra sterretje). Dit laatste type heeft vier extra ribben en past alleen op schroeven die extra gleuven hebben. De verschillen zijn te zien in de afbeelding hieronder.
 
