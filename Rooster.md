@@ -19,9 +19,9 @@ Wanneer|Wie|Wat
 17 november|Ynze van der Spek|Licht, kleur en kleurenzien
 24 november|Linda Kooijmans en Elise Broekema|Weer en klimaat(verandering)
 1 december|Raymond Klaassen|Vogeltrek en datalogging
-8 december|.|.
+8 december|Laura Govers|Bodemleven in de Waddenzee
 15 december|.|.
-22 december|.|.
+22 december|Bas|Vuurwerk en quantummechanica
 29 december|*Gesloten*|*geen les*
 5 januari|.|.
 12 januari|.|.
