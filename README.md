@@ -61,7 +61,7 @@ We gaan bijvoorbeeld aan de slag met:
 
 Opgeven kan via info@dejongeonderzoekers.nl *(Op dit moment zit de cursus vol. Je kunt eventueel op de wachtlijst worden geplaatst.)* 
 
-Kom gerust een keertje kijken om te zien hoe het gaat. We staan je graag te woord buiten de lestijden om.
+Kom gerust een keertje kijken om te zien hoe het gaat. Het is dan wel handig om ons dit van tevoren even te laten weten.
 
 ### Extra
 De flyer van de cursus: [download](flyer.pdf)
