@@ -59,7 +59,7 @@ We gaan bijvoorbeeld aan de slag met:
 
 [Hier](Rooster.md) vind je het rooster.
 
-Opgeven kan via info@dejongeonderzoekers.nl *(Op dit moment zit de cursus vol. Je kunt eventueel op de wachtlijst worden geplaatst.)* 
+Opgeven kan via info@dejongeonderzoekers.nl *(Op dit moment zit de cursus vol. We kunnen je eventueel op de wachtlijst plaatsen.)* 
 
 Kom gerust een keertje kijken om te zien hoe het gaat. Het is dan wel handig om ons dit van tevoren even te laten weten.
 
