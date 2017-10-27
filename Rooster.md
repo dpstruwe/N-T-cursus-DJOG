@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 6 oktober|Maarten Loonen en Peter|[Aanpassen aan de kou in het Poolgebied](/Lessen/6oktober.md)
 13 oktober|Peter en Bas|[Destillatie + Demontage](/Lessen/13oktober.md)
 20 oktober|Barteld Kooi|[Logica](/Lessen/20oktober.md)
-27 oktober|Peter|Demontage
+27 oktober|Peter|[Etsen + Demontage](/Lessen/27oktober.md)
 3 november|Bas Dam|Geologie: vulkanisme en gesteenten
 10 november|Jeffrey Bout + Peter|Sterrenkunde: tijd in het heelal + Afstanden in ons zonnestelsel
 17 november|Ynze van der Spek|Licht, kleur en kleurenzien
