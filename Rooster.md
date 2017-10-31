@@ -24,7 +24,7 @@ Wanneer|Wie|Wat
 22 december|Bas|Vuurwerk en quantummechanica
 29 december|*Gesloten*|*geen les*
 5 januari|.|.
-12 januari|Nick Oberg|Exoplaneten + rondleiding sterrenwacht
+12 januari|Nick Oberg|Exoplaneten + Rondleiding sterrenwacht
 19 januari|.|.
 26 januari|.|.
 
