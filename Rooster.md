@@ -24,7 +24,7 @@ Wanneer|Wie|Wat
 22 december|Bas|Vuurwerk en quantummechanica
 29 december|*Gesloten*|*geen les*
 5 januari|.|.
-12 januari|SRON-medewerkers|Ruimte-onderzoek (SRON) en rondleiding sterrenwacht
+12 januari|Nick Oberg|Exoplaneten en rondleiding sterrenwacht
 19 januari|.|.
 26 januari|.|.
 
