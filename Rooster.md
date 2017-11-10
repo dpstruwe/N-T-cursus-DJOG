@@ -15,7 +15,7 @@ Wanneer|Wie|Wat
 20 oktober|Barteld Kooi|[Logica](/Lessen/20oktober.md)
 27 oktober|Peter|[Etsen + Demontage](/Lessen/27oktober.md)
 3 november|Bas Dam|[Geologie: vulkanisme](/Lessen/3november.md)
-10 november|Jeffrey Bout + Peter|Sterrenkunde: tijd in het heelal + Afstanden in ons zonnestelsel
+10 november|Jeffrey Bout + Peter|[Sterrenkunde: tijd in het heelal + Afstanden in ons zonnestelsel](/Lessen/10november.md)
 17 november|Ynze van der Spek|Licht, kleur en kleurenzien
 24 november|Linda Kooijmans en Elise Broekema|Weer en klimaat(verandering)
 1 december|Raymond Klaassen|Vogeltrek en datalogging
