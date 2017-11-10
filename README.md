@@ -47,8 +47,8 @@ We gaan bijvoorbeeld aan de slag met:
 
 * Dag: Elke vrijdagavond (sinds 3-3-2017)
 * Tijd: 
-   * 17.45: inloop
-   * 18:00: start les
+   * 18:00: inloop
+   * 18:15: start les
    * 19:00: pauze
    * 19:15: start les
    * 20:00: einde les
