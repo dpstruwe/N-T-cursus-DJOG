@@ -20,8 +20,8 @@ Wanneer|Wie|Wat
 24 november|Linda Kooijmans en Elise Broekema|Weer en klimaat(verandering)
 1 december|Raymond Klaassen|Vogeltrek en datalogging
 8 december|Laura Govers|Bodemleven in de Waddenzee
-15 december|.|.
-22 december|Bas|Vuurwerk en quantummechanica
+15 december|Bas|Vuurwerk en quantummechanica
+22 december|.|.
 29 december|*Gesloten*|*geen les*
 5 januari|.|.
 12 januari|Nick Oberg|Exoplaneten + Rondleiding sterrenwacht
