@@ -16,7 +16,7 @@ Wanneer|Wie|Wat
 27 oktober|Peter|[Etsen + Demontage](/Lessen/27oktober.md)
 3 november|Bas Dam|[Geologie: vulkanisme](/Lessen/3november.md)
 10 november|Jeffrey Bout + Peter|[Sterrenkunde: tijd in het heelal + Afstanden in ons zonnestelsel](/Lessen/10november.md)
-17 november|Ynze van der Spek|Licht, kleur en kleurenzien
+17 november|Ynze van der Spek|[Licht en kleur](/Lessen/17november.md)
 24 november|Linda Kooijmans en Elise Broekema|Weer en klimaat(verandering)
 1 december|Raymond Klaassen|Vogeltrek en datalogging
 8 december|Laura Govers|Bodemleven in de Waddenzee
