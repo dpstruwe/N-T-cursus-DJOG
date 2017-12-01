@@ -18,7 +18,7 @@ Wanneer|Wie|Wat
 10 november|Jeffrey Bout + Peter|[Sterrenkunde: tijd in het heelal + Afstanden in ons zonnestelsel](/Lessen/10november.md)
 17 november|Ynze van der Spek|[Licht en kleur](/Lessen/17november.md)
 24 november|Linda Kooijmans en Elise Broekema|[Klimaatverandering](/Lessen/24november.md)
-1 december|Raymond Klaassen|Vogeltrek en datalogging
+1 december|Raymond Klaassen|[Vogeltrek en datalogging](/Lessen/1december.md)
 8 december|Laura Govers|Bodemleven in de Waddenzee
 15 december|Bas|Vuurwerk en quantummechanica
 22 december|.|.
