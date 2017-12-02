@@ -57,12 +57,10 @@ We gaan bijvoorbeeld aan de slag met:
   * 25 euro per semester (september-januari en februari-juni)
 * Leeftijd: 8-18 jaar
 
-Opgeven kan via info@dejongeonderzoekers.nl *(Op dit moment zit de cursus vol. We kunnen je eventueel op de wachtlijst plaatsen.)*
+Opgeven en informatie via info@dejongeonderzoekers.nl *(Op dit moment zit de cursus vol. We kunnen je eventueel op de wachtlijst plaatsen.)*
 
 ### Rooster
 Klik [hier](Rooster.md) voor het rooster. 
-
-Wil je een keer komen kijken? Dat is meestal geen probleem, maar wel graag in overleg.
 
 ### Extra
 De flyer van de cursus: [download](flyer.pdf)
