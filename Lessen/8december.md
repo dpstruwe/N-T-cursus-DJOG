@@ -5,7 +5,7 @@ Alle materie om ons heen (jijzelf, de tafel, de lucht) bestaan uit moleculen. Ma
 
 ![atoommodel](atoommodel.png)
 
-*Het eenvoudige atoommodel, wat in werkelijkheid niet helemaal klopt*
+*(Het eenvoudige atoommodel, wat in werkelijkheid niet helemaal klopt)*
 
 Elektronen zijn kleine deeltjes, en ze zijn onderdeel van een veel grotere 'familie' van deeltjes waaruit het hele universum is opgebouwd. Het bijzondere van deze allerkleinste deeltjes is dat ze zich niet alleen als deeltje (dus als iets tastbaars), maar ook als golf kunnen gedragen (iets ontastbaars). Een elektron golft dus eigenlijk om de kern heen, als een staande golf (een golf die op zijn plek blijft en zich dus niet verplaatst). Daarbij is het elektron eigenlijk op elke plek tegelijkertijd, totdat je gaat meten ('kijken') waar hij precies is.
 
@@ -15,7 +15,7 @@ Een bekend gedachtenexperiment (een experiment wat je alleen in je hoofd uitvoer
 
 ![schrodinger](schrodinger.jpg)
 
-*De kat van Schrödinger*
+*(De kat van Schrödinger)*
 
 Enkele toepassingen van de quantummechanica zijn te vinden in elektronica, maar ook in bijvoorbeeld elektronenmicroscopen en MRI-scanners. Daarnaast is men hard bezig met het ontwikkelen van een quantumcomputer, die vele malen sneller kan rekenen dan de huidige computers. Maar ook vuurwerk heeft veel te maken met quantummechanica. Dat komt doordat de kleuren van vuurwerk worden veroorzaakt door een quantummechanisch verschijnsel. Dat heeft te maken met de banen waarin de elektronen rond de kern van een atoom bewegen. Een elektron in een baan rond de kern van het ene atoom heeft een net iets andere energie dan een elektron in dezelfde baan in een ander atoom. Wanneer je de atomen bijvoorbeeld verhit, gaan de elektronen naar een hogere baan (verder van de kern). Hierna vallen de elektronen uit zichzelf weer terug naar hun oorspronkelijke baan, waarbij ze licht uitzenden van een specifieke kleur. Elke atoomsoort zendt daarbij een andere kleur uit. Door bepaalde atoomsoorten aan vuurwerk toe te voegen, kan je dus gekleurd vuurwerk maken. Zo geeft koper een blauwe kleur, barium een groene kleur en natrium een gele kleur.
 
