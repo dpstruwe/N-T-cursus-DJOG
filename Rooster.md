@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 17 november|Ynze van der Spek|[Licht en kleur](/Lessen/17november.md)
 24 november|Linda Kooijmans en Elise Broekema|[Klimaatverandering](/Lessen/24november.md)
 1 december|Raymond Klaassen|[Vogeltrek en datalogging](/Lessen/1december.md)
-8 december|Bas|[Vuurwerk en quantummechanica](/Lessen/8december.md)
+8 december|Bas|[Quantummechanica en vuurwerk](/Lessen/8december.md)
 15 december|Peter, Bas en Selinde|Microscopie + Solderen + Lijmverbindingen maken + ...
 22 december|Peter, Bas en Selinde|Wetenschapsquiz
 29 december|*Gesloten*|*geen les*
