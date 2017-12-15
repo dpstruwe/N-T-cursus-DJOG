@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 24 november|Linda Kooijmans en Elise Broekema|[Klimaatverandering](/Lessen/24november.md)
 1 december|Raymond Klaassen|[Vogeltrek en datalogging](/Lessen/1december.md)
 8 december|Bas|[Quantummechanica en vuurwerk](/Lessen/8december.md)
-15 december|Peter, Bas en Selinde|Microscopie + Solderen + Lijmverbindingen maken + ...
+15 december|Peter, Bas en Selinde|[Microscopie + Lijmverbindingen maken](/Lessen/15december.md)
 22 december|Peter, Bas en Selinde|Wetenschapsquiz
 29 december|*Gesloten*|*geen les*
 5 januari|.|.
