@@ -2,8 +2,6 @@
 
 ## Seizoen 2
 
-Het voorlopige rooster voor het nieuwe seizoen
-
 Wanneer|Wie|Wat
 ---|---|---
 8 september|Peter|[Gebruik van de Japanse zaag](/Lessen/8september.md)
@@ -23,6 +21,14 @@ Wanneer|Wie|Wat
 15 december|Peter, Bas en Selinde|[Microscopie + Lijmverbindingen maken](/Lessen/15december.md)
 22 december|Peter, Bas en Selinde|Wetenschapsquiz
 29 december|*Gesloten*|*geen les*
+
+
+## Seizoen 3
+
+(Aanvulling volgt)
+
+Wanneer|Wie|Wat
+---|---|---
 5 januari|.|.
 12 januari|Nick Oberg|Exoplaneten + Rondleiding sterrenwacht
 19 januari|.|.
