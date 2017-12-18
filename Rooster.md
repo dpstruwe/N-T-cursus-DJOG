@@ -31,7 +31,7 @@ Wanneer|Wie|Wat
 ---|---|---
 5 januari|.|.
 12 januari|Nick Oberg|Exoplaneten + Rondleiding sterrenwacht
-19 januari|.|.
+19 januari|Jocelien Olivier|De hersenen (met snijpracticum)
 26 januari|.|.
 
 
