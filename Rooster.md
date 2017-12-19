@@ -29,10 +29,19 @@ Wanneer|Wie|Wat
 
 Wanneer|Wie|Wat
 ---|---|---
-5 januari|.|.
+5 januari|*Vakantie*|*Geen N&T-cursus*
 12 januari|Nick Oberg|Exoplaneten + Rondleiding sterrenwacht
 19 januari|Jocelien Olivier|De hersenen (met snijpracticum)
 26 januari|.|.
+2 februari|.|.
+9 februari|.|.
+16 februari|.|.
+23 februari|.|.
+2 maart|.|.
+9 maart|.|.
+16 maart|Laura Govers|Bodemleven in de Waddenzee
+23 maart|.|.
+30 maart|.|.
 
 
 ## Seizoen 1
