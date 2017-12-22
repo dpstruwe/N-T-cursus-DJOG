@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 1 december|Raymond Klaassen|[Vogeltrek en datalogging](/Lessen/1december.md)
 8 december|Bas|[Quantummechanica en vuurwerk](/Lessen/8december.md)
 15 december|Peter, Bas en Selinde|[Microscopie + Lijmverbindingen maken](/Lessen/15december.md)
-22 december|Peter, Bas en Selinde|Wetenschapsquiz
+22 december|Peter, Bas en Selinde|[Wetenschapsquiz](/Lessen/22december.md)
 29 december|*Gesloten*|*geen les*
 
 
