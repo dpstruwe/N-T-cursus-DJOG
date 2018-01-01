@@ -1,6 +1,6 @@
 # Rooster
 
-## Seizoen 3
+## Seizoen 3 (2018)
 
 (Aanvulling volgt)
 
@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 23 maart|.|.
 30 maart|.|.
 
-## Seizoen 2
+## Seizoen 2 (2017)
 
 Wanneer|Wie|Wat
 ---|---|---
@@ -42,7 +42,7 @@ Wanneer|Wie|Wat
 22 december|Peter, Bas en Selinde|[Wetenschapsquiz](/Lessen/22december.md)
 29 december|*Gesloten*|*geen les*
 
-## Seizoen 1
+## Seizoen 1 (2017)
 
 Wanneer|Wie|Wat
 ---|---|---
