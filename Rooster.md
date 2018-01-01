@@ -1,5 +1,25 @@
 # Rooster
 
+## Seizoen 3
+
+(Aanvulling volgt)
+
+Wanneer|Wie|Wat
+---|---|---
+5 januari|*Vakantie*|*Geen N&T-cursus*
+12 januari|Nick Oberg|Exoplaneten + Rondleiding sterrenwacht (excursie)
+19 januari|Jocelien Olivier|De hersenen (met snijpracticum)
+26 januari|.|.
+2 februari|.|.
+9 februari|.|.
+16 februari|.|.
+23 februari|.|.
+2 maart|.|.
+9 maart|.|.
+16 maart|Laura Govers|Bodemleven in de Waddenzee
+23 maart|.|.
+30 maart|.|.
+
 ## Seizoen 2
 
 Wanneer|Wie|Wat
@@ -21,28 +41,6 @@ Wanneer|Wie|Wat
 15 december|Peter, Bas en Selinde|[Microscopie + Lijmverbindingen maken](/Lessen/15december.md)
 22 december|Peter, Bas en Selinde|[Wetenschapsquiz](/Lessen/22december.md)
 29 december|*Gesloten*|*geen les*
-
-
-## Seizoen 3
-
-(Aanvulling volgt)
-
-Wanneer|Wie|Wat
----|---|---
-5 januari|*Vakantie*|*Geen N&T-cursus*
-12 januari|Nick Oberg|Exoplaneten + Rondleiding sterrenwacht (excursie)
-19 januari|Jocelien Olivier|De hersenen (met snijpracticum)
-26 januari|.|.
-2 februari|.|.
-9 februari|.|.
-16 februari|.|.
-23 februari|.|.
-2 maart|.|.
-9 maart|.|.
-16 maart|Laura Govers|Bodemleven in de Waddenzee
-23 maart|.|.
-30 maart|.|.
-
 
 ## Seizoen 1
 
