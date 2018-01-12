@@ -7,7 +7,7 @@
 Wanneer|Wie|Wat
 ---|---|---
 5 januari|*Vakantie*|*Geen N&T-cursus*
-12 januari|Nick Oberg|Exoplaneten + Rondleiding sterrenwacht (excursie)
+12 januari|Nick Oberg|[Exoplaneten + Rondleiding sterrenwacht (excursie)](/Lessen/12januari.md)
 19 januari|Jocelien Olivier|De hersenen (met snijpracticum)
 26 januari|.|.
 2 februari|.|.
