@@ -17,7 +17,7 @@ Wanneer|Wie|Wat
 2 maart|.|.
 9 maart|.|.
 16 maart|Laura Govers|Bodemleven in de Waddenzee
-23 maart|.|.
+23 maart|Ynze van der Spek|Meetapparaatje maken ('knetterdetector')
 30 maart|.|.
 
 ## Seizoen 2 (2017)
