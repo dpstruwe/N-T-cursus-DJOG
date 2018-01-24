@@ -15,7 +15,7 @@ Wanneer|Wie|Wat
 16 februari|.|.
 23 februari|.|.
 2 maart|.|.
-9 maart|Marcel Wiering|Kunstmatige intelligentie
+9 maart|Marco Wiering|Kunstmatige intelligentie
 16 maart|Laura Govers|Bodemleven in de Waddenzee
 23 maart|Ynze van der Spek|Meetapparaatje maken ('knetterdetector')
 30 maart|Hans van der Plicht|Koolstofdatering in de archeologie
