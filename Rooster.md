@@ -9,7 +9,7 @@ Wanneer|Wie|Wat
 5 januari|*Vakantie*|*Geen N&T-cursus*
 12 januari|Nick Oberg|[Exoplaneten + Rondleiding sterrenwacht (excursie)](/Lessen/12januari.md)
 19 januari|Jocelien Olivier|[De hersenen (met snijpracticum)](/Lessen/19januari.md)
-26 januari|Bas|Warm en koud
+26 januari|Bas|Warm en koud (Temperatuur)
 2 februari|.|.
 9 februari|.|.
 16 februari|.|.
