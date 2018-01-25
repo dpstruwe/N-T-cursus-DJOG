@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 2 februari|.|.
 9 februari|.|.
 16 februari|.|.
-23 februari|.|.
+23 februari|Marouska van Ommen|Visuele illusies
 2 maart|.|*(vakantie; programma onder voorbehoud)*
 9 maart|Marco Wiering|Kunstmatige intelligentie
 16 maart|Laura Govers|Bodemleven in de Waddenzee
