@@ -11,7 +11,7 @@ Wanneer|Wie|Wat
 19 januari|Jocelien Olivier|[De hersenen (met snijpracticum)](/Lessen/19januari.md)
 26 januari|Bas|[Warm en koud (Temperatuur)](/Lessen/26januari.md)
 2 februari|.|.
-9 februari|.|.
+9 februari|Peter|Optica (lichtbreking)
 16 februari|.|.
 23 februari|Marouska van Ommen|Visuele illusies
 2 maart|.|*(vakantie; programma onder voorbehoud)*
