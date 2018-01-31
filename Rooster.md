@@ -10,7 +10,7 @@ Wanneer|Wie|Wat
 12 januari|Nick Oberg|[Exoplaneten + Rondleiding sterrenwacht (excursie)](/Lessen/12januari.md)
 19 januari|Jocelien Olivier|[De hersenen (met snijpracticum)](/Lessen/19januari.md)
 26 januari|Bas|[Warm en koud (Temperatuur)](/Lessen/26januari.md)
-2 februari|.|.
+2 februari|Bas|Excursie naar het Fablab
 9 februari|Peter|Optica (lichtbreking)
 16 februari|.|.
 23 februari|Marouska van Ommen|Visuele illusies
