@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 16 maart|Laura Govers|Bodemleven in de Waddenzee
 23 maart|Ynze van der Spek|Meetapparaatje maken ('knetterdetector')
 30 maart|Hans van der Plicht|Koolstofdatering in de archeologie
-6 april|.|.
+6 april|Kevin Ike|Gedrag
 13 april|.|.
 20 april|.|.
 27 april|.|.
