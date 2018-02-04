@@ -22,7 +22,11 @@ Wanneer|Wie|Wat
 6 april|Kevin Ike|Gedrag
 13 april|.|.
 20 april|.|.
-27 april|.|.
+27 april|.|*(Koningsdag; programma onder voorbehoud)*
+4 mei|.|.
+11 mei|.|.
+18 mei|.|.
+25 mei|.|.
 
 ## Seizoen 2 (2017)
 
