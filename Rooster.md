@@ -14,7 +14,7 @@ Wanneer|Wie|Wat
 9 februari|Peter|Optica (lichtbreking)
 16 februari|.|.
 23 februari|Marouska van Ommen|Visuele illusies
-2 maart|.|*(vakantie; programma onder voorbehoud)*
+2 maart|.|*(Vakantie; programma onder voorbehoud)*
 9 maart|Marco Wiering|Kunstmatige intelligentie
 16 maart|Laura Govers|Bodemleven in de Waddenzee
 23 maart|Ynze van der Spek|Meetapparaatje maken ('knetterdetector')
