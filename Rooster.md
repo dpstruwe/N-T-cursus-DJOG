@@ -23,7 +23,7 @@ Wanneer|Wie|Wat
 13 april|.|.
 20 april|.|.
 27 april|.|*(Koningsdag; programma onder voorbehoud)*
-4 mei|.|.
+4 mei|.|*(Mogelijk andere eindtijd i.v.m. Dodenherdenking)*
 11 mei|.|.
 18 mei|.|.
 25 mei|.|.
