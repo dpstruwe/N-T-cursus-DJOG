@@ -27,6 +27,11 @@ Wanneer|Wie|Wat
 11 mei|.|.
 18 mei|.|.
 25 mei|.|.
+1 juni|.|.
+8 juni|.|.
+15 juni|.|.
+22 juni|.|.
+29 juni|.|.
 
 ## Seizoen 2 (2017)
 
