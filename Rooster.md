@@ -18,9 +18,9 @@ Wanneer|Wie|Wat
 9 maart|Marco Wiering|Kunstmatige intelligentie
 16 maart|Laura Govers|Bodemleven in de Waddenzee
 23 maart|Ynze van der Spek|Meetapparaatje maken ('knetterdetector')
-30 maart|Hans van der Plicht|Koolstofdatering in de archeologie
+30 maart|.|*(Goede vrijdag; programma onder voorbehoud)*
 6 april|Kevin Ike|Gedrag
-13 april|.|.
+13 april|Hans van der Plicht|Koolstofdatering in de archeologie
 20 april|.|.
 27 april|.|*(Koningsdag; programma onder voorbehoud)*
 4 mei|.|*(Mogelijk andere eindtijd i.v.m. Dodenherdenking)*
