@@ -26,7 +26,7 @@ Wanneer|Wie|Wat
 4 mei|.|*(Mogelijk andere eindtijd i.v.m. Dodenherdenking)*
 11 mei|Cynthia Zwart|CSI (Forensisch onderzoek)
 18 mei|.|.
-25 mei|Jan Albert van Laar|Redeneren en argumenteren
+25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
 1 juni|.|.
 8 juni|.|.
 15 juni|.|.
