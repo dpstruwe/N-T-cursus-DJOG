@@ -25,7 +25,7 @@ Wanneer|Wie|Wat
 27 april|.|*(Koningsdag; programma onder voorbehoud)*
 4 mei|.|*(Mogelijk andere eindtijd i.v.m. Dodenherdenking)*
 11 mei|Cynthia Zwart|CSI (Forensisch onderzoek)
-18 mei|.|.
+18 mei|Richel Bilderbeek|DNA
 25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
 1 juni|.|.
 8 juni|.|.
