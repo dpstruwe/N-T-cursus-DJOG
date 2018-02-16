@@ -12,7 +12,7 @@ Wanneer|Wie|Wat
 26 januari|Bas|[Warm en koud (Temperatuur)](/Lessen/26januari.md)
 2 februari|Winand Slingenbergh|[Excursie naar het Fablab](/Lessen/2februari.md)
 9 februari|Peter|[Optica (lichtbreking)](/Lessen/9februari.md)
-16 februari|Bas|Zonnecellen
+16 februari|Bas|[Zonnecellen](/Lessen/16februari.md)
 23 februari|Marouska van Ommen|Visuele illusies
 2 maart|.|*(Vakantie; programma onder voorbehoud)*
 9 maart|Marco Wiering|Kunstmatige intelligentie
