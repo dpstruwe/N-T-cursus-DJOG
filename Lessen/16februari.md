@@ -1,0 +1,2 @@
+# Zonnecellen
+De cursisten hebben eerst een korte uitleg over de werking van zonnecellen gekregen. Hierna hebben ze geprobeerd om zelf een zonnecel te maken die werkt met twee glasplaatjes met daartussen onder andere titaniumdioxide (de stof die een witte kleur geeft aan bijvoorbeeld verf en veel soorten tandpasta) en een kleurstof (in dit geval hibiscusthee). Dit bleek wat lastiger dan gedacht en is niet helemaal gelukt. Aan het eind hebben ze daarom met gewone zonnecellen nog wat lampjes en motortjes laten werken op het licht van een sterke lamp.
