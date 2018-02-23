@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 2 februari|Winand Slingenbergh|[Excursie naar het Fablab](/Lessen/2februari.md)
 9 februari|Peter|[Optica (lichtbreking)](/Lessen/9februari.md)
 16 februari|Bas|[Zonnecellen](/Lessen/16februari.md)
-23 februari|Marouska van Ommen|Visuele illusies
+23 februari|Marouska van Ommen|[Visuele illusies](/Lessen/23februari.md)
 2 maart|.|*(Vakantie; programma onder voorbehoud)*
 9 maart|Marco Wiering|Kunstmatige intelligentie
 16 maart|Laura Govers|Bodemleven in de Waddenzee
