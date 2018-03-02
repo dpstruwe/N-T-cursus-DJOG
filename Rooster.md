@@ -14,7 +14,7 @@ Wanneer|Wie|Wat
 9 februari|Peter|[Optica (lichtbreking)](/Lessen/9februari.md)
 16 februari|Bas|[Zonnecellen](/Lessen/16februari.md)
 23 februari|Marouska van Ommen|[Visuele illusies](/Lessen/23februari.md)
-2 maart|.|*(Vakantie; programma onder voorbehoud)*
+2 maart|Peter en Selinde|[Vingerafdrukken zichtbaar maken + Moleculen bouwen](/Lessen/2maart.md)
 9 maart|Marco Wiering|Kunstmatige intelligentie
 16 maart|Laura Govers|Bodemleven in de Waddenzee
 23 maart|Ynze van der Spek|Meetapparaatje maken ('knetterdetector')
