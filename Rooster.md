@@ -28,7 +28,7 @@ Wanneer|Wie|Wat
 18 mei|.|.
 25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
 1 juni|.|.
-8 juni|.|.
+8 juni|Roy van Hezel|Waterkwaliteit
 15 juni|.|.
 22 juni|.|.
 29 juni|.|.
