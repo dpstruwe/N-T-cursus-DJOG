@@ -27,7 +27,7 @@ Wanneer|Wie|Wat
 11 mei|Cynthia Zwart|CSI (Forensisch onderzoek)
 18 mei|.|.
 25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
-1 juni|.|.
+1 juni|René Cappers|Planten in de archeolgie
 8 juni|Roy van Hezel|Waterkwaliteit
 15 juni|.|.
 22 juni|.|.
