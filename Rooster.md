@@ -25,7 +25,7 @@ Wanneer|Wie|Wat
 27 april|.|*(Koningsdag; programma onder voorbehoud)*
 4 mei|.|*(Mogelijk andere eindtijd i.v.m. Dodenherdenking)*
 11 mei|Cynthia Zwart|CSI (Forensisch onderzoek)
-18 mei|.|.
+18 mei|Laura Govers|Bodemleven in de Waddenzee
 25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
 1 juni|René Cappers|Planten in de archeologie
 8 juni|Roy van Hezel|Waterkwaliteit
