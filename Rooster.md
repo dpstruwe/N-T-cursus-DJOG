@@ -16,7 +16,7 @@ Wanneer|Wie|Wat
 23 februari|Marouska van Ommen|[Visuele illusies](/Lessen/23februari.md)
 2 maart|Peter en Selinde|[Vingerafdrukken zichtbaar maken + Moleculen bouwen](/Lessen/2maart.md)
 9 maart|Marco Wiering|[Kunstmatige intelligentie](/Lessen/9maart.md)
-16 maart|.|.
+16 maart|Peter en Bas|Dichtheid (meten en wegen) + ...
 23 maart|Ynze van der Spek|Meetapparaatje maken ('knetterdetector')
 30 maart|.|*(Goede vrijdag; programma onder voorbehoud)*
 6 april|Kevin Ike|Gedrag
