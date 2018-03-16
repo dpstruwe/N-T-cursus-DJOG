@@ -6,6 +6,6 @@ Koolstofdioxide (CO<sub>2</sub>) heeft een hogere dichtheid dan lucht (het is du
 # Camera obscura
 In het tweede uur hebben de cursisten zelf een camera obscura gemaakt van een blikje of een half melkpak. Een camera obscura is een hele primitieve (eenvoudige) camera die werkt met alleen een klein, rond gat en (in dit geval) een vel doorschijnend vloeipapier. Er zit dus geen lens in. Het licht valt door het gat en het voorwerp waar het gat naartoe is gericht, wordt geprojecteerd op het stuk vloeipapier. Het beeld wordt verkleind en staat op zijn kop. Eigenlijk net als bij een lens.
 
-![camera obscura](Camera-Obscura.jpg)
+![camera obscura](Camera_Obscura.jpg)
 
 *(De werking van een camera obscura)*
