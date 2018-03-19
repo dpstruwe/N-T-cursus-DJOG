@@ -22,8 +22,8 @@ Wanneer|Wie|Wat
 6 april|Kevin Ike|Gedrag
 13 april|Hans van der Plicht|Koolstofdatering in de archeologie
 20 april|.|.
-27 april|.|*(Koningsdag; programma onder voorbehoud)*
-4 mei|.|*(Mogelijk andere eindtijd i.v.m. Dodenherdenking)*
+27 april|*Koningsdag*|*Gesloten*
+4 mei|*Dodenherdenking*|*Gesloten*
 11 mei|Cynthia Zwart|CSI (Forensisch onderzoek)
 18 mei|Laura Govers|Bodemleven in de Waddenzee
 25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
