@@ -17,7 +17,7 @@ Wanneer|Wie|Wat
 2 maart|Peter en Selinde|[Vingerafdrukken zichtbaar maken + Moleculen bouwen](/Lessen/2maart.md)
 9 maart|Marco Wiering|[Kunstmatige intelligentie](/Lessen/9maart.md)
 16 maart|Peter en Bas|[Dichtheid (meten en wegen) + Camera obscura maken](/Lessen/16maart.md)
-23 maart|Ynze van der Spek|Meetapparaatje maken ('knetterdetector')
+23 maart|Ynze van der Spek|[Knetterdetector maken](/Lessen/23maart.md)
 30 maart|*Goede Vrijdag*|*Geen N&T-cursus*
 6 april|Kevin Ike|Gedrag
 13 april|Hans van der Plicht|Koolstofdatering in de archeologie
