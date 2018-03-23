@@ -1,0 +1,4 @@
+# Knetterdetector maken
+Als je over een ballon wrijft (bijvoorbeeld met een trui of een stuk stof), merk je dat hij daarna aan je haren kan blijven 'plakken' of zelfs aan het plafond. Als je twee ballonnen hebt, stoten die elkaar juist af. Dat komt doordat het wrijven over een ballon zorgt voor statische elektriciteit: de ballon wordt statisch geladen. Door deze elektrische lading kunnen voorwerpen elkaar aantrekken of juist afstoten. Ook zorgt statische elektriciteit voor kleine vonkjes als je bijvoorbeeld je trui uittrekt of een stuk metaal (zoals de deurklink) beetpakt. Deze schokjes (die een knetterend geluid maken) zijn zelfs voelbaar.
+
+Statische elektriciteit kun je ook meten. Hier zijn apparaatjes voor. Je kunt ook zelf een apparaatje maken om het te meten: een 'knetterdetector'. De cursisten hebben zelf zo'n knetterdetector gemaakt tijdens deze les.
