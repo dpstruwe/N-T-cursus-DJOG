@@ -34,7 +34,7 @@ Wanneer|Wie|Wat
 29 juni|.|.
 6 juli|.|.
 13 juli|.|.
-20 juli|.|.
+20 juli|.|*(Laatste les van het seizoen, aangepast programma)*
 
 ## Seizoen 2 (2017)
 
