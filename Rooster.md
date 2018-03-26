@@ -24,12 +24,12 @@ Wanneer|Wie|Wat
 20 april|Selinde|Medisch laboratoriumonderzoek
 27 april|*Koningsdag*|*Gesloten*
 4 mei|*Dodenherdenking*|*Gesloten*
-11 mei|Cynthia Zwart|CSI (Forensisch onderzoek)
+11 mei|.|*(Hemelvaart, programma onder voorbehoud)*
 18 mei|Laura Govers|Bodemleven in de Waddenzee
 25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
 1 juni|René Cappers|Planten in de archeologie
 8 juni|Roy van Hezel|Waterkwaliteit
-15 juni|.|.
+15 juni|Cynthia Zwart|CSI (Forensisch onderzoek)
 22 juni|.|.
 29 juni|.|.
 6 juli|.|.
