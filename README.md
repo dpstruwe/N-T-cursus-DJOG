@@ -54,7 +54,7 @@ We gaan bijvoorbeeld aan de slag met:
    * 20:00: einde les
 * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
 * Kosten per leerling:
-  * 25 euro per semester (september-januari en februari-juni)
+  * 25 euro per semester (september-januari en februari-juli)
 * Leeftijd: 8-18 jaar
 
 Opgeven en informatie via info@dejongeonderzoekers.nl
