@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 23 maart|Ynze van der Spek|[Knetterdetector maken](/Lessen/23maart.md)
 30 maart|*Goede Vrijdag*|*Geen N&T-cursus*
 6 april|Kevin Ike|[Gedrag](/Lessen/6april.md)
-13 april|Hans van der Plicht|Koolstofdatering in de archeologie
+13 april|Hans van der Plicht en Peter|Koolstofdatering in de archeologie + Afmaken eerdere projecten
 20 april|Selinde|Medisch laboratoriumonderzoek
 27 april|*Koningsdag*|*Gesloten*
 4 mei|*Dodenherdenking*|*Gesloten*
