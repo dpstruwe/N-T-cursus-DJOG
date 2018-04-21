@@ -21,7 +21,7 @@ Wanneer|Wie|Wat
 30 maart|*Goede Vrijdag*|*Geen N&T-cursus*
 6 april|Kevin Ike|[Gedrag](/Lessen/6april.md)
 13 april|Hans van der Plicht, Peter, Bas en Selinde|[Koolstofdatering in de archeologie + Afmaken eerdere projecten](/Lessen/13april.md)
-20 april|Selinde|Medisch laboratoriumonderzoek
+20 april|Selinde, Peter en Bas|[Bloed en bloedonderzoek (+ Alternatief)](/Lessen/20april.md)
 27 april|*Koningsdag*|*Gesloten*
 4 mei|*Dodenherdenking*|*Gesloten*
 11 mei|.|*(Hemelvaart, programma onder voorbehoud)*
