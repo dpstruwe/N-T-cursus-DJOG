@@ -9,5 +9,5 @@ Aan de buitenkant van de rode bloedcellen zitten allerlei stofjes (antigenen) di
 
 Tijdens de les werd van enkele personen de bloedgroep bepaald met een speciale testkaart. Ook werden preparaten met bloed bekeken onder de microscoop en werd varkensbloed gecentrifugeerd om bloedcellen en plasma van elkaar te scheiden.
 
-#Alternatief programma
+# Alternatief programma
 De cursisten die niet mee wilden doen met de les over bloed zijn aan de slag gegaan met het verbeteren van hun eerder gemaakte camera obscura. Zo hebben ze er onder andere een lens in gezet om een beter beeld te krijgen.
