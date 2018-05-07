@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 1 juni|René Cappers|Planten in de archeologie
 8 juni|Roy van Hezel|Waterkwaliteit
 15 juni|Cynthia Zwart|CSI (Forensisch onderzoek)
-22 juni|.|.
+22 juni|Casper Albers|Statistiek (toeval en kansen)
 29 juni|.|.
 6 juli|.|.
 13 juli|.|.
