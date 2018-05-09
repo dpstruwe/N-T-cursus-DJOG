@@ -24,7 +24,7 @@ Wanneer|Wie|Wat
 20 april|Selinde, Peter en Bas|[Bloed en bloedonderzoek (+ Alternatief)](/Lessen/20april.md)
 27 april|*Koningsdag*|*Gesloten*
 4 mei|*Dodenherdenking*|*Gesloten*
-11 mei|.|*(Hemelvaart, programma onder voorbehoud)*
+11 mei|*Hemelvaartweekend*|*Geen N&T-cursus*
 18 mei|Laura Govers|Bodemleven in de Waddenzee
 25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
 1 juni|René Cappers|Planten in de archeologie
