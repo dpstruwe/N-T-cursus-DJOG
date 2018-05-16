@@ -33,7 +33,7 @@ Wanneer|Wie|Wat
 22 juni|Casper Albers|Statistiek (toeval en kansen)
 29 juni|.|.
 6 juli|.|.
-13 juli|.|.
+13 juli|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
 20 juli|.|*(Laatste les van het seizoen, aangepast programma)*
 
 ## Seizoen 2 (2017)
