@@ -25,7 +25,7 @@ Wanneer|Wie|Wat
 27 april|*Koningsdag*|*Gesloten*
 4 mei|*Dodenherdenking*|*Gesloten*
 11 mei|*Hemelvaartweekend*|*Geen N&T-cursus*
-18 mei|Laura Govers|Bodemleven in de Waddenzee
+18 mei|Laura Govers|[Bodemleven in de Waddenzee](/Lessen/18mei.md)
 25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
 1 juni|René Cappers|Planten in de archeologie
 8 juni|Roy van Hezel|Waterkwaliteit
