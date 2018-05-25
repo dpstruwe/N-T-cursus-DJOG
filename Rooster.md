@@ -26,7 +26,7 @@ Wanneer|Wie|Wat
 4 mei|*Dodenherdenking*|*Gesloten*
 11 mei|*Hemelvaartweekend*|*Geen N&T-cursus*
 18 mei|Laura Govers|[Bodemleven in de Waddenzee](/Lessen/18mei.md)
-25 mei|Jan Albert van Laar|Meningsverschillen (Redeneren en argumenteren)
+25 mei|Jan Albert van Laar|[Meningsverschillen](/Lessen/25mei.md)
 1 juni|René Cappers|Planten in de archeologie
 8 juni|Roy van Hezel|Waterkwaliteit
 15 juni|Cynthia Zwart|CSI (Forensisch onderzoek)
