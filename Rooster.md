@@ -29,7 +29,7 @@ Wanneer|Wie|Wat
 25 mei|Jan Albert van Laar|[Meningsverschillen](/Lessen/25mei.md)
 1 juni|René Cappers|[Planten in de archeologie](/Lessen/1juni.md)
 8 juni|Roy van Hezel|[Waterkwaliteit](/Lessen/8juni.md)
-15 juni|Cynthia Zwart|CSI (Forensisch onderzoek)
+15 juni|Cynthia Zwart|[Forensisch onderzoek (CSI)](Lessen/15juni.md)
 22 juni|Casper Albers|Statistiek (toeval en kansen)
 29 juni|.|.
 6 juli|.|.
