@@ -31,8 +31,8 @@ Wanneer|Wie|Wat
 8 juni|Roy van Hezel|[Waterkwaliteit](/Lessen/8juni.md)
 15 juni|Cynthia Zwart|[Forensisch onderzoek (CSI)](Lessen/15juni.md)
 22 juni|Casper Albers|Statistiek (toeval en kansen)
-29 juni|.|.
-6 juli|.|.
+29 juni|Bas|Excursie Universiteitsmuseum
+6 juli|Peter en Bas|Optica (?) + ... (?)
 13 juli|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
 20 juli|.|*(Laatste les van het seizoen, aangepast programma)*
 
