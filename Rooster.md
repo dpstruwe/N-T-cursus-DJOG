@@ -2,8 +2,6 @@
 
 ## Seizoen 3 (2018)
 
-(Aanvulling volgt)
-
 Wanneer|Wie|Wat
 ---|---|---
 5 januari|*Vakantie*|*Geen N&T-cursus*
@@ -34,7 +32,7 @@ Wanneer|Wie|Wat
 29 juni|Bas|Excursie Universiteitsmuseum
 6 juli|Peter en Bas|Optica (?) + ... (?)
 13 juli|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
-20 juli|.|*(Laatste les van het seizoen, aangepast programma)*
+20 juli|Peter, Bas en Selinde|*(Laatste les van het seizoen, aangepast programma)*
 
 ## Seizoen 2 (2017)
 
