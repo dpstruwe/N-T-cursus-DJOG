@@ -28,7 +28,7 @@ Wanneer|Wie|Wat
 1 juni|René Cappers|[Planten in de archeologie](/Lessen/1juni.md)
 8 juni|Roy van Hezel|[Waterkwaliteit](/Lessen/8juni.md)
 15 juni|Cynthia Zwart|[Forensisch onderzoek (CSI)](Lessen/15juni.md)
-22 juni|Casper Albers|Statistiek (toeval en kansen)
+22 juni|Casper Albers|[Statistiek (toeval en kansen)](/Lessen/22juni.md)
 29 juni|Bas|Excursie Universiteitsmuseum
 6 juli|Peter en Bas|Optica (?) + ... (?)
 13 juli|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
