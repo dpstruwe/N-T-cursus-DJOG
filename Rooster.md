@@ -30,9 +30,17 @@ Wanneer|Wie|Wat
 15 juni|Cynthia Zwart|[Forensisch onderzoek (CSI)](Lessen/15juni.md)
 22 juni|Casper Albers|[Statistiek (toeval en kansen)](/Lessen/22juni.md)
 29 juni|Bas|Excursie Universiteitsmuseum
-6 juli|Peter en Bas|Optica (?) + ... (?)
+6 juli|Peter en Bas|Optica (?) + Colorimetrie
 13 juli|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
 20 juli|Peter, Bas en Selinde|*(Laatste les van het seizoen, aangepast programma)*
+
+## Seizoen 4 (2018)
+
+Wanneer|Wie|Wat
+---|---|---
+7 september|.|.
+14 september|Peter, Bas, Selinde|Excursie UMCG
+(aanvulling volgt)
 
 ## Seizoen 2 (2017)
 
