@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 15 juni|Cynthia Zwart|[Forensisch onderzoek (CSI)](Lessen/15juni.md)
 22 juni|Casper Albers|[Statistiek (toeval en kansen)](/Lessen/22juni.md)
 29 juni|Bas|[Excursie Universiteitsmuseum](/Lessen/29juni.md)
-6 juli|Peter en Bas|Camera met lens maken + Colorimetrie
+6 juli|Peter en Bas|[Colorimetrie + Camera met lens maken](/Lessen/6juli.md) 
 13 juli|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
 20 juli|Peter, Bas en Selinde|*(Laatste les van het seizoen, aangepast programma)*
 
