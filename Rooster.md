@@ -32,7 +32,7 @@ Wanneer|Wie|Wat
 29 juni|Bas|[Excursie Universiteitsmuseum](/Lessen/29juni.md)
 6 juli|Peter en Bas|[Colorimetrie + Camera met lens maken](/Lessen/6juli.md) 
 13 juli|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
-20 juli|Peter, Bas en Selinde|*(Laatste les van het seizoen, aangepast programma)*
+20 juli|?|?
 
 ## Seizoen 4 (2018)
 
