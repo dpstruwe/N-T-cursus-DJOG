@@ -31,7 +31,7 @@ Wanneer|Wie|Wat
 22 juni|Casper Albers|[Statistiek (toeval en kansen)](/Lessen/22juni.md)
 29 juni|Bas|[Excursie Universiteitsmuseum](/Lessen/29juni.md)
 6 juli|Peter en Bas|[Colorimetrie + Camera met lens maken](/Lessen/6juli.md) 
-13 juli|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
+13 juli|*Les vervallen*|*Aangepast programma*
 20 juli|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 4 (2018)
