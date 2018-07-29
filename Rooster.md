@@ -1,5 +1,13 @@
 # Rooster
 
+## Seizoen 4 (2018)
+
+Wanneer|Wie|Wat
+---|---|---
+7 september|.|.
+14 september|Peter, Bas, Selinde|Excursie UMCG
+(aanvulling volgt)
+
 ## Seizoen 3 (2018)
 
 Wanneer|Wie|Wat
@@ -33,14 +41,6 @@ Wanneer|Wie|Wat
 6 juli|Peter en Bas|[Colorimetrie + Camera met lens maken](/Lessen/6juli.md) 
 13 juli|*Les vervallen*|*Aangepast programma*
 20 juli|*Vakantie*|*Geen N&T-cursus*
-
-## Seizoen 4 (2018)
-
-Wanneer|Wie|Wat
----|---|---
-7 september|.|.
-14 september|Peter, Bas, Selinde|Excursie UMCG
-(aanvulling volgt)
 
 ## Seizoen 2 (2017)
 
