@@ -4,7 +4,7 @@
 
 Wanneer|Wie|Wat
 ---|---|---
-7 september|.|.
+7 september|Selinde en Peter|Veiligheid + Fruitvliegjes lokken
 14 september|Peter, Bas, Selinde|Excursie UMCG
 (aanvulling volgt)
 
