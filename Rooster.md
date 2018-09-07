@@ -7,6 +7,10 @@ Wanneer|Wie|Wat
 7 september|Bas en Peter|Roest-experiment + Fruitvliegjes lokken
 14 september|Peter, Bas, Selinde|Excursie UMCG
 21 september|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
+.|.|.
+.|.|.
+.|.|.
+9 november|Jan Komdeur|Ethologie (gedrag van dieren)
 (Aanvulling volgt)
 
 ## Seizoen 3 (2018)
