@@ -4,7 +4,7 @@
 
 Wanneer|Wie|Wat
 ---|---|---
-7 september|Bas en Peter|Roest-experiment + Fruitvliegjes lokken
+7 september|Bas en Peter|[Roest-experiment + Fruitvliegjes lokken](/Lessen/7september.md)
 14 september|Peter, Bas, Selinde|Excursie UMCG
 21 september|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
 .|.|.
