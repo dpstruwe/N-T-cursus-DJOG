@@ -8,7 +8,7 @@ Wanneer|Wie|Wat
 14 september|Peter, Bas, Selinde|Excursie UMCG
 21 september|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
 .|.|.
-.|.|.
+12 oktober|Veerle Lantinga|Orgaantransplantatie
 .|.|.
 9 november|Jan Komdeur|Ethologie (gedrag van dieren)
 (Aanvulling volgt)
