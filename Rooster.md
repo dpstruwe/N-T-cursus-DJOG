@@ -21,7 +21,7 @@ Wanneer|Wie|Wat
 14 december|.|.
 21 december|.|.
 28 december|*Vakantie*|*Gesloten*
-4 januari|.|*(Kerstvakantie)
+4 januari|.|*(Kerstvakantie)*
 
 ## Seizoen 3 (2018)
 
