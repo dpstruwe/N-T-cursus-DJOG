@@ -5,7 +5,7 @@
 Wanneer|Wie|Wat
 ---|---|---
 7 september|Peter en Bas|[Fruitvliegjes vangen + Roest-experiment](/Lessen/7september.md)
-14 september|Peter, Bas, Selinde|Excursie UMCG
+14 september|Peter, Bas, Selinde|[Excursie UMCG](/Lessen/14september.md)
 21 september|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
 28 september|Selinde, Peter en Bas|Veiligheid + ...
 5 oktober|.|.
