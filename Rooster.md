@@ -7,7 +7,7 @@ Wanneer|Wie|Wat
 7 september|Peter en Bas|[Fruitvliegjes vangen + Roest-experiment](/Lessen/7september.md)
 14 september|Peter, Bas, Selinde|[Excursie UMCG](/Lessen/14september.md)
 21 september|Peter en Bas|[De wet van behoud van energie + Het schatten van grote aantallen](/Lessen/21september.md)
-28 september|Peter en Bas|Zuren en basen + ...
+28 september|Peter en Bas|Zuren en basen + Digitale modules
 5 oktober|Selinde, Peter en Bas|Veiligheid + ...
 12 oktober|Veerle Lantinga|Orgaantransplantatie
 19 oktober|.|.
