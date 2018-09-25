@@ -21,7 +21,16 @@ Wanneer|Wie|Wat
 14 december|.|.
 21 december|.|.
 28 december|*Vakantie*|*Gesloten*
+
+## Seizoen 5 (2019)
+
+Wanneer|Wie|Wat
+---|---|---
 4 januari|.|*(Kerstvakantie)*
+11 januari|.|.
+18 januari|Ody Sibon|Onderzoek doen met fruitvliegjes
+25 januari|.|.
+...
 
 ## Seizoen 3 (2018)
 
