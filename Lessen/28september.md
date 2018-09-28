@@ -6,4 +6,6 @@ De cursisten hebben verschillende natuurlijke kleurstoffen gemengd met zuren en 
 
 # Digitale modules
 
-Door verschillende digitale modules aan elkaar te koppelen, konden de cursisten zelf eenvoudige apparaatjes maken die bijvoorbeeld konden tellen of geluid konden maken. Ook konden ze eenvoudige metingen doen met bijvoorbeeld een lichtsensor. Hoe meer modules je koppelt, hoe ingewikkeldere dingen je ermee kunt doen.
+Digitaal wil zeggen dat iets in stapjes verloopt en dus een beperkt aantal mogelijkheden heeft. In het eenvoudigste geval maar twee. Bijvoorbeeld: een lamp die aan of uit is, of een deurbel die wel of geen geluid maakt. Analoog betekent dat de mogelijkheden doorlopend zijn en dus niet in stapjes verlopen. Bijvoorbeeld: het geluid van muziek of je stem, of de wijzers van een ouderwetse klok die alsmaar blijven doorlopen. De meeste elektronische apparaten werken tegenwoordig digitaal, zoals computers. Zelfs muziek wordt nu digitaal opgeslagen, hoewel het geluid wat je hoort uit een luidspreker analoog is.
+
+Door verschillende elektronische, digitale modules aan elkaar te koppelen, konden de cursisten zelf eenvoudige apparaatjes maken die bijvoorbeeld konden tellen of geluid konden maken. Ook konden ze eenvoudige metingen doen met bijvoorbeeld een lichtsensor. Hoe meer modules je koppelt, hoe ingewikkeldere dingen je ermee kunt doen. Zo konden ze onder andere een stopwatch maken.
