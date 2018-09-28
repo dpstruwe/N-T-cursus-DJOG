@@ -4,6 +4,10 @@ Iedereen kent wel iets wat zuur is, zoals citroen of azijn. Er zijn ook stoffen 
 
 De cursisten hebben verschillende natuurlijke kleurstoffen gemengd met zuren en basen met verschillende pH-waardes. Veel natuurlijke kleurstoffen hebben namelijk verschillende kleuren bij verschillende pH's. Rode kool is een bekend voorbeeld. Maar de cursisten hebben ontdekt dat ook de kleurstof uit rode rozen, uit het kruid kurkuma, uit hibiscusthee en uit druivensap kunnen verkleuren, al doen ze dat minder goed dan rode kool.
 
+![rode kool](rodekool.jpg)
+
+*(De kleuren die het sap van rode kool kan krijgen bij verschillende pH-waardes. Rood is zuur, geel is basisch.)*
+
 # Digitale modules
 
 Digitaal wil zeggen dat iets in stapjes verloopt en dus een beperkt aantal mogelijkheden heeft. In het eenvoudigste geval maar twee. Bijvoorbeeld: een lamp die aan of uit is, of een deurbel die wel of geen geluid maakt. Analoog betekent dat de mogelijkheden doorlopend zijn en dus niet in stapjes verlopen. Bijvoorbeeld: het geluid van muziek of je stem, of de wijzers van een ouderwetse klok die alsmaar blijven doorlopen. De meeste elektronische apparaten werken tegenwoordig digitaal, zoals computers. Zelfs muziek wordt nu digitaal opgeslagen, hoewel het geluid wat je hoort uit een luidspreker analoog is.
