@@ -15,7 +15,7 @@ Wanneer|Wie|Wat
 2 november|.|.
 9 november|Jan Komdeur|Ethologie (gedrag van dieren)
 16 november|.|.
-23 november|.|.
+23 november|Andrea Werkman|Voeding
 30 november|.|.
 7 december|.|.
 14 december|.|.
