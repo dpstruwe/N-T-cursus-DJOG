@@ -8,7 +8,7 @@ Wanneer|Wie|Wat
 14 september|Peter, Bas, Selinde|[Excursie UMCG](/Lessen/14september.md)
 21 september|Peter en Bas|[De wet van behoud van energie + Het schatten van grote aantallen](/Lessen/21september.md)
 28 september|Peter en Bas|[Zuren en basen + Digitale modules](/Lessen/28september.md)
-5 oktober|Selinde, Peter en Bas|Veiligheid + ...
+5 oktober|Selinde, Peter en Bas|[Veiligheid + Digitale modules](/Lessen/5oktober.md)
 12 oktober|Veerle Lantinga|Orgaantransplantatie
 19 oktober|.|.
 26 oktober|.|*(Herfstvakantie)*
