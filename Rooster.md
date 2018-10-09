@@ -17,7 +17,7 @@ Wanneer|Wie|Wat
 16 november|.|.
 23 november|Andrea Werkman|Voeding
 30 november|.|.
-7 december|.|.
+7 december|Pauline Veenstra|Techniek van spraak
 14 december|.|.
 21 december|.|.
 28 december|*Vakantie*|*Gesloten*
