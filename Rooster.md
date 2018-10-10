@@ -16,7 +16,7 @@ Wanneer|Wie|Wat
 9 november|Jan Komdeur|Ethologie (gedrag van dieren)
 16 november|.|.
 23 november|Andrea Werkman|Voeding
-30 november|.|.
+30 november|Ynze van der Spek|Wiskunde en origami
 7 december|Pauline Veenstra|Techniek van spraak
 14 december|.|.
 21 december|.|.
