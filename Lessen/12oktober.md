@@ -1,4 +1,4 @@
-# Orgaandonatie
+# Orgaantransplantatie
 
 De cursisten hebben geleerd dat orgaantransplantatie nodig kan zijn voor mensen bij wie een bepaald orgaan niet meer (voldoende) werkt. Bij orgaantransplantatie wordt een orgaan van een donor in het lichaam van de ontvanger geplaatst. Meestal is de orgaandonor al overleden wanneer de organen worden uitgenomen voor transplantatie, maar sommige organen kunnen ook gedoneerd worden door iemand die nog leeft. Dit kan bij nieren (je hebt genoeg aan 1 goed werkende nier, en we hebben er twee in ons lichaam waarvan je er dus een kunt missen), maar ook bij de lever: je kan een klein stukje van je lever laten weghalen om te doneren. Bijna alle organen kunnen (helemaal of gedeeltelijk) worden getransplanteerd, maar de donor en de ontvanger moeten onder andere wel dezelfde bloedgroep hebben. Anders wordt het orgaan afgestoten door het lichaam. Soms zijn gedurende het leven meerdere transplantaties nodig, omdat een donororgaan door allerlei omstandigheden niet altijd een leven lang meegaat.
 
