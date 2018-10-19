@@ -10,8 +10,8 @@ Wanneer|Wie|Wat
 28 september|Peter en Bas|[Zuren en basen + Digitale modules](/Lessen/28september.md)
 5 oktober|Selinde, Peter en Bas|[Veiligheid + Digitale modules](/Lessen/5oktober.md)
 12 oktober|Veerle Lantinga|[Orgaantransplantatie](/Lessen/12oktober.md)
-19 oktober|Peter en Bas|Elektrochemie + ...
-26 oktober|.|*(Herfstvakantie)*
+19 oktober|Peter en Bas|[Elektrochemie + Elektrische schakelingen](/Lessen/19oktober.md)
+26 oktober|*Herfstvakantie*|*Geen N&T-cursus*
 2 november|.|.
 9 november|Jan Komdeur|Ethologie (gedrag van dieren)
 16 november|.|.
