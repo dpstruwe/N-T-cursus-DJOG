@@ -7,7 +7,7 @@ Er bestaan verschillende soorten batterijen, maar de meest gebruikte soort in he
 
 *(Het binnenste van een zink-koolstofbatterij)*
 
-De cursisten hebben zelf een batterij gemaakt van koper, zink en daartussen een nat laagje met een zuur. Dit kan bijvoorbeeld door koperen muntjes en zinken schijfjes te gebruiken en deze te stapelen (een zogeheten zuil van Volta), of door een stukje koper en een verzinkte spijker in een aardappel of citroen te steken. De chemische reactie tussen het zink en het zuur geeft dan de elektriciteit.
+De cursisten hebben zelf een eenvoudige batterij gemaakt van koper, zink en daartussen een nat laagje met een zuur. Dit kan bijvoorbeeld door koperen muntjes en zinken schijfjes te gebruiken en deze te stapelen (een zogeheten zuil van Volta), of door een stukje koper en een verzinkte spijker in een aardappel of citroen te steken. De chemische reactie tussen het zink en het zuur geeft dan de elektriciteit.
 
 ![zuil van Volta](voltazuil.jpg)
 
