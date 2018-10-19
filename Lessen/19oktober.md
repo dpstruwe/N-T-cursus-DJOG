@@ -14,7 +14,7 @@ De cursisten hebben zelf een eenvoudige batterij gemaakt van koper, zink en daar
 *(Voorbeeld van een zuil van Volta, een eenvoudige zelfgemaakte batterij. Hier is in plaats van zink, aluminiumfolie gebruikt.)*
 
 # Elektrische schakelingen
-De cursisten hebben met kerstlampjes verschillende schakelingen gemaakt. Zo hebben ze meerdere lampjes op een enkele batterij aangesloten of juist op meer betterijen om zo te zien wat er gebeurt met de felheid van het licht. Ze hebben o.a. ontdekt dat door de lampjes achter elkaar te plaatsen, oftewel in serie te schakelen, ze minder fel gaan branden. Maar door ze parallel te schakelen (zie schema), blijven ze allemaal even fel branden.
+De cursisten hebben met kerstlampjes verschillende schakelingen gemaakt. Zo hebben ze meerdere lampjes op een enkele batterij aangesloten of juist op meer batterijen om zo te zien wat er gebeurt met de felheid van het licht. Ze hebben o.a. ontdekt dat door de lampjes achter elkaar te plaatsen, oftewel in serie te schakelen, ze minder fel gaan branden. Maar door ze parallel te schakelen (zie schema), blijven ze allemaal even fel branden.
 
 ![serie en parallelschakeling](serie_en_parallel.jpg)
 
