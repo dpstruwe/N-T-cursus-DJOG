@@ -12,9 +12,9 @@ Wanneer|Wie|Wat
 12 oktober|Veerle Lantinga|[Orgaantransplantatie](/Lessen/12oktober.md)
 19 oktober|Peter en Bas|[Elektrochemie + Elektrische schakelingen](/Lessen/19oktober.md)
 26 oktober|*Herfstvakantie*|*Geen N&T-cursus*
-2 november|Nick Landman, Peter en Bas|Videocursus OF Microscopie + ...
+2 november|.|.
 9 november|Jan Komdeur|Ethologie (gedrag van dieren)
-16 november|.|.
+16 november|Nick Landman, Peter en Bas|Videocursus OF Microscopie + ...
 23 november|Andrea Werkman|Voeding
 30 november|Ynze van der Spek|Wiskunde en origami
 7 december|Pauline Veenstra|Techniek van spraak
