@@ -14,7 +14,7 @@ Wanneer|Wie|Wat
 26 oktober|*Herfstvakantie*|*Geen N&T-cursus*
 2 november|Peter, Bas, Selinde|[Wet van Boyle (luchtdruk) + Uilenballen en beestjes onder de microscoop](/Lessen/2november.md)
 9 november|Jan Komdeur|Ethologie (gedrag van dieren)
-16 november|Nick Landman, Peter en Bas|Videocursus OF Microscopie + ...
+16 november|Nick Landman, Peter, Bas, Selinde|Videocursus OF Microscopie + ...
 23 november|Andrea Werkman|Voeding
 30 november|Ynze van der Spek|Wiskunde en origami
 7 december|Pauline Veenstra|Techniek van spraak
