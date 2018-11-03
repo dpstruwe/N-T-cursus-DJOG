@@ -12,7 +12,7 @@ Wanneer|Wie|Wat
 12 oktober|Veerle Lantinga|[Orgaantransplantatie](/Lessen/12oktober.md)
 19 oktober|Peter en Bas|[Elektrochemie + Elektrische schakelingen](/Lessen/19oktober.md)
 26 oktober|*Herfstvakantie*|*Geen N&T-cursus*
-2 november|Peter en Bas|[Wet van Boyle (luchtdruk) + Uilenballen en beestjes onder de microscoop](/Lessen/2november.md)
+2 november|Peter, Bas, Selinde|[Wet van Boyle (luchtdruk) + Uilenballen en beestjes onder de microscoop](/Lessen/2november.md)
 9 november|Jan Komdeur|Ethologie (gedrag van dieren)
 16 november|Nick Landman, Peter en Bas|Videocursus OF Microscopie + ...
 23 november|Andrea Werkman|Voeding
