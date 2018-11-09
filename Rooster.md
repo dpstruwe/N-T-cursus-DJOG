@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 19 oktober|Peter en Bas|[Elektrochemie + Elektrische schakelingen](/Lessen/19oktober.md)
 26 oktober|*Herfstvakantie*|*Geen N&T-cursus*
 2 november|Peter, Bas, Selinde|[Wet van Boyle (luchtdruk) + Uilenballen en beestjes onder de microscoop](/Lessen/2november.md)
-9 november|[Jan Komdeur|Diergedrag (ethologie)](/Lessen/9november.md)
+9 november|Jan Komdeur|[Diergedrag (ethologie)](/Lessen/9november.md)
 16 november|Nick Landman, Peter, Bas, Selinde|Videocursus OF Microscopie + ...
 23 november|Andrea Werkman|Voeding
 30 november|Ynze van der Spek|Wiskunde en origami
