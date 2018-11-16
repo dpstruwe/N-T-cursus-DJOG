@@ -1,0 +1,5 @@
+# Videocursus
+De cursisten hebben een introductieles gehad over het maken van video's/films. Ze hebben geleerd dat hierbij veel meer komt kijken dan alleen maar het hanteren en bedienen van een camera. Zo moet er van tevoren al worden nagedacht over hoe het verhaal precies in beeld moet worden gebracht en welke camerahoeken en -standpunten er worden gebruikt. Ook is er naast de cameraman/-vrouw een heel team nodig waaronder een regisseur, een geluidstechnicus en allerlei assistenten. Het maken van een professionele video kost erg veel tijd. Voor een minuut aan beeldmateriaal is vaak een hele dag werk nodig. De cursisten hebben zelf korte filmpjes gemaakt om te ervaren hoe dit alles in zijn werk gaat. Er volgen nog enkele lessen op een later moment waarbij de cursisten verder aan de slag gaan met het maken van video's.
+
+# Alternatief
+Degenen die niet mee wilden doen met de videocursus zijn met de microscoop aan de slag gegaan om te leren hoe je een microscoop moet gebruiken en hoe je preparaten kunt maken om te bekijken.
