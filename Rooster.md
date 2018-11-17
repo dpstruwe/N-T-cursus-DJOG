@@ -29,8 +29,9 @@ Wanneer|Wie|Wat
 4 januari|.|*(Kerstvakantie)*
 11 januari|.|.
 18 januari|Ody Sibon|Onderzoek doen met fruitvliegjes
-25 januari|.|.
-...
+25 januari|Nick Landman|Videocursus (+ Alternatief)
+1 februari|Nick Landman|Videocursus (+ Alternatief)
+8 februari|Nick Landman|Videocursus (+ Alternatief)
 
 ## Seizoen 3 (2018)
 
