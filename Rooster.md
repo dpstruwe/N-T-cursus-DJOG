@@ -17,7 +17,7 @@ Wanneer|Wie|Wat
 16 november|Nick Landman, Peter, Bas, Nora|[Videocursus (+ Alternatief)](/Lessen/16november.md)
 23 november|Andrea Werkman|Voeding
 30 november|Ynze van der Spek|Wiskunde en origami
-7 december|Pauline Veenstra|Techniek van spraak
+7 december|Pauline Veenstra, Lisanne de Jong, Jidde Jacobi|Techniek van spraak
 14 december|.|.
 21 december|.|.
 28 december|*Vakantie*|*Gesloten*
