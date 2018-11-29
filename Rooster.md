@@ -18,8 +18,8 @@ Wanneer|Wie|Wat
 23 november|Andrea Werkman|[Voeding: energie en vitamines](/Lessen/23november.md)
 30 november|Ynze van der Spek|Wiskunde en origami
 7 december|Pauline Veenstra, Lisanne de Jong, Jidde Jacobi|Techniek van spraak
-14 december|.|.
-21 december|.|.
+14 december|Bas en Maria|Experimenten met voeding + Geurolie maken
+21 december|Bas|Elementenspel + Knalproefjes
 28 december|*Vakantie*|*Gesloten*
 
 ## Seizoen 5 (2019)
