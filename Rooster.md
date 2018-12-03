@@ -33,7 +33,8 @@ Wanneer|Wie|Wat
 1 februari|Nick Landman|Videocursus (+ Alternatief)
 8 februari|Nick Landman|Videocursus (+ Alternatief)
 15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
-.|.|.
+22 februari|.|*(Voorjaarsvakantie)*
+1 maart|.|.
 
 ## Seizoen 3 (2018)
 
