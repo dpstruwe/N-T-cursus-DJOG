@@ -32,7 +32,8 @@ Wanneer|Wie|Wat
 25 januari|Nick Landman|Videocursus (+ Alternatief)
 1 februari|Nick Landman|Videocursus (+ Alternatief)
 8 februari|Nick Landman|Videocursus (+ Alternatief)
-15 februari|.|.
+15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
+.|.|.
 
 ## Seizoen 3 (2018)
 
