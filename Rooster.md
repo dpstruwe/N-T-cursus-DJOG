@@ -17,7 +17,7 @@ Wanneer|Wie|Wat
 16 november|Nick Landman, Peter, Bas, Nora|[Videocursus (+ Alternatief)](/Lessen/16november.md)
 23 november|Andrea Werkman|[Voeding: energie en vitamines](/Lessen/23november.md)
 30 november|Ynze van der Spek|[Wiskundige figuren](/Lessen/30november.md)
-7 december|Pauline Veenstra, Lisanne de Jong, Jidde Jacobi|Techniek van spraak
+7 december|Pauline Veenstra, Lisanne de Jong, Jidde Jacobi|De techniek van spraak
 14 december|Bas en Maria|Experimenten met voeding + Geurolie maken
 21 december|Bas|Elementenspel + Knalproefjes
 28 december|*Vakantie*|*Gesloten*
