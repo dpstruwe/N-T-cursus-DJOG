@@ -18,7 +18,7 @@ Wanneer|Wie|Wat
 23 november|Andrea Werkman|[Voeding: energie en vitamines](/Lessen/23november.md)
 30 november|Ynze van der Spek|[Wiskundige figuren](/Lessen/30november.md)
 7 december|Pauline Veenstra, Lisanne de Jong, Jidde Jacobi|[De techniek van spraak](/Lessen/7december.md)
-14 december|Bas en Maria|Experimenten met voeding + Geurolie maken
+14 december|Bas en Maria|[Experimenten met voeding + Geurolie maken](/Lessen/14december.md)
 21 december|Bas|Elementenspel + Knalproefjes
 28 december|*Vakantie*|*Gesloten*
 
