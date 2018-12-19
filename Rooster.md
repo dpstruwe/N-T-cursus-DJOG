@@ -26,7 +26,7 @@ Wanneer|Wie|Wat
 
 Wanneer|Wie|Wat
 ---|---|---
-4 januari|.|*(Kerstvakantie)*
+4 januari|*Vakantie*|*Geen N&T-cursus*
 11 januari|.|.
 18 januari|Ody Sibon|Onderzoek doen met fruitvliegjes
 25 januari|Nick Landman|Videocursus (+ Alternatief)
