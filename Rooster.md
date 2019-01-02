@@ -1,5 +1,19 @@
 # Rooster
 
+## Seizoen 5 (2019)
+
+Wanneer|Wie|Wat
+---|---|---
+4 januari|*Vakantie*|*Geen N&T-cursus*
+11 januari|.|.
+18 januari|Ody Sibon|Onderzoek doen met fruitvliegjes
+25 januari|Nick Landman|Videocursus (+ Alternatief)
+1 februari|Nick Landman|Videocursus (+ Alternatief)
+8 februari|Nick Landman|Videocursus (+ Alternatief)
+15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
+22 februari|.|*(Voorjaarsvakantie)*
+1 maart|.|.
+
 ## Seizoen 4 (2018)
 
 Wanneer|Wie|Wat
@@ -21,20 +35,6 @@ Wanneer|Wie|Wat
 14 december|Bas en Maria|[Experimenten met voeding + Geurolie maken](/Lessen/14december.md)
 21 december|Bas|[Elementenspel + Knalproefjes](/Lessen/21december.md)
 28 december|*Vakantie*|*Gesloten*
-
-## Seizoen 5 (2019)
-
-Wanneer|Wie|Wat
----|---|---
-4 januari|*Vakantie*|*Geen N&T-cursus*
-11 januari|.|.
-18 januari|Ody Sibon|Onderzoek doen met fruitvliegjes
-25 januari|Nick Landman|Videocursus (+ Alternatief)
-1 februari|Nick Landman|Videocursus (+ Alternatief)
-8 februari|Nick Landman|Videocursus (+ Alternatief)
-15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
-22 februari|.|*(Voorjaarsvakantie)*
-1 maart|.|.
 
 ## Seizoen 3 (2018)
 
