@@ -12,7 +12,8 @@ Wanneer|Wie|Wat
 8 februari|Nick Landman|Videocursus (+ Alternatief)
 15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
 22 februari|.|*(Voorjaarsvakantie)*
-1 maart|.|.
+1 maart|Laura Postma|Het betrekken van kinderen bij (medisch) onderzoek
+8 maart|.|.
 
 ## Seizoen 4 (2018)
 
