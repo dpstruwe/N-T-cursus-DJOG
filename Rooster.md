@@ -5,7 +5,7 @@
 Wanneer|Wie|Wat
 ---|---|---
 4 januari|*Vakantie*|*Geen N&T-cursus*
-11 januari|.|.
+11 januari|Maria|Chemische reacties
 18 januari|Ody Sibon|Onderzoek doen met fruitvliegjes
 25 januari|Nick Landman|Videocursus (+ Alternatief)
 1 februari|Nick Landman|Videocursus (+ Alternatief)
