@@ -14,6 +14,9 @@ Wanneer|Wie|Wat
 22 februari|.|*(Voorjaarsvakantie)*
 1 maart|Laura Postma|Het betrekken van kinderen bij (medisch) onderzoek
 8 maart|.|.
+15 maart|.|.
+22 maart|Niels Taatgen|Kunstmatige intelligentie
+29 maart|.|.
 
 ## Seizoen 4 (2018)
 
