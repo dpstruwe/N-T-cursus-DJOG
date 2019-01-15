@@ -12,7 +12,7 @@ Wanneer|Wie|Wat
 8 februari|Nick Landman|Videocursus (+ Alternatief)
 15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
 22 februari|.|*(Voorjaarsvakantie)*
-1 maart|Laura Postma|Het betrekken van kinderen bij (medisch) onderzoek
+1 maart|Laura Postma en Nora|Het betrekken van kinderen bij (medisch) onderzoek + Wetenschapsfilosofie
 8 maart|.|.
 15 maart|.|.
 22 maart|Niels Taatgen|Kunstmatige intelligentie
