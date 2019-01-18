@@ -16,7 +16,7 @@ Wanneer|Wie|Wat
 8 maart|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
 15 maart|.|.
 22 maart|Niels Taatgen|Kunstmatige intelligentie
-29 maart|.|.
+29 maart|Maurice Henssen e.a.|Excursie Bioclear Earth
 5 april|.|.
 12 april|.|.
 19 april|.|*(Goede Vrijdag)*
