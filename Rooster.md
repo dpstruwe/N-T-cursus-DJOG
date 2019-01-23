@@ -14,7 +14,7 @@ Wanneer|Wie|Wat
 22 februari|.|*(Voorjaarsvakantie)*
 1 maart|Laura Postma en Nora|Het betrekken van kinderen bij (medisch) onderzoek + Wetenschapsfilosofie
 8 maart|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
-15 maart|.|.
+15 maart|Tineke van der Meij en Mathieu Przybyla|De energie van de toekomst
 22 maart|Niels Taatgen|Kunstmatige intelligentie
 29 maart|Maurice Henssen e.a.|Excursie Bioclear Earth
 5 april|.|.
