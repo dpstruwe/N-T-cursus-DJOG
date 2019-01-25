@@ -7,7 +7,7 @@ Wanneer|Wie|Wat
 4 januari|*Vakantie*|*Geen N&T-cursus*
 11 januari|Maria en Peter|[Chemische reacties + Schaalgrootte](/Lessen/11januari.md)
 18 januari|Ody Sibon|[Onderzoek doen met fruitvliegjes](/Lessen/18januari.md)
-25 januari|Nick Landman|Videocursus (+ Alternatief)
+25 januari|Nick Landman|[Videocursus (+ Alternatief)](/Lessen/25januari.md)
 1 februari|Nick Landman|Videocursus (+ Alternatief)
 8 februari|Nick Landman|Videocursus (+ Alternatief)
 15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
