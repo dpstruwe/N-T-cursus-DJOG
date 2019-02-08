@@ -9,7 +9,7 @@ Wanneer|Wie|Wat
 18 januari|Ody Sibon|[Onderzoek doen met fruitvliegjes](/Lessen/18januari.md)
 25 januari|Nick Landman|[Videocursus (+ Alternatief)](/Lessen/25januari.md)
 1 februari|Nick Landman|[Videocursus (+ Alternatief)](/Lessen/1februari.md)
-8 februari|Nick Landman|Videocursus (+ Alternatief)
+8 februari|Nick Landman|[Videocursus (+ Alternatief)](/Lessen/8februari.md)
 15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
 22 februari|.|*(Voorjaarsvakantie)*
 1 maart|Laura Postma en Nora|Het betrekken van kinderen bij (medisch) onderzoek + Wetenschapsfilosofie
