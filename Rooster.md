@@ -11,8 +11,8 @@ Wanneer|Wie|Wat
 1 februari|Nick Landman|[Videocursus (+ Alternatief)](/Lessen/1februari.md)
 8 februari|Nick Landman|[Videocursus (+ Alternatief)](/Lessen/8februari.md)
 15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
-22 februari|.|*(Voorjaarsvakantie)*
-1 maart|Laura Postma en Nora|Het betrekken van kinderen bij (medisch) onderzoek + Wetenschapsfilosofie
+22 februari|*Vakantie*|*Geen N&T-cursus*
+1 maart|Laura Postma, Nora en Peter|Het betrekken van kinderen bij (medisch) onderzoek (+ Alternatief) + Wetenschapsfilosofie
 8 maart|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
 15 maart|Tineke van der Meij en Mathieu Przybyla|De energie van de toekomst
 22 maart|Niels Taatgen|Kunstmatige intelligentie
