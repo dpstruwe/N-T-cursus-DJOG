@@ -10,7 +10,7 @@ Wanneer|Wie|Wat
 25 januari|Nick Landman|[Videocursus (+ Alternatief)](/Lessen/25januari.md)
 1 februari|Nick Landman|[Videocursus (+ Alternatief)](/Lessen/1februari.md)
 8 februari|Nick Landman|[Videocursus (+ Alternatief)](/Lessen/8februari.md)
-15 februari|Sijbren Otto|Kunnen we leven maken in het lab?
+15 februari|Sijbren Otto|[Kunnen we leven maken in het lab?](/Lessen/15februari.md)
 22 februari|*Vakantie*|*Geen N&T-cursus*
 1 maart|Laura Postma, Nora en Peter|Het betrekken van kinderen bij (medisch) onderzoek (+ Alternatief) + Wetenschapsfilosofie
 8 maart|Annemarijn Zwerver|Het CERN en de kleinste deeltjes
