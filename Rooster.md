@@ -25,7 +25,7 @@ Wanneer|Wie|Wat
 10 mei|.|.
 17 mei|.|.
 24 mei|Andrea Werkman|Voeding en smaak
-31 mei|.|.
+31 mei|.|*(?Hemelvaart?)*
 
 ## Seizoen 4 (2018)
 
