@@ -22,6 +22,10 @@ Wanneer|Wie|Wat
 19 april|.|*(Goede Vrijdag)*
 26 april|.|.
 3 mei|.|*(Meivakantie)*
+10 mei|.|.
+17 mei|.|.
+24 mei|.|.
+31 mei|.|.
 
 ## Seizoen 4 (2018)
 
