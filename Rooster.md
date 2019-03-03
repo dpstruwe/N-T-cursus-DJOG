@@ -24,7 +24,7 @@ Wanneer|Wie|Wat
 3 mei|.|*(Meivakantie)*
 10 mei|.|.
 17 mei|.|.
-24 mei|.|.
+24 mei|Andrea Werkman|Smaak
 31 mei|.|.
 
 ## Seizoen 4 (2018)
