@@ -9,3 +9,5 @@ Om onderzoek te kunnen doen aan deze onvoorstelbaar kleine deeltjes, heb je niet
 
 *(Een klein stukje van de ondergrondse versnellerbuis van het CERN)*
 
+De cursisten hebben zelf een zogeheten nevelkamer gemaakt, waarin deeltjes die bijvoorbeeld uit de ruimte komen of radioactieve deeltjes uit de lucht een spoor achterlaten wat zichtbaar is als een witte streep (een soort mini-vliegtuigstreep). Dit werd gedaan door alcoholdamp in een afgesloten bak of beker zo sterk af te koelen dat er door de verstoring van een klein deeltje kleine mistdruppeltjes ontstonden.
+
