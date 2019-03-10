@@ -26,7 +26,7 @@ Wanneer|Wie|Wat
 17 mei|.|.
 24 mei|Andrea Werkman|Voeding en smaak
 31 mei|.|*(?Hemelvaart?)*
-7 juni|.|.
+7 juni|Ynze van der Spek|?
 14 juni|Aart Jan Langbroek|Insecten en bodemdieren
 21 juni|.|.
 
