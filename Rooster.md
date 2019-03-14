@@ -29,6 +29,9 @@ Wanneer|Wie|Wat
 7 juni|Ynze van der Spek|?
 14 juni|Aart Jan Langbroek|Insecten en bodemdieren
 21 juni|.|.
+28 juni|.|.
+5 juli|.|.
+12 juli|.|.
 
 ## Seizoen 4 (2018)
 
