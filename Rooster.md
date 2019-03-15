@@ -14,7 +14,7 @@ Wanneer|Wie|Wat
 22 februari|*Vakantie*|*Geen N&T-cursus*
 1 maart|Laura Postma, Nora en Peter|[Het betrekken van kinderen bij (medisch) onderzoek / Elektronica + Wetenschapsfilosofie](/Lessen/1maart.md)
 8 maart|Annemarijn Zwerver|[Het CERN en de kleinste deeltjes](/Lessen/8maart.md)
-15 maart|Tineke van der Meij en Mathieu Przybyla|De energie van de toekomst
+15 maart|Tineke van der Meij en Mathieu Przybyla|[De energie van de toekomst](/Lessen/15maart.md)
 22 maart|Niels Taatgen|Kunstmatige intelligentie
 29 maart|Maurice Henssen e.a.|Excursie Bioclear Earth
 5 april|Bas en Sjef, ...|Werken met (computer)modellen + ...
