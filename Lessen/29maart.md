@@ -1,0 +1,6 @@
+# Excursie Bioclear Earth
+De cursisten hebben een bezoek gebracht aan Bioclear Earth, een bedrijf wat zich met name bezighoudt met het bedenken van technieken voor het opruimen van schadelijke of ongewenste stoffen in het milieu (vooral in de bodem) door bacteriën en schimmels. Als je maar goed genoeg zoekt, vind je meestal wel ergens op aarde een bacteriesoort die een specifieke stof kan afbreken. Door vervolgens deze bacteriën op te kweken en in bijvoorbeeld de vervuilde bodem te pompen, eten ze de schadelijke stof(fen) op en is de bodem na enige tijd weer schoon. Dat is goedkoper en beter voor het milieu dan de vervuilde grond af te graven en af te voeren. Zo zijn er nog veel meer toepassingen van bacteriën te vinden om lucht of bodem te zuiveren, of om ze zelfs bruikbare stoffen te laten maken zoals biogas en grondstoffen voor plastic.
+
+De cursisten hebben nagedacht over hoe zij een bepaald probleem zouden kunnen oplossen door gebruik te maken van bacteriën. Dat leverde creatieve ideeën op. Daarnaast zijn ze zelf aan de slag gegaan in het lab en hebben daar o.a. voedingsbodems voor bacteriën (agarplaten) gemaakt, waar ze vervolgens afdrukken van o.a. hun vingers, oorsmeer en aarde op hebben gemaakt. Deze platen konden ze thuis opkweken om te zien wat er zou gaan groeien.
+
+*Website Bioclear Earth: http://bioclearearth.nl*
