@@ -16,8 +16,8 @@ Wanneer|Wie|Wat
 8 maart|Annemarijn Zwerver|[Het CERN en de kleinste deeltjes](/Lessen/8maart.md)
 15 maart|Tineke van der Meij en Mathieu Przybyla|[De energie van de toekomst](/Lessen/15maart.md)
 22 maart|Niels Taatgen|[Kunstmatige intelligentie: neurale netwerken](/Lessen/22maart.md)
-29 maart|Maurice Henssen e.a.|Excursie Bioclear Earth
-5 april|Bas en Sjef, ...|Computersimulaties + ...
+29 maart|Maurice Henssen e.a.|[Excursie Bioclear Earth](/Lessen/29maart.md)
+5 april|Bas en Sjef, Peter|Computersimulaties + Solderen
 12 april|.|.
 19 april|.|*(Goede Vrijdag)*
 26 april|.|.
