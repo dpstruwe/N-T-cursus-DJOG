@@ -3,10 +3,9 @@ Computersimulaties zijn eigenlijk nabootsingen van de werkelijkheid met behulp v
 
 De cursisten zijn zelf aan de slag gegaan met een paar bestaande, voorgeprogrammeerde simulaties. Ze hebben hiervoor het computerprogramma Greenfoot gebruikt. Zo hebben ze een mierenkolonie, een prooi-roofdiercyclus (met vossen en konijnen) en een zwerm met vogels gesimuleerd en hieraan enkele aanpassingen gedaan, om te zien wat daarvan het effect was. Dus eigenlijk het uitvoeren van experimenten met de computer.
 
-*Het programma Greenfoot en de gebruikte simulaties zijn gratis te downloaden:*
-
-*Greenfoot: https://www.greenfoot.org
-Scenario's (met o.a. de simulaties): https://www.greenfoot.org/book/material/book-scenarios.zip*
+*Het programma Greenfoot en de gebruikte simulaties zijn gratis te downloaden:
+<br>*Greenfoot: https://www.greenfoot.org
+<br>Scenario's (met o.a. de simulaties): https://www.greenfoot.org/book/material/book-scenarios.zip*
 
 # Bacteriën bekijken / colorimetrie-experiment
 Een deel van de groep heeft de tijdens de excursie van de vorige les gemaakte bacterieplaten (voedingsbodems met afdrukken van o.a. hun handen en aarde) bekeken en hiervan ook wat bacteriën en schimmels onder de microscoop bekeken. De anderen hebben met een eenvoudig, zelfgemaakt colorimetrie-apparaat geëxperimenteerd om te zien hoe een echt meetapparaat werkt. Dit als voorbereiding op een volgende les over colorimetrie, waarbij ze zelf zo'n apparaatje gaan maken en echte metingen gaan doen.
