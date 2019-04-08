@@ -19,9 +19,9 @@ Wanneer|Wie|Wat
 29 maart|Maurice Henssen e.a.|[Excursie Bioclear Earth](/Lessen/29maart.md)
 5 april|Bas, Sjef, Peter, Nora en Selinde|[Computersimulaties + Bacteriën bekijken / colorimetrie-experiment](/Lessen/5april.md)
 12 april|Bas, Peter en Selinde|Filosoferen + Colorimeter maken
-19 april|.|*(Goede Vrijdag)*
-26 april|Johan, Peter, Selinde|Hoe ontstaan nieuwe soorten en hoe zag de aarde er vroeger uit? + Vervolg colorimeterie (?)
-3 mei|.|*(Meivakantie)*
+19 april|*Goede Vrijdag*|*Geen N&T-cursus*
+26 april|Johan, Peter, Selinde en Bas|Hoe ontstaan nieuwe soorten en hoe zag de aarde er vroeger uit? + Vervolg colorimeterie (?)
+3 mei|*Vakantie*|*Geen N&T-cursus*
 10 mei|Kasper Meijer e.a.|Zoetwaterbiologie en duiktechniek
 17 mei|.|.
 24 mei|Andrea Werkman|Voeding en smaak
