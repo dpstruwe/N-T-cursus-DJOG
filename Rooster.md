@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 5 april|Bas, Sjef, Peter, Nora en Selinde|[Computersimulaties + Bacteriën bekijken / colorimetrie-experiment](/Lessen/5april.md)
 12 april|Bas, Peter en Selinde|Filosoferen + Colorimeter maken
 19 april|.|*(Goede Vrijdag)*
-26 april|.|.
+26 april|Johan, Peter, Selinde|Hoe ontstaan nieuwe soorten en hoe zag de aarde er vroeger uit? + Vervolg colorimeterie (?)
 3 mei|.|*(Meivakantie)*
 10 mei|Kasper Meijer e.a.|Zoetwaterbiologie en duiktechniek
 17 mei|.|.
