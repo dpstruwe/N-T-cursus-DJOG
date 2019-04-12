@@ -18,7 +18,7 @@ Wanneer|Wie|Wat
 22 maart|Niels Taatgen|[Kunstmatige intelligentie: neurale netwerken](/Lessen/22maart.md)
 29 maart|Maurice Henssen e.a.|[Excursie Bioclear Earth](/Lessen/29maart.md)
 5 april|Bas, Sjef, Peter, Nora en Selinde|[Computersimulaties + Bacteriën bekijken / colorimetrie-experiment](/Lessen/5april.md)
-12 april|Bas, Peter en Selinde|Filosoferen + Colorimeter maken
+12 april|Bas, Peter en Selinde|[Filosoferen + Colorimetrie](/Lessen/12april.md)
 19 april|*Goede Vrijdag*|*Geen N&T-cursus*
 26 april|Johan, Peter, Selinde en Bas|Hoe ontstaan nieuwe soorten en hoe zag de aarde er vroeger uit? + Vervolg colorimetrie (?)
 3 mei|*Vakantie*|*Geen N&T-cursus*
