@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 5 april|Bas, Sjef, Peter, Nora en Selinde|[Computersimulaties + Bacteriën bekijken / colorimetrie-experiment](/Lessen/5april.md)
 12 april|Bas, Peter en Selinde|[Filosoferen + Colorimetrie](/Lessen/12april.md)
 19 april|*Goede Vrijdag*|*Geen N&T-cursus*
-26 april|Johan, Peter, Selinde en Bas|Hoe ontstaan nieuwe soorten en hoe zag de aarde er vroeger uit? + Vervolg colorimetrie (?)
+26 april|Peter, Selinde en Bas|Vervolg colorimetrie
 3 mei|*Vakantie*|*Geen N&T-cursus*
 10 mei|Kasper Meijer e.a.|Zoetwaterbiologie en duiktechniek
 17 mei|.|.
@@ -28,7 +28,7 @@ Wanneer|Wie|Wat
 31 mei|*Hemelvaart*|*Geen N&T-cursus*
 7 juni|Ynze van der Spek|?
 14 juni|Aart Jan Langbroek|Insecten en bodemdieren
-21 juni|.|.
+21 juni|Johan, Peter, Bas, Selinde|Hoe ontstaan nieuwe soorten en hoe zag de aarde er vroeger uit? + ...
 28 juni|.|.
 5 juli|.|.
 12 juli|.|.
