@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 5 april|Bas, Sjef, Peter, Nora en Selinde|[Computersimulaties + Bacteriën bekijken / colorimetrie-experiment](/Lessen/5april.md)
 12 april|Bas, Peter en Selinde|[Filosoferen + Colorimetrie](/Lessen/12april.md)
 19 april|*Goede Vrijdag*|*Geen N&T-cursus*
-26 april|Peter, Selinde en Bas|Vervolg colorimetrie
+26 april|Peter, Selinde en Bas|[Colorimetrie (vervolg)](/Lessen/26april.md)
 3 mei|*Vakantie*|*Geen N&T-cursus*
 10 mei|Kasper Meijer e.a.|Zoetwaterbiologie en duiktechniek
 17 mei|.|.
