@@ -23,7 +23,7 @@ Wanneer|Wie|Wat
 26 april|Peter, Selinde en Bas|[Colorimetrie (vervolg)](/Lessen/26april.md)
 3 mei|*Vakantie*|*Geen N&T-cursus*
 10 mei|Kasper Meijer e.a.|[Zoetwaterbiologie en duiktechniek](/Lessen/10mei.md)
-17 mei|Selinde, Peter en Bas|Meten van de waterkwaliteit (nitraatgehalte) / Afmaken colorimeter
+17 mei|Selinde, Peter, Bas en Nora|[Meten van de waterkwaliteit (nitraatgehalte) / Afmaken colorimeter](/Lessen/17mei.md)
 24 mei|Andrea Werkman|Voeding en smaak
 31 mei|*Hemelvaart*|*Geen N&T-cursus*
 7 juni|Ynze van der Spek|?
