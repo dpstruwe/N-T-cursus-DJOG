@@ -24,7 +24,7 @@ Wanneer|Wie|Wat
 3 mei|*Vakantie*|*Geen N&T-cursus*
 10 mei|Kasper Meijer e.a.|[Zoetwaterbiologie en duiktechniek](/Lessen/10mei.md)
 17 mei|Selinde, Peter, Bas en Nora|[Meten van de waterkwaliteit (nitraatgehalte) / Afmaken colorimeter](/Lessen/17mei.md)
-24 mei|Andrea Werkman|Voeding en smaak
+24 mei|Andrea Werkman|[Voeding en smaak](/Lessen/24mei.md)
 31 mei|*Hemelvaart*|*Geen N&T-cursus*
 7 juni|Ynze van der Spek|?
 14 juni|Aart Jan Langbroek|Insecten en bodemdieren
