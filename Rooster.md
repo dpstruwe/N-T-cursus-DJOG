@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 14 juni|Aart Jan Langbroek|Insecten en bodemdieren
 21 juni|Johan, Peter, Bas, Selinde|Hoe ontstaan nieuwe soorten en hoe zag de aarde er vroeger uit? + ...
 28 juni|Annemarijn Zwerver|?
-5 juli|.|.
+5 juli|Bas, Peter, Selinde|Vortexkanon maken + ...
 12 juli|.|.
 
 ## Seizoen 4 (2018)
