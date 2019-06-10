@@ -27,7 +27,7 @@ Wanneer|Wie|Wat
 24 mei|Andrea Werkman|[Voeding en smaak](/Lessen/24mei.md)
 31 mei|*Hemelvaart*|*Geen N&T-cursus*
 7 juni|Ynze van der Spek|[Geluid, trillingen en golven](/Lessen/7juni.md)
-14 juni|Aart Jan Langbroek|Insecten en bodemdieren
+14 juni|Aart Jan Langbroek|Bodemdieren en kringlopen
 21 juni|Johan, Peter, Bas, Selinde|Hoe ontstaan nieuwe soorten en hoe zag de aarde er vroeger uit? + ...
 28 juni|Annemarijn Zwerver|?
 5 juli|Bas, Peter, Selinde|Vortexkanon maken + ...
