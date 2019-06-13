@@ -29,7 +29,7 @@ Wanneer|Wie|Wat
 7 juni|Ynze van der Spek|[Geluid, trillingen en golven](/Lessen/7juni.md)
 14 juni|Aart Jan Langbroek|Bodemdieren en kringlopen
 21 juni|Johan, Peter, Bas, Selinde|Hoe ontstaan nieuwe soorten en hoe zag de aarde er vroeger uit? + ...
-28 juni|Annemarijn Zwerver|?
+28 juni|Annemarijn Zwerver|Meten aan de sterren
 5 juli|Bas, Peter, Selinde|Vortexkanon maken + ...
 12 juli|.|.
 
