@@ -41,7 +41,7 @@ Wanneer|Wie|Wat
 6 september|.|.
 13 september|.|.
 .|.|.
-15 november|Paul Haan en Sylvia de Boer|Geografische Informatiesystemen
+15 november|Paul Haan en Sylvia de Boer|(Geografische Informatiesystemen)
 .|.|.
 
 ## Seizoen 4 (2018)
