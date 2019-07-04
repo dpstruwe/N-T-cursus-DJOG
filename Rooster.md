@@ -33,6 +33,17 @@ Wanneer|Wie|Wat
 5 juli|Bas, Peter, Selinde|Vortexkanon maken + ...
 12 juli|*Vakantie*|*Geen N&T-cursus*
 
+## Seizoen 6 (2019)
+
+Wanneer|Wie|Wat
+---|---|---
+30 augustus|.|.
+6 september|.|.
+13 september|.|.
+.|.|.
+15 november|Paul Haan en Sylvia de Boer|Geografische Informatiesystemen
+.|.|.
+
 ## Seizoen 4 (2018)
 
 Wanneer|Wie|Wat
