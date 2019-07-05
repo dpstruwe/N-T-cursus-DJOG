@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 14 juni|Aart Jan Langbroek|[Bodemdieren en kringlopen](/Lessen/14juni.md)
 21 juni|Johan en Peter|[Struisvogelspel en evolutie + Sterren, helderheid en afstanden](/Lessen/21juni.md)
 28 juni|Annemarijn Zwerver|[Meten aan de sterren](/Lessen/28juni.md)
-5 juli|Bas, Peter, Selinde|Vortexkanon maken + ...
+5 juli|Bas, Peter, Selinde|[Vortexkanon maken](/Lessen/5juli.md)
 12 juli|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 6 (2019)
