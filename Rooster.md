@@ -42,6 +42,8 @@ Wanneer|Wie|Wat
 13 september|.|.
 20 september|Frans Bianchi en Geert van den Bogaart|Het immuunsysteem
 .|.|.
+4 oktober|Esther Scheele e.a.|Excursie Bottenzolder (Archeozoölogie)
+.|.|.
 25 oktober|*Vakantie*|*Geen N&T-cursus*
 .|.|.
 15 november|Paul Haan en Sylvia de Boer|(Geografische Informatiesystemen)
