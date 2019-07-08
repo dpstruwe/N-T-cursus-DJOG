@@ -40,6 +40,7 @@ Wanneer|Wie|Wat
 30 augustus|.|.
 6 september|.|.
 13 september|.|.
+20 september|Frans Bianchi en Geert van den Bogaart|Het immuunsysteem
 .|.|.
 15 november|Paul Haan en Sylvia de Boer|(Geografische Informatiesystemen)
 .|.|.
