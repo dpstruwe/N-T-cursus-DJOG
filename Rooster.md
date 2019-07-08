@@ -42,10 +42,12 @@ Wanneer|Wie|Wat
 13 september|.|.
 20 september|Frans Bianchi en Geert van den Bogaart|Het immuunsysteem
 .|.|.
-25 oktober|*Herfstvakantie*|*Geen N&T-cursus*
+25 oktober|*Vakantie*|*Geen N&T-cursus*
 .|.|.
 15 november|Paul Haan en Sylvia de Boer|(Geografische Informatiesystemen)
 .|.|.
+27 december|*Vakantie*|*Geen N&T-cursus*
+3 januari|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 4 (2018)
 
