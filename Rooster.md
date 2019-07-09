@@ -2,6 +2,8 @@
 
 ## Seizoen 6 (2019)
 
+(Voorlopig programma)
+
 Wanneer|Wie|Wat
 ---|---|---
 30 augustus|.|.
