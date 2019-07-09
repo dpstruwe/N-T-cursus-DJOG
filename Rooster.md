@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 22 november|.|.
 29 november|.|(Optie excursie KVI)
 6 december|.|.
-13 december|.|.
+13 december|Moniek Tromp|Materiaalchemie
 20 december|.|.
 27 december|*Vakantie*|*Geen N&T-cursus*
 3 januari|*Vakantie*|*Geen N&T-cursus*
