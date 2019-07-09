@@ -41,7 +41,7 @@ Wanneer|Wie|Wat
 6 september|.|.
 13 september|Marc Stuart|Excursie elektronenmicroscopie
 20 september|Frans Bianchi en Geert van den Bogaart|Het immuunsysteem
-27 september|.|.
+27 september|.|(Optie excursie KVI)
 4 oktober|Esther Scheele e.a.|Excursie Bottenzolder (Archeozoölogie)
 11 oktober|.|.
 18 oktober|.|.
@@ -50,7 +50,7 @@ Wanneer|Wie|Wat
 8 november|.|.
 15 november|Paul Haan en Sylvia de Boer|(Geografische Informatiesystemen)
 22 november|.|.
-29 november|.|.
+29 november|.|(Optie excursie KVI)
 6 december|.|.
 13 december|.|.
 20 december|.|.
