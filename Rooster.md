@@ -1,5 +1,29 @@
 # Rooster
 
+## Seizoen 6 (2019)
+
+Wanneer|Wie|Wat
+---|---|---
+30 augustus|.|.
+6 september|.|.
+13 september|Marc Stuart|Excursie elektronenmicroscopie
+20 september|Frans Bianchi en Geert van den Bogaart|Het immuunsysteem
+27 september|.|(Optie excursie KVI)
+4 oktober|Esther Scheele e.a.|Excursie Bottenzolder (Archeozoölogie)
+11 oktober|.|.
+18 oktober|.|.
+25 oktober|*Vakantie*|*Geen N&T-cursus*
+1 november|.|.
+8 november|.|.
+15 november|Paul Haan en Sylvia de Boer|(Geografische Informatiesystemen)
+22 november|.|.
+29 november|.|(Optie excursie KVI)
+6 december|.|.
+13 december|.|.
+20 december|.|.
+27 december|*Vakantie*|*Geen N&T-cursus*
+3 januari|*Vakantie*|*Geen N&T-cursus*
+
 ## Seizoen 5 (2019)
 
 Wanneer|Wie|Wat
@@ -32,30 +56,6 @@ Wanneer|Wie|Wat
 28 juni|Annemarijn Zwerver|[Meten aan de sterren](/Lessen/28juni.md)
 5 juli|Bas, Peter, Selinde|[Vortexkanon maken](/Lessen/5juli.md)
 12 juli|*Vakantie*|*Geen N&T-cursus*
-
-## Seizoen 6 (2019)
-
-Wanneer|Wie|Wat
----|---|---
-30 augustus|.|.
-6 september|.|.
-13 september|Marc Stuart|Excursie elektronenmicroscopie
-20 september|Frans Bianchi en Geert van den Bogaart|Het immuunsysteem
-27 september|.|(Optie excursie KVI)
-4 oktober|Esther Scheele e.a.|Excursie Bottenzolder (Archeozoölogie)
-11 oktober|.|.
-18 oktober|.|.
-25 oktober|*Vakantie*|*Geen N&T-cursus*
-1 november|.|.
-8 november|.|.
-15 november|Paul Haan en Sylvia de Boer|(Geografische Informatiesystemen)
-22 november|.|.
-29 november|.|(Optie excursie KVI)
-6 december|.|.
-13 december|.|.
-20 december|.|.
-27 december|*Vakantie*|*Geen N&T-cursus*
-3 januari|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 4 (2018)
 
