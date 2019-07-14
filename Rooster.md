@@ -17,7 +17,7 @@ Wanneer|Wie|Wat
 25 oktober|*Vakantie*|*Geen N&T-cursus*
 1 november|.|.
 8 november|.|.
-15 november|Paul Haan en Sylvia de Boer|(Geografische Informatiesystemen)
+15 november|Paul Haan en Sylvia de Boer|Geografische Informatiesystemen (GIS)
 22 november|.|.
 29 november|.|(Optie excursie KVI)
 6 december|.|.
