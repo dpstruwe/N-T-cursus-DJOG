@@ -6,8 +6,8 @@
 
 Wanneer|Wie|Wat
 ---|---|---
-30 augustus|.|.
-6 september|.|.
+30 augustus|Peter en Bas|Hoe klein zijn moleculen? + ...
+6 september|Peter, Selinde en Bas|Waterkwaliteit + ...
 13 september|Marc Stuart|Excursie elektronenmicroscopie
 20 september|Frans Bianchi en Geert van den Bogaart|Het immuunsysteem
 27 september|.|(Optie excursie KVI)
