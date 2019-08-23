@@ -15,7 +15,7 @@ Wanneer|Wie|Wat
 11 oktober|.|.
 18 oktober|.|.
 25 oktober|*Vakantie*|*Geen N&T-cursus*
-1 november|.|.
+1 november|Mark Hoorens|Licht en moleculen
 8 november|.|.
 15 november|Paul Haan en Sylvia de Boer|Geografische Informatiesystemen (GIS)
 22 november|.|.
