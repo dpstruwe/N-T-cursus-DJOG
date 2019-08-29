@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 27 september|.|(Optie excursie KVI)
 4 oktober|Esther Scheele e.a.|Excursie Bottenzolder (Archeozoölogie)
 11 oktober|.|.
-18 oktober|.|.
+18 oktober|Lieke van Iersel e.a.|iGEM
 25 oktober|*Vakantie*|*Geen N&T-cursus*
 1 november|Mark Hoorens|Licht en moleculen
 8 november|.|.
