@@ -6,7 +6,7 @@
 
 Wanneer|Wie|Wat
 ---|---|---
-30 augustus|Peter en Bas|Hoe klein zijn moleculen? + ...
+30 augustus|Peter en Bas|[Hoe klein zijn moleculen? + Elektriciteit en magnetisme](/Lessen/30augustus.md)
 6 september|Peter, Selinde en Bas|Waterkwaliteit + ...
 13 september|Marc Stuart|Excursie elektronenmicroscopie
 20 september|Frans Bianchi en Geert van den Bogaart|Het immuunsysteem
