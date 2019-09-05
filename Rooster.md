@@ -10,7 +10,7 @@ Wanneer|Wie|Wat
 6 september|Peter, Selinde en Bas|Waterkwaliteit + Elektriciteit en magnetisme (vervolg)
 13 september|Marc Stuart|Excursie elektronenmicroscopie
 20 september|Frans Bianchi en Geert van den Bogaart|Het immuunsysteem
-27 september|.|(Optie excursie KVI)
+27 september|.|.
 4 oktober|Esther Scheele e.a.|Excursie Bottenzolder (Archeozoölogie)
 11 oktober|.|.
 18 oktober|Lieke van Iersel e.a.|iGEM
@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 8 november|.|.
 15 november|Paul Haan en Sylvia de Boer|Geografische Informatiesystemen (GIS)
 22 november|.|.
-29 november|.|(Optie excursie KVI)
+29 november|Peter Dendooven e.a.|Excursie KVI
 6 december|.|.
 13 december|Moniek Tromp|Raakt energie ooit op?
 20 december|.|.
