@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 15 november|Paul Haan en Sylvia de Boer|Geografische Informatiesystemen (GIS)
 22 november|.|.
 29 november|Peter Dendooven e.a.|Excursie KVI
-6 december|Casper van der Kooi|
+6 december|Casper van der Kooi|Bloemen, kleuren en zien
 13 december|Moniek Tromp|Raakt energie ooit op?
 20 december|.|.
 27 december|*Vakantie*|*Geen N&T-cursus*
