@@ -24,7 +24,24 @@ Wanneer|Wie|Wat
 13 december|Moniek Tromp|Raakt energie ooit op?
 20 december|.|.
 27 december|*Vakantie*|*Geen N&T-cursus*
+
+## Seizoen 7 (2020)
+
+(Voorlopig programma)
+
+Wanneer|Wie|Wat
+---|---|---
 3 januari|*Vakantie*|*Geen N&T-cursus*
+10 januari|.|.
+17 januari|.|.
+24 januari|Karin de Boer|Plastic in zee en milieu
+.|.|.
+.|.|.
+.|.|.
+.|.|.
+.|.|.
+.|.|.
+.|.|.
 
 ## Seizoen 5 (2019)
 
