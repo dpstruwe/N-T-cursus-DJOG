@@ -8,7 +8,7 @@ Wanneer|Wie|Wat
 6 september|Peter en Selinde|[Waterkwaliteit + Elektriciteit en magnetisme (vervolg)](/Lessen/6september.md)
 13 september|Marc Stuart|[Excursie elektronenmicroscopie](/Lessen/13september.md)
 20 september|Frans Bianchi en Geert van den Bogaart|[Infecties](/Lessen/20september.md)
-27 september|Bas, Peter, Selinde|Waterkwaliteit / Elektriciteit en magnetisme
+27 september|Bas, Peter, Selinde|[Waterkwaliteit / Elektriciteit](/Lessen/27september.md)
 4 oktober|Esther Scheele e.a.|Excursie Bottenzolder (Archeozoölogie)
 11 oktober|Kevin Ike|Sociaal in alle soorten (Diergedrag)
 18 oktober|Lieke van Iersel e.a.|iGEM
