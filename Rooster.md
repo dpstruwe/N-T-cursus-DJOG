@@ -31,7 +31,7 @@ Wanneer|Wie|Wat
 ---|---|---
 3 januari|*Vakantie*|*Geen N&T-cursus*
 10 januari|.|.
-17 januari|Helco van Keeken|Kom in beweging!
+17 januari|Helco van Keeken|Kom in beweging! (Excursie UMCG Bewegingswetenschappen)
 24 januari|Karin de Boer|Plastic in zee en milieu
 .|.|.
 .|.|.
