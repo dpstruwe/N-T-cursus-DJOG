@@ -40,7 +40,13 @@ Wanneer|Wie|Wat
 28 februari|.|.
 6 maart|.|.
 13 maart|.|.
-.|.|.
+20 maart|.|.
+27 maart|.|.
+3 april|.|.
+10 april|*Goede Vrijdag*|*Geen N&T-cursus*
+17 april|.|.
+24 april|.|.
+1 mei|*Vakantie*|*Geen N&T-cursus*
 .|.|.
 
 ## Seizoen 5 (2019)
