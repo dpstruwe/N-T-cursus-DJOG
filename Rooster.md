@@ -34,10 +34,12 @@ Wanneer|Wie|Wat
 17 januari|Helco van Keeken|Kom in beweging! (Excursie UMCG Bewegingswetenschappen)
 24 januari|Karin de Boer|Plastic in zee en milieu
 31 januari|Diederik Roest|Zwaartekracht
-.|.|.
-.|.|.
-.|.|.
-.|.|.
+7 februari|.|.
+14 februari|.|.
+21 februari|*Vakantie*|*Geen N&T-cursus*
+28 februari|.|.
+6 maart|.|.
+13 maart|.|.
 .|.|.
 .|.|.
 
