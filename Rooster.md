@@ -33,7 +33,7 @@ Wanneer|Wie|Wat
 10 januari|.|.
 17 januari|Helco van Keeken|Kom in beweging! (Excursie UMCG Bewegingswetenschappen)
 24 januari|Karin de Boer|Plastic in zee en milieu
-.|.|.
+31 januari|Diederik Roest|Zwaartekracht
 .|.|.
 .|.|.
 .|.|.
