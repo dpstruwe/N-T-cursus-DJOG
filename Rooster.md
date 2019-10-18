@@ -11,7 +11,7 @@ Wanneer|Wie|Wat
 27 september|Bas, Peter, Selinde|[Waterkwaliteit / Elektriciteit](/Lessen/27september.md)
 4 oktober|Francesca Slim en Nynke de Boer|[Excursie Bottenzolder (Archeozoölogie)](/Lessen/4oktober.md)
 11 oktober|Kevin Ike|[Sociaal in alle soorten (Diergedrag)](/Lessen/11oktober.md)
-18 oktober|Lieke van Iersel e.a.|iGEM: 'Spelen' met bacteriën
+18 oktober|Lieke van Iersel en Sophie Schretlen|[iGem: toepassingen van synthetische biologie](/Lessen/18oktober.md)
 25 oktober|*Vakantie*|*Geen N&T-cursus*
 1 november|Mark Hoorens|Licht en moleculen
 8 november|.|.
