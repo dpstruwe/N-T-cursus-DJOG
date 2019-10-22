@@ -47,7 +47,15 @@ Wanneer|Wie|Wat
 17 april|.|.
 24 april|.|.
 1 mei|*Vakantie*|*Geen N&T-cursus*
-.|.|.
+8 mei|.|.
+15 mei|.|.
+22 mei|*Hemelvaart*|*Geen N&T-cursus*
+29 mei|.|.
+5 juni|.|.
+12 juni|.|.
+19 juni|.|.
+26 juni|.|.
+3 juli|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 5 (2019)
 
