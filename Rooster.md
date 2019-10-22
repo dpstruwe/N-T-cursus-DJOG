@@ -47,7 +47,7 @@ Wanneer|Wie|Wat
 17 april|.|.
 24 april|.|.
 1 mei|*Vakantie*|*Geen N&T-cursus*
-8 mei|.|.
+8 mei|.|*(Vakantie?)*
 15 mei|.|.
 22 mei|*Hemelvaart*|*Geen N&T-cursus*
 29 mei|.|.
