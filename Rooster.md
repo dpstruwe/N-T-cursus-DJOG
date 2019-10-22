@@ -39,7 +39,7 @@ Wanneer|Wie|Wat
 21 februari|*Vakantie*|*Geen N&T-cursus*
 28 februari|Nick Landman|Insectenhotel maken
 6 maart|Nick Landman|Insectenhotel maken (vervolg)
-13 maart|.|.
+13 maart|.|*(Gereserveerd voor evt. uitloop insectenhotel)*
 20 maart|.|.
 27 maart|.|.
 3 april|.|.
