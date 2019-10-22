@@ -37,8 +37,8 @@ Wanneer|Wie|Wat
 7 februari|Marlies van de Weijgaert e.a.|Excursie Blaauw Sterrenwacht
 14 februari|.|.
 21 februari|*Vakantie*|*Geen N&T-cursus*
-28 februari|.|.
-6 maart|.|.
+28 februari|Nick Landman|Insectenhotel maken
+6 maart|Nick Landman|Insectenhotel maken (vervolg)
 13 maart|.|.
 20 maart|.|.
 27 maart|.|.
