@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 11 oktober|Kevin Ike|[Sociaal in alle soorten (Diergedrag)](/Lessen/11oktober.md)
 18 oktober|Lieke van Iersel en Sophie Schretlen|[iGem: toepassingen van synthetische biologie](/Lessen/18oktober.md)
 25 oktober|*Vakantie*|*Geen N&T-cursus*
-1 november|Mark Hoorens|Licht en moleculen
+1 november|Mark Hoorens|[Licht en moleculen](/Lessen/1november.md)
 8 november|Bas|Waterhardheid + Licht en polarisatie
 15 november|Paul Haan en Sylvia de Boer|Geografische Informatiesystemen (GIS)
 22 november|.|.
