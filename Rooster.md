@@ -14,7 +14,7 @@ Wanneer|Wie|Wat
 18 oktober|Lieke van Iersel en Sophie Schretlen|[iGem: toepassingen van synthetische biologie](/Lessen/18oktober.md)
 25 oktober|*Vakantie*|*Geen N&T-cursus*
 1 november|Mark Hoorens|[Licht en moleculen](/Lessen/1november.md)
-8 november|Bas|Waterhardheid + Licht en polarisatie
+8 november|Bas|[Waterhardheid + Licht en polarisatie](/Lessen/8november.md)
 15 november|Paul Haan en Sylvia de Boer|Geografische Informatiesystemen (GIS)
 22 november|.|.
 29 november|Peter Dendooven e.a.|Excursie KVI
