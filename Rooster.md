@@ -16,7 +16,7 @@ Wanneer|Wie|Wat
 1 november|Mark Hoorens|[Licht en moleculen](/Lessen/1november.md)
 8 november|Bas|[Waterhardheid + Licht en polarisatie](/Lessen/8november.md)
 15 november|Paul Haan en Sylvia de Boer|[Kaarten en geografische informatiesystemen](/Lessen/15november.md)
-22 november|Bas en Peter|Ballonnenexperiment + Elektronische componenten
+22 november|Bas en Peter|[Ballonnenexperiment + Elektronische componenten](/Lessen/22november.md)
 29 november|Peter Dendooven e.a.|Excursie KVI
 6 december|Casper van der Kooi|Bloemen, kleuren en zien bij dieren
 13 december|Moniek Tromp|Raakt energie ooit op?
