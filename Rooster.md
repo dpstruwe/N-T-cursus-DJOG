@@ -35,7 +35,7 @@ Wanneer|Wie|Wat
 24 januari|Karin de Boer|Plastic in zee en milieu
 31 januari|Diederik Roest|Zwaartekracht
 7 februari|Marlies van de Weijgaert e.a.|Excursie Blaauw Sterrenwacht
-14 februari|.|.
+14 februari|Nora|Eiwitten
 21 februari|*Vakantie*|*Geen N&T-cursus*
 28 februari|Nick Landman|Insectenhotel maken
 6 maart|Nick Landman|Insectenhotel maken (vervolg)
