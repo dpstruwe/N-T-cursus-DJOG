@@ -17,7 +17,7 @@ Wanneer|Wie|Wat
 8 november|Bas|[Waterhardheid + Licht en polarisatie](/Lessen/8november.md)
 15 november|Paul Haan en Sylvia de Boer|[Kaarten en geografische informatiesystemen](/Lessen/15november.md)
 22 november|Bas en Peter|[Ballonnenexperiment + Elektronische componenten](/Lessen/22november.md)
-29 november|Peter Dendooven e.a.|Excursie KVI
+29 november|Peter Dendooven en Harry Kiewiet|[Excursie KVI](/Lessen/29november.md)
 6 december|Casper van der Kooi|Bloemen, kleuren en zien bij dieren
 13 december|Moniek Tromp|Raakt energie ooit op?
 20 december|Bas, Peter, Selinde|Verrassende 'winter'-experimenten + quiz
