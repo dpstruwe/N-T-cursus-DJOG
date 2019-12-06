@@ -1,0 +1,8 @@
+# Bloemen, kleuren en zien bij dieren
+Bloemen hebben vaak allerlei kleuren. Die kleuren trekken insecten aan, zoals bijen, die daardoor stuifmeel van de ene naar de andere plant brengen. De kleuren in bloemen ontstaan vooral door zogeheten pigmenten: een soort kleurstoffen. Maar naast kleur, kunnen de bloemen ook nog een andere eigenschap hebben, namelijk glans. Deze glans ontstaat door de speciale structuur van de bloem, die bij glanzende bloemen anders is dan bij niet-glanzende bloemen.
+
+Insecten zien niet alle kleuren die wij kunnen zien, maar ze zien juist andere kleuren wel die wij niet kunnen zien. Zo kunnen bijen maar een heel klein beetje rood zien, maar zien ze wel heel goed ultraviolet (UV-)licht. Veel bloemen zien er voor bijen (en andere insecten) daarom heel anders uit (qua kleur) dan voor ons. Hierdoor worden ze voor de bijen extra aantrekkelijk.
+
+Het oog van de meeste insecten is heel anders opgebouwd dan de ogen van mensen en veel andere dieren. Ze bestaan eigenlijk uit vele kleine oogjes naast elkaar, die samen een groot oog vormen: een facetoog. Een insect ziet de wereld dan ook op een andere manier dan wij: ze zien alles minder scherp, maar ze hebben wel een veel breder blikveld. Ze zien dus veel meer van hun omgeving tegelijk, maar moeten dichterbij komen om het scherper te kunnen zien. Ook zien ze als ze snel vliegen alles in zwartwit. Om weer kleuren te kunnen zien moeten ze stil gaan hangen bij de bloem.
+
+De cursisten hebben in de plantenkas van de universiteit een aantal verschillende bloemen geplukt. Deze bloemen hebben ze bekeken onder de microscoop om de verschillen te kunnen zien. Hiervan hebben ze vervolgens een tekening gemaakt.
