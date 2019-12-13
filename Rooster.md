@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 22 november|Bas en Peter|[Ballonnenexperiment + Elektronische componenten](/Lessen/22november.md)
 29 november|Peter Dendooven en Harry Kiewiet|[Excursie KVI-CART](/Lessen/29november.md)
 6 december|Casper van der Kooi|[Bloemen, kleuren en zien bij dieren](/Lessen/6december.md)
-13 december|Moniek Tromp|Raakt energie ooit op?
+13 december|Moniek Tromp|[Raakt energie ooit op?](/Lessen/13december.md)
 20 december|Bas, Selinde|Verrassende 'winter'-experimenten + Quiz
 27 december|*Vakantie*|*Geen N&T-cursus*
 
