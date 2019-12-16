@@ -41,7 +41,7 @@ Wanneer|Wie|Wat
 6 maart|Nick Landman|Insectenhotel maken (vervolg)
 13 maart|.|*(Insectenhotel maken (?))*
 20 maart|.|.
-27 maart|.|.
+27 maart|Jocelien Olivier|De hersenen
 3 april|.|.
 10 april|*Goede Vrijdag*|*Geen N&T-cursus*
 17 april|.|.
