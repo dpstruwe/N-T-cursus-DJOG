@@ -40,7 +40,7 @@ Wanneer|Wie|Wat
 28 februari|Nick Landman|Insectenhotel maken
 6 maart|Nick Landman|Insectenhotel maken (vervolg)
 13 maart|.|*(Insectenhotel maken (?))*
-20 maart|.|.
+20 maart|Stijn Mouton|Veroudering
 27 maart|Jocelien Olivier|De hersenen
 3 april|.|.
 10 april|*Goede Vrijdag*|*Geen N&T-cursus*
