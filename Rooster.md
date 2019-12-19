@@ -34,7 +34,7 @@ Wanneer|Wie|Wat
 17 januari|Helco van Keeken|Kom in beweging! (Excursie UMCG Bewegingswetenschappen)
 24 januari|Karin de Boer|Plastic in zee en milieu
 31 januari|Diederik Roest|Zwaartekracht
-7 februari|Marlies van de Weijgaert e.a.|Excursie Blaauw Sterrenwacht
+7 februari|Janke Prins e.a.|Excursie Blaauw Sterrenwacht
 14 februari|Nora en Peter|Eiwitten / Solderen (?)
 21 februari|*Vakantie*|*Geen N&T-cursus*
 28 februari|Nick Landman|Insectenhotel maken
