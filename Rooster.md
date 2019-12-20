@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 29 november|Peter Dendooven en Harry Kiewiet|[Excursie KVI-CART](/Lessen/29november.md)
 6 december|Casper van der Kooi|[Bloemen, kleuren en zien bij dieren](/Lessen/6december.md)
 13 december|Moniek Tromp|[Raakt energie ooit op?](/Lessen/13december.md)
-20 december|Bas, Selinde|Verrassende 'winter'-experimenten + Quiz
+20 december|Bas, Selinde, Nora|[Winterse proefjes en quiz](/Lessen/20december.md)
 27 december|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 7 (2020)
