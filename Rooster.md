@@ -27,7 +27,7 @@ Wanneer|Wie|Wat
 8 mei|.|*(Vakantie?)*
 15 mei|.|.
 22 mei|*Hemelvaart*|*Geen N&T-cursus*
-29 mei|.|.
+29 mei|.|*(Pinksteren)*
 5 juni|.|.
 12 juni|.|.
 19 juni|.|.
