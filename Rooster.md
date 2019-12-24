@@ -1,28 +1,5 @@
 # Rooster
 
-## Seizoen 6 (2019)
-
-Wanneer|Wie|Wat
----|---|---
-30 augustus|Peter en Bas|[Hoe klein zijn moleculen? + Elektriciteit en magnetisme](/Lessen/30augustus.md)
-6 september|Peter en Selinde|[Waterkwaliteit + Elektriciteit en magnetisme (vervolg)](/Lessen/6september.md)
-13 september|Marc Stuart|[Excursie elektronenmicroscopie](/Lessen/13september.md)
-20 september|Frans Bianchi en Geert van den Bogaart|[Infecties](/Lessen/20september.md)
-27 september|Bas, Peter, Selinde|[Waterkwaliteit / Elektriciteit](/Lessen/27september.md)
-4 oktober|Francesca Slim en Nynke de Boer|[Excursie Bottenzolder (Archeozoölogie)](/Lessen/4oktober.md)
-11 oktober|Kevin Ike|[Sociaal in alle soorten (Diergedrag)](/Lessen/11oktober.md)
-18 oktober|Lieke van Iersel en Sophie Schretlen|[iGem: toepassingen van synthetische biologie](/Lessen/18oktober.md)
-25 oktober|*Vakantie*|*Geen N&T-cursus*
-1 november|Mark Hoorens|[Licht en moleculen](/Lessen/1november.md)
-8 november|Bas|[Waterhardheid + Licht en polarisatie](/Lessen/8november.md)
-15 november|Paul Haan en Sylvia de Boer|[Kaarten en geografische informatiesystemen](/Lessen/15november.md)
-22 november|Bas en Peter|[Ballonnenexperiment + Elektronische componenten](/Lessen/22november.md)
-29 november|Peter Dendooven en Harry Kiewiet|[Excursie KVI-CART](/Lessen/29november.md)
-6 december|Casper van der Kooi|[Bloemen, kleuren en zien bij dieren](/Lessen/6december.md)
-13 december|Moniek Tromp|[Raakt energie ooit op?](/Lessen/13december.md)
-20 december|Bas, Selinde, Nora|[Winterse proefjes en quiz](/Lessen/20december.md)
-27 december|*Vakantie*|*Geen N&T-cursus*
-
 ## Seizoen 7 (2020)
 
 (Voorlopig programma)
@@ -56,6 +33,29 @@ Wanneer|Wie|Wat
 19 juni|.|.
 26 juni|.|.
 3 juli|*Vakantie*|*Geen N&T-cursus*
+
+## Seizoen 6 (2019)
+
+Wanneer|Wie|Wat
+---|---|---
+30 augustus|Peter en Bas|[Hoe klein zijn moleculen? + Elektriciteit en magnetisme](/Lessen/30augustus.md)
+6 september|Peter en Selinde|[Waterkwaliteit + Elektriciteit en magnetisme (vervolg)](/Lessen/6september.md)
+13 september|Marc Stuart|[Excursie elektronenmicroscopie](/Lessen/13september.md)
+20 september|Frans Bianchi en Geert van den Bogaart|[Infecties](/Lessen/20september.md)
+27 september|Bas, Peter, Selinde|[Waterkwaliteit / Elektriciteit](/Lessen/27september.md)
+4 oktober|Francesca Slim en Nynke de Boer|[Excursie Bottenzolder (Archeozoölogie)](/Lessen/4oktober.md)
+11 oktober|Kevin Ike|[Sociaal in alle soorten (Diergedrag)](/Lessen/11oktober.md)
+18 oktober|Lieke van Iersel en Sophie Schretlen|[iGem: toepassingen van synthetische biologie](/Lessen/18oktober.md)
+25 oktober|*Vakantie*|*Geen N&T-cursus*
+1 november|Mark Hoorens|[Licht en moleculen](/Lessen/1november.md)
+8 november|Bas|[Waterhardheid + Licht en polarisatie](/Lessen/8november.md)
+15 november|Paul Haan en Sylvia de Boer|[Kaarten en geografische informatiesystemen](/Lessen/15november.md)
+22 november|Bas en Peter|[Ballonnenexperiment + Elektronische componenten](/Lessen/22november.md)
+29 november|Peter Dendooven en Harry Kiewiet|[Excursie KVI-CART](/Lessen/29november.md)
+6 december|Casper van der Kooi|[Bloemen, kleuren en zien bij dieren](/Lessen/6december.md)
+13 december|Moniek Tromp|[Raakt energie ooit op?](/Lessen/13december.md)
+20 december|Bas, Selinde, Nora|[Winterse proefjes en quiz](/Lessen/20december.md)
+27 december|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 5 (2019)
 
