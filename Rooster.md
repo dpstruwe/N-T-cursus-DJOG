@@ -7,7 +7,7 @@
 Wanneer|Wie|Wat
 ---|---|---
 3 januari|*Vakantie*|*Geen N&T-cursus*
-10 januari|Anika Nagelkerke|Celmodellen voor ziektes
+10 januari|Anika Nagelkerke|[Lab-on-a-chip](/Lessen/10januari.md)
 17 januari|Helco van Keeken|Kom in beweging! (Excursie UMCG Bewegingswetenschappen)
 24 januari|Karin de Boer|Plastic in zee en milieu
 31 januari|Diederik Roest|Zwaartekracht
