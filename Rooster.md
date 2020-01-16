@@ -25,7 +25,7 @@ Wanneer|Wie|Wat
 24 april|.|.
 1 mei|*Vakantie*|*Geen N&T-cursus*
 8 mei|.|*(Vakantie?)*
-15 mei|.|.
+15 mei|Lizette Oudhuis|Voedseltechnologie
 22 mei|*Hemelvaart*|*Geen N&T-cursus*
 29 mei|.|*(Pinksteren)*
 5 juni|.|.
