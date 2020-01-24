@@ -9,7 +9,7 @@ Wanneer|Wie|Wat
 3 januari|*Vakantie*|*Geen N&T-cursus*
 10 januari|Anika Nagelkerke|[Lab-on-a-chip](/Lessen/10januari.md)
 17 januari|Helco van Keeken|[Excursie Bewegingswetenschappen](/Lessen/17januari.md)
-24 januari|Karin de Boer|Plastic in zee en milieu
+24 januari|Karin de Boer|[Plastic in zee en milieu](/Lessen/24januari.md)
 31 januari|Diederik Roest|Zwaartekracht
 7 februari|Janke Prins e.a.|Excursie Blaauw Sterrenwacht
 14 februari|Nora en Peter|Eiwitten / Solderen (?)
