@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 13 maart|.|*(Insectenhotel maken (?))*
 20 maart|Stijn Mouton|Veroudering
 27 maart|Jocelien Olivier|De hersenen
-3 april|.|.
+3 april|Diederik Roest|Zwaartekracht en andere krachten
 10 april|*Goede Vrijdag*|*Geen N&T-cursus*
 17 april|.|.
 24 april|.|.
