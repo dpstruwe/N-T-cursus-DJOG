@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 29 mei|.|*(Pinksteren)*
 5 juni|.|.
 12 juni|.|.
-19 juni|.|.
+19 juni|Elkan Akyurek|Experimentele psychologie
 26 juni|.|.
 3 juli|*Vakantie*|*Geen N&T-cursus*
 
