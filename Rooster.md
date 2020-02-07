@@ -11,7 +11,7 @@ Wanneer|Wie|Wat
 17 januari|Helco van Keeken|[Excursie Bewegingswetenschappen](/Lessen/17januari.md)
 24 januari|Karin de Boer|[Plastic in zee en milieu](/Lessen/24januari.md)
 31 januari|Peter en Bas|[Fluorescentie en fosforescentie + Hoogspanning en elektrische kracht](/Lessen/31januari.md)
-7 februari|Janke Prins e.a.|[Excursie Blaauw Sterrenwacht](/Lessen/7februari.md)
+7 februari|Joost van den Born en Mathijn Lensen|[Excursie Blaauw Sterrenwacht](/Lessen/7februari.md)
 14 februari|Nora en Peter|Eiwitten / Solderen (?)
 21 februari|*Vakantie*|*Geen N&T-cursus*
 28 februari|Nick Landman|Insectenhotel maken
