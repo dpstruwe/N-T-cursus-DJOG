@@ -12,7 +12,7 @@ Wanneer|Wie|Wat
 24 januari|Karin de Boer|[Plastic in zee en milieu](/Lessen/24januari.md)
 31 januari|Peter en Bas|[Fluorescentie en fosforescentie + Hoogspanning en elektrische kracht](/Lessen/31januari.md)
 7 februari|Joost van den Born en Mathijn Lensen|[Excursie Blaauw Sterrenwacht](/Lessen/7februari.md)
-14 februari|Nora en Peter|Eiwitten / Afstanden in ons zonnestelsel + Solderen
+14 februari|Nora, Bas en Peter|[Eiwitten](/Lessen/14februari.md)
 21 februari|*Vakantie*|*Geen N&T-cursus*
 28 februari|Nick Landman|Insectenhotel maken
 6 maart|Nick Landman|Insectenhotel maken (vervolg)
