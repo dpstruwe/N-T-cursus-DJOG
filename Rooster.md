@@ -14,9 +14,9 @@ Wanneer|Wie|Wat
 7 februari|Joost van den Born en Mathijn Lensen|[Excursie Blaauw Sterrenwacht](/Lessen/7februari.md)
 14 februari|Nora, Bas en Peter|[Eiwitten](/Lessen/14februari.md)
 21 februari|*Vakantie*|*Geen N&T-cursus*
-28 februari|Nick Landman|Insectenhotel maken
-6 maart|Nick Landman|Insectenhotel maken (vervolg)
-13 maart|Nick Landman, Peter, Bas|Afmaken insectenhotel + ...
+28 februari|Nick Landman|[Bijenhotel maken](/Lessen/28februari.md)
+6 maart|Nick Landman|Bijenhotel maken (vervolg)
+13 maart|Nick Landman, Peter, Bas|Afmaken bijenhotel / Zonnecellen maken (?)
 20 maart|Stijn Mouton|Veroudering
 27 maart|Jocelien Olivier|De hersenen
 3 april|Diederik Roest|Zwaartekracht en andere krachten
