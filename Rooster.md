@@ -21,7 +21,7 @@ Wanneer|Wie|Wat
 27 maart|Jocelien Olivier|De hersenen
 3 april|Diederik Roest|Zwaartekracht en andere krachten
 10 april|*Goede Vrijdag*|*Geen N&T-cursus*
-17 april|.|.
+17 april|Marc Stuart|Glasblazen
 24 april|.|.
 1 mei|*Vakantie*|*Geen N&T-cursus*
 8 mei|.|*(Vakantie?)*
