@@ -2,7 +2,7 @@
 
 ## Seizoen 7 (2020)
 
-**Let op: de activiteiten van DJO liggen op dit mnoment tijdelijk stil vanwege het coronavirus! Houd nadere berichtgeving in de gaten.**
+**Let op: de activiteiten van DJO liggen op dit moment tijdelijk stil vanwege het coronavirus! Houd nadere berichtgeving in de gaten.**
 
 Wanneer|Wie|Wat
 ---|---|---
