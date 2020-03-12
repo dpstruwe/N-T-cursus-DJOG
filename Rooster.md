@@ -28,7 +28,7 @@ Wanneer|Wie|Wat
 15 mei|Lizette Oudhuis|Voedseltechnologie
 22 mei|*Hemelvaart*|*Geen N&T-cursus*
 29 mei|.|*(Pinksteren)*
-5 juni|.|.
+5 juni|Alex van den Berg|Scheikunde
 12 juni|.|.
 19 juni|Elkan Akyurek|Experimentele psychologie
 26 juni|.|.
