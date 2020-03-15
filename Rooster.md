@@ -16,10 +16,10 @@ Wanneer|Wie|Wat
 21 februari|*Vakantie*|*Geen N&T-cursus*
 28 februari|Nick Landman|[Bijenhotel maken](/Lessen/28februari.md)
 6 maart|Nick Landman|Bijenhotel maken (vervolg)
-13 maart|Nick Landman, Peter, Bas|Afmaken bijenhotel / Alternatief (microscopie, zonnecellen?)
-20 maart|Stijn Mouton|Veroudering
-27 maart|Jocelien Olivier|De hersenen
-3 april|Diederik Roest|Zwaartekracht en andere krachten
+13 maart|Nick Landman, Peter, Bas|Afmaken bijenhotel / Alternatief (microscopie, zonnecellen?) *[Afgelast]*
+20 maart|Stijn Mouton|Veroudering *[Afgelast]*
+27 maart|Jocelien Olivier|De hersenen *[Afgelast]*
+3 april|Diederik Roest|Zwaartekracht en andere krachten *[Afgelast]*
 10 april|*Goede Vrijdag*|*Geen N&T-cursus*
 17 april|Marc Stuart|Glasblazen
 24 april|.|.
