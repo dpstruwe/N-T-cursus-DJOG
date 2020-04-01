@@ -21,8 +21,8 @@ Wanneer|Wie|Wat
 27 maart|Jocelien Olivier|De hersenen *[Afgelast]*
 3 april|Diederik Roest|Zwaartekracht en andere krachten *[Afgelast]*
 10 april|*Goede Vrijdag*|*Geen N&T-cursus*
-17 april|Marc Stuart|Glasblazen
-24 april|.|.
+17 april|Marc Stuart|Glasblazen *[Afgelast]*
+24 april||*[Afgelast]*
 1 mei|*Vakantie*|*Geen N&T-cursus*
 8 mei|.|*(Vakantie?)*
 15 mei|Lizette Oudhuis|Voedseltechnologie
