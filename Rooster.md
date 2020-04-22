@@ -24,10 +24,10 @@ Wanneer|Wie|Wat
 17 april|Marc Stuart|Glasblazen *[Afgelast]*
 24 april||*[Afgelast]*
 1 mei|*Vakantie*|*Geen N&T-cursus*
-8 mei|.|*(Vakantie?)*
+8 mei||*[Afgelast]*
 15 mei|Lizette Oudhuis|Voedseltechnologie *[Afgelast]*
 22 mei|*Hemelvaart*|*Geen N&T-cursus*
-29 mei|.|*(Pinksteren)*
+29 mei||*[Afgelast]*
 5 juni|Alex van den Berg|Scheikunde
 12 juni|.|.
 19 juni|Elkan Akyurek|Experimentele psychologie
