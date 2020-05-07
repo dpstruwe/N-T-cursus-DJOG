@@ -32,7 +32,7 @@ Wanneer|Wie|Wat
 12 juni|.|.
 19 juni|Elkan Akyurek|Experimentele psychologie
 26 juni|Alex van den Berg|Scheikunde
-3 juli|*Vakantie*|*Geen N&T-cursus*
+3 juli|.|.
 
 ## Seizoen 6 (2019)
 
