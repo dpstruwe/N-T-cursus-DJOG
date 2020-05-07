@@ -27,11 +27,11 @@ Wanneer|Wie|Wat
 8 mei||*[Afgelast]*
 15 mei|Lizette Oudhuis|Voedseltechnologie *[Afgelast]*
 22 mei|*Hemelvaart*|*Geen N&T-cursus*
-29 mei||*[?]*
-5 juni|Alex van den Berg|Scheikunde
+29 mei||*[Afgelast]*
+5 juni|Bas|Virussen
 12 juni|.|.
 19 juni|Elkan Akyurek|Experimentele psychologie
-26 juni|.|.
+26 juni|Alex van den Berg|Scheikunde
 3 juli|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 6 (2019)
