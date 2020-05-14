@@ -2,7 +2,7 @@
 
 ## Seizoen 7 (2020)
 
-**Let op: de activiteiten van DJO liggen op dit moment tijdelijk stil vanwege het coronavirus! Houd nadere berichtgeving in de gaten.**
+**De cursus gaat weer van start vanaf 5 juni!**
 
 Wanneer|Wie|Wat
 ---|---|---
