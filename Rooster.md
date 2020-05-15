@@ -38,7 +38,7 @@ Wanneer|Wie|Wat
 
 Wanneer|Wie|Wat
 ---|---|---
-.|.|.
+21 augustus|.|.
 .|.|.
 25 september|Lizette Oudhuis|Voedseltechnologie
 .|.|.
