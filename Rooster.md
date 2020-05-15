@@ -34,6 +34,15 @@ Wanneer|Wie|Wat
 26 juni|Alex van den Berg|Scheikunde
 3 juli|.|.
 
+## Seizoen 8 (2020)
+
+Wanneer|Wie|Wat
+---|---|---
+.|.|.
+.|.|.
+25 september|Lizette Oudhuis|Voedseltechnologie
+.|.|.
+
 ## Seizoen 6 (2019)
 
 Wanneer|Wie|Wat
