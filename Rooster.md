@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 29 mei||*[Afgelast]*
 5 juni|Bas|Virussen
 12 juni|Diederik Roest|Zwaartekracht en andere krachten
-19 juni|.|.
+19 juni|Jeffrey Bout|Sterrenkunde
 26 juni|Alex van den Berg|Scheikunde
 3 juli|.|.
 
