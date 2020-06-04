@@ -39,7 +39,7 @@ Wanneer|Wie|Wat
 Wanneer|Wie|Wat
 ---|---|---
 21 augustus|.|.
-.|.|.
+28 augustus|.|.
 4 september|Maria van Leeuwe/Jacqueline Stefels|Onderzoek in het poolgebied
 .|.|.
 25 september|Lizette Oudhuis|Voedseltechnologie
