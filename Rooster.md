@@ -28,7 +28,7 @@ Wanneer|Wie|Wat
 15 mei|Lizette Oudhuis|Voedseltechnologie *[Afgelast]*
 22 mei|*Hemelvaart*|*Geen N&T-cursus*
 29 mei||*[Afgelast]*
-5 juni|Bas, Nora|Virussen
+5 juni|Bas, Nora|[Virussen](/Lessen/5juni.md)
 12 juni|Diederik Roest|Zwaartekracht en andere krachten
 19 juni|Jeffrey Bout|Sterrenkunde
 26 juni|Alex van den Berg|Scheikunde
