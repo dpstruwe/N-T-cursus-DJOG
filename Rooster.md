@@ -31,7 +31,7 @@ Wanneer|Wie|Wat
 5 juni|Bas, Nora, Peter|[Virussen](/Lessen/5juni.md)
 12 juni|Diederik Roest|Zwaartekracht en andere krachten
 19 juni|Jeffrey Bout|Sterrenkunde
-26 juni|Alex van den Berg|Scheikunde
+26 juni|Alex van den Berg|Keukenscheikunde
 3 juli|.|.
 
 ## Seizoen 8 (2020)
