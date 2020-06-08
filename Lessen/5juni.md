@@ -3,4 +3,4 @@ De cursisten hebben uitleg gekregen over virussen. Virussen zijn eigenlijk pakke
 
 Na een korte uitleg over een paar belangrijke onderdelen van het coronavirus, hebben de cursisten met een soort speelklei een coronavirus nagemaakt. Op die manier konden ze zien hoe het virus zich aan een cel bindt en op welke manier een medicijn ervoor zou kunnen zorgen dat dit niet meer lukt.
 
-*(Het bestand met de gebruikte presentatie en een uitgebreide samenvatting kan binnenkort hier worden gedownload)*
+*(Het bestand met de gebruikte presentatie en een uitgebreide samenvatting kan [hier](virussen.pdf) worden bekeken of gedownload)*
