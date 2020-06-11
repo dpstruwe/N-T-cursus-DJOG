@@ -2,8 +2,6 @@
 
 ## Seizoen 7 (2020)
 
-**De cursus gaat weer van start vanaf 5 juni!**
-
 Wanneer|Wie|Wat
 ---|---|---
 3 januari|*Vakantie*|*Geen N&T-cursus*
