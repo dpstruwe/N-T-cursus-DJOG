@@ -39,8 +39,15 @@ Wanneer|Wie|Wat
 21 augustus|.|.
 28 augustus|.|.
 4 september|Maria van Leeuwe/Jacqueline Stefels|Onderzoek in het poolgebied
-.|.|.
+11 september|.|.
+18 september|.|.
 25 september|Lizette Oudhuis|Voedseltechnologie
+2 oktober|.|.
+9 oktober|.|.
+16 oktober|.|.
+23 oktober|.|.
+30 oktober|.|.
+6 november|.|.
 .|.|.
 
 ## Seizoen 6 (2019)
