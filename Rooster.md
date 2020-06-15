@@ -44,7 +44,7 @@ Wanneer|Wie|Wat
 25 september|Lizette Oudhuis|Voedseltechnologie
 2 oktober|.|.
 9 oktober|.|.
-16 oktober|.|.
+16 oktober|*Vakantie*|*Geen N&T-cursus*
 23 oktober|.|.
 30 oktober|.|.
 6 november|.|.
