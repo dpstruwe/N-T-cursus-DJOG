@@ -28,7 +28,7 @@ Wanneer|Wie|Wat
 29 mei||*[Afgelast]*
 5 juni|Bas, Nora, Peter|[Virussen](/Lessen/5juni.md)
 12 juni|Diederik Roest|[Zwaartekracht en andere krachten](/Lessen/12juni.md)
-19 juni|Jeffrey Bout|[Op reis door de kosmos](/Lessen/19juni)
+19 juni|Jeffrey Bout|[Op reis door de kosmos](/Lessen/19juni.md)
 26 juni|Alex van den Berg|Keukenscheikunde
 3 juli|.|.
 
