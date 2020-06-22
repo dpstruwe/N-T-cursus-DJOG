@@ -40,7 +40,7 @@ Wanneer|Wie|Wat
 28 augustus|.|.
 4 september|Maria van Leeuwe/Jacqueline Stefels|Onderzoek in het poolgebied
 11 september|.|.
-18 september|.|.
+18 september|Elkan Akyurek|Experimentele psychologie
 25 september|Lizette Oudhuis|Voedseltechnologie
 2 oktober|.|.
 9 oktober|.|.
