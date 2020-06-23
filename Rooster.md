@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 12 juni|Diederik Roest|[Zwaartekracht en andere krachten](/Lessen/12juni.md)
 19 juni|Jeffrey Bout|[Op reis door de kosmos](/Lessen/19juni.md)
 26 juni|Alex van den Berg|Keukenscheikunde
-3 juli|.|.
+3 juli|Peter|Speelklei maken met brooddeeg
 
 ## Seizoen 8 (2020)
 
