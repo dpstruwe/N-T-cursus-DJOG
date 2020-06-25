@@ -48,7 +48,13 @@ Wanneer|Wie|Wat
 23 oktober|.|.
 30 oktober|.|.
 6 november|.|.
-.|.|.
+13 november|.|.
+20 november|.|.
+27 november|.|.
+4 december|.|.
+11 december|.|.
+18 december|.|.
+25 december|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 6 (2019)
 
