@@ -29,7 +29,7 @@ Wanneer|Wie|Wat
 5 juni|Bas, Nora, Peter|[Virussen](/Lessen/5juni.md)
 12 juni|Diederik Roest|[Zwaartekracht en andere krachten](/Lessen/12juni.md)
 19 juni|Jeffrey Bout|[Op reis door de kosmos](/Lessen/19juni.md)
-26 juni|Alex van den Berg|Keukenscheikunde
+26 juni|Alex van den Berg|[Keukenscheikunde](/Lessen/26juni.md)
 3 juli|Peter|Speelklei maken met brooddeeg
 
 ## Seizoen 8 (2020)
