@@ -52,7 +52,7 @@ Wanneer|Wie|Wat
 20 november|.|.
 27 november|.|.
 4 december|.|.
-11 december|.|.
+11 december|Merit Hondelink|Archeobotanie
 18 december|.|.
 25 december|*Vakantie*|*Geen N&T-cursus*
 
