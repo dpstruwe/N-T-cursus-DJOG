@@ -1,5 +1,29 @@
 # Rooster
 
+## Seizoen 8 (2020)
+
+Wanneer|Wie|Wat
+---|---|---
+21 augustus|.|.
+28 augustus|.|.
+4 september|Maria van Leeuwe/Jacqueline Stefels|Onderzoek in het poolgebied
+11 september|Annemarie Maan|
+18 september|Elkan Akyurek|Experimentele psychologie
+25 september|Lizette Oudhuis|Voedseltechnologie
+2 oktober|.|.
+9 oktober|.|.
+16 oktober|*Vakantie*|*Geen N&T-cursus*
+23 oktober|.|.
+30 oktober|.|.
+6 november|.|.
+13 november|.|.
+20 november|.|.
+27 november|.|.
+4 december|.|.
+11 december|Merit Hondelink|Archeobotanie
+18 december|.|.
+25 december|*Vakantie*|*Geen N&T-cursus*
+
 ## Seizoen 7 (2020)
 
 Wanneer|Wie|Wat
@@ -31,30 +55,6 @@ Wanneer|Wie|Wat
 19 juni|Jeffrey Bout|[Op reis door de kosmos](/Lessen/19juni.md)
 26 juni|Alex van den Berg|[Keukenscheikunde](/Lessen/26juni.md)
 3 juli|Peter|[Speelklei maken van zoutdeeg](/Lessen/3juli.md)
-
-## Seizoen 8 (2020)
-
-Wanneer|Wie|Wat
----|---|---
-21 augustus|.|.
-28 augustus|.|.
-4 september|Maria van Leeuwe/Jacqueline Stefels|Onderzoek in het poolgebied
-11 september|.|.
-18 september|Elkan Akyurek|Experimentele psychologie
-25 september|Lizette Oudhuis|Voedseltechnologie
-2 oktober|.|.
-9 oktober|.|.
-16 oktober|*Vakantie*|*Geen N&T-cursus*
-23 oktober|.|.
-30 oktober|.|.
-6 november|.|.
-13 november|.|.
-20 november|.|.
-27 november|.|.
-4 december|.|.
-11 december|Merit Hondelink|Archeobotanie
-18 december|.|.
-25 december|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 6 (2019)
 
