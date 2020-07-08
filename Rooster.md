@@ -10,7 +10,7 @@ Wanneer|Wie|Wat
 11 september|Annemarie Maan|Beschermlagen tegen vuil
 18 september|Elkan Akyurek|Experimentele psychologie
 25 september|Lizette Oudhuis|Voedseltechnologie
-2 oktober|.|.
+2 oktober|Marc Stuart|Glasblazen
 9 oktober|.|.
 16 oktober|*Vakantie*|*Geen N&T-cursus*
 23 oktober|.|.
