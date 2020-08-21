@@ -4,7 +4,7 @@
 
 Wanneer|Wie|Wat
 ---|---|---
-21 augustus|Bas|Enzymen en katalysatoren
+21 augustus|Bas|[Enzymen en katalysatoren](/Lessen/21augustus.md)
 28 augustus|Ynze van der Spek|
 4 september|Maria van Leeuwe/Jacqueline Stefels|Onderzoek in het poolgebied
 11 september|Annemarie Maan|Beschermlagen tegen vuil
