@@ -5,7 +5,7 @@
 Wanneer|Wie|Wat
 ---|---|---
 21 augustus|Bas|[Enzymen en katalysatoren](/Lessen/21augustus.md)
-28 augustus|Ynze van der Spek|
+28 augustus|Ynze van der Spek|Bibberbeesten en chaos
 4 september|Maria van Leeuwe/Jacqueline Stefels|Onderzoek in het poolgebied
 11 september|Annemarie Maan|Beschermlagen tegen vuil
 18 september|Elkan Akyurek|Experimentele psychologie
