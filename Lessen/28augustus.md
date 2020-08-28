@@ -1,0 +1,4 @@
+# Bibberbeesten en chaos
+De cursisten hebben zelf zogeheten Bibberbeesten gemaakt van kroonsteentjes, een klein motortje en elektriciteitsdraad. Het idee is dat door een stukje draad aan het motortje vast te maken, de 'beestjes' onvoorspelbaar (chaotisch) gaan bewegen, in allerlei richtingen. Het is erg moeilijk om ze zo te maken dat ze rechtdoor gaan. De cursisten hebben dit wel geprobeerd, maar het is bij niemand echt (goed) gelukt. Elk beestje beweegt weer anders, en zelfs als je heel precies probeert om twee keer hetzelfde beestje te maken, zal de beweging nooit hetzelfde zijn omdat er altijd hele kleine verschillen zijn. Dat is de basis van de chaostheorie, en dat verklaart ook waarom bijvoorbeeld het weer geen dag precies hetzelfde is en het zo moeilijk te voorspellen is.
+
+*Meer informatie over het maken van Bibberbeestjes: http://slimme-handen.nl/2013/04/bibberbotjes-nog-leuker-dan-borstel-robots/*
