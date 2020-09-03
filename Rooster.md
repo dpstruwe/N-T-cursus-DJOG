@@ -14,7 +14,7 @@ Wanneer|Wie|Wat
 9 oktober|.|.
 16 oktober|*Vakantie*|*Geen N&T-cursus*
 23 oktober|.|.
-30 oktober|.|.
+30 oktober|Jan Komdeur|Het nut van samenwerken in de natuur
 6 november|.|.
 13 november|.|.
 20 november|.|.
