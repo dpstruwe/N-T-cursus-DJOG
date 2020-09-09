@@ -18,7 +18,7 @@ Wanneer|Wie|Wat
 6 november|.|.
 13 november|.|.
 20 november|.|.
-27 november|Stefanie Vink|De invloed van micro-organismen op planten
+27 november|Stefanie Vink|Samenwerking tussen micro-organismen en planten
 4 december|.|.
 11 december|Merit Hondelink|Archeobotanie
 18 december|.|.
