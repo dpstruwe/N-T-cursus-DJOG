@@ -15,7 +15,7 @@ Wanneer|Wie|Wat
 16 oktober|*Vakantie*|*Geen N&T-cursus*
 23 oktober|.|.
 30 oktober|Jan Komdeur|Het nut van samenwerken in de natuur
-6 november|.|.
+6 november|Steven van der Veeke|Bodemonderzoek met radioactiviteit
 13 november|.|.
 20 november|.|.
 27 november|Stefanie Vink|Samenwerking tussen micro-organismen en planten
