@@ -9,7 +9,7 @@ Wanneer|Wie|Wat
 4 september|Maria van Leeuwe|[Onderzoek in het poolgebied](/Lessen/4september.md)
 11 september|Annemarie Maan|[Beschermlagen tegen vuil](/Lessen/11september.md)
 18 september|Elkan Akyurek|Experimentele psychologie
-25 september|Lizette Oudhuis|Voedseltechnologie
+25 september|.|.
 2 oktober|Marc Stuart|Glasblazen
 9 oktober|.|.
 16 oktober|*Vakantie*|*Geen N&T-cursus*
