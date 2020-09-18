@@ -8,8 +8,8 @@ Wanneer|Wie|Wat
 28 augustus|Ynze van der Spek|[Bibberbeesten en chaos](/Lessen/28augustus.md)
 4 september|Maria van Leeuwe|[Onderzoek in het poolgebied](/Lessen/4september.md)
 11 september|Annemarie Maan|[Beschermlagen tegen vuil](/Lessen/11september.md)
-18 september|Elkan Akyurek|Experimentele psychologie
-25 september|.|.
+18 september|Elkan Akyurek|[Experimentele psychologie](/Lessen/18september.md)
+25 september|Bas|Erfelijkheid
 2 oktober|Marc Stuart|Glasblazen
 9 oktober|.|.
 16 oktober|*Vakantie*|*Geen N&T-cursus*
