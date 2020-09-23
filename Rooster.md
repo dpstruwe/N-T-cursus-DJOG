@@ -24,6 +24,17 @@ Wanneer|Wie|Wat
 18 december|.|.
 25 december|*Vakantie*|*Geen N&T-cursus*
 
+## Seizoen 9 (2021)
+
+Wanneer|Wie|Wat
+---|---|---
+8 januari|.|.
+15 januari|.|.
+22 januari|.|.
+.|.|.
+.|.|.
+.|.|.
+
 ## Seizoen 7 (2020)
 
 Wanneer|Wie|Wat
