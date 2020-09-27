@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 2 oktober|Marc Stuart|Glasblazen
 9 oktober|.|.
 16 oktober|*Vakantie*|*Geen N&T-cursus*
-23 oktober|.|.
+23 oktober|Kim van Maldegem e.a.|iGem 
 30 oktober|Jan Komdeur|Het nut van samenwerken in de natuur
 6 november|Steven van der Veeke|Bodemonderzoek met radioactiviteit
 13 november|.|.
