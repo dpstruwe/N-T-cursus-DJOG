@@ -16,8 +16,8 @@ Wanneer|Wie|Wat
 23 oktober|Kim van Maldegem e.a.|iGem 
 30 oktober|Jan Komdeur|Het nut van samenwerken in de natuur
 6 november|Steven van der Veeke|Bodemonderzoek met radioactiviteit
-13 november|.|.
-20 november|.|.
+13 november|Johan|Camouflage
+20 november|Astrid Kruitwagen|Onderzoek aan insecten
 27 november|Stefanie Vink|Samenwerking tussen micro-organismen en planten
 4 december|.|.
 11 december|Merit Hondelink|Archeobotanie
