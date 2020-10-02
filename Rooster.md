@@ -10,8 +10,8 @@ Wanneer|Wie|Wat
 11 september|Annemarie Maan|[Beschermlagen tegen vuil](/Lessen/11september.md)
 18 september|Elkan Akyurek|[Experimentele psychologie](/Lessen/18september.md)
 25 september|Bas|[Erfelijkheid](/Lessen/25september.md)
-2 oktober|Marc Stuart|Glasblazen
-9 oktober|.|.
+2 oktober|Marc Stuart|[Glasblazen](/Lessen/2oktober.md)
+9 oktober|Bas en Peter|Poedertest + Elektromagneten
 16 oktober|*Vakantie*|*Geen N&T-cursus*
 23 oktober|Kim van Maldegem e.a.|iGem 
 30 oktober|Jan Komdeur|Het nut van samenwerken in de natuur
