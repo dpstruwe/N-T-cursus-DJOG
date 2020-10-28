@@ -15,8 +15,8 @@ Wanneer|Wie|Wat
 16 oktober|*Vakantie*|*Geen N&T-cursus*
 23 oktober|Kim van Maldegem e.a.|iGem *[Afgelast]*
 30 oktober|Jan Komdeur|Het nut van samenwerken in de natuur *[Afgelast]*
-6 november|Steven van der Veeke|Bodemonderzoek met radioactiviteit
-13 november|Johan|Camouflage
+6 november|Steven van der Veeke|Bodemonderzoek met radioactiviteit *[Afgelast]*
+13 november|Johan|Camouflage *[Afgelast]*
 20 november|Astrid Kruitwagen|Onderzoek aan insecten
 27 november|Stefanie Vink|Samenwerking tussen micro-organismen en planten
 4 december|.|.
