@@ -29,7 +29,7 @@ Wanneer|Wie|Wat
 Wanneer|Wie|Wat
 ---|---|---
 8 januari|.|.
-15 januari|.|.
+15 januari|Steven van der Veeke|Bodemonderzoek met radioactiviteit
 22 januari|.|.
 .|.|.
 .|.|.
