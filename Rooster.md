@@ -37,6 +37,8 @@ Wanneer|Wie|Wat
 19 februari|.|.
 26 februari|*Vakantie*|*Geen N&T-cursus*
 5 maart|.|.
+12 maart|.|.
+19 maart|.|.
 .|.|.
 
 ## Seizoen 7 (2020)
