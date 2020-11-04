@@ -31,8 +31,12 @@ Wanneer|Wie|Wat
 8 januari|.|.
 15 januari|Steven van der Veeke|Bodemonderzoek met radioactiviteit
 22 januari|.|.
-.|.|.
-.|.|.
+29 januari|.|.
+5 februari|.|.
+12 februari|.|.
+19 februari|.|.
+26 februari|*Vakantie*|*Geen N&T-cursus*
+5 maart|.|.
 .|.|.
 
 ## Seizoen 7 (2020)
