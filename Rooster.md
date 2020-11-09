@@ -39,7 +39,22 @@ Wanneer|Wie|Wat
 5 maart|.|.
 12 maart|.|.
 19 maart|.|.
-.|.|.
+26 maart|.|.
+2 april|*Goede Vrijdag*|*Geen N&T-cursus*
+9 april|.|.
+16 april|.|.
+23 april|.|.
+30 april|.|.
+7 mei|*Vakantie*|*Geen N&T-cursus*
+14 mei|*Hemelvaart*|*Geen N&T-cursus*
+21 mei|.|.
+28 mei|.|.
+4 juni|.|.
+11 juni|.|.
+18 juni|.|.
+25 juni|.|.
+2 juli|.|.
+9 juli|.|.
 
 ## Seizoen 7 (2020)
 
