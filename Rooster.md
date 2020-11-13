@@ -28,7 +28,7 @@ Wanneer|Wie|Wat
 
 Wanneer|Wie|Wat
 ---|---|---
-8 januari|.|.
+8 januari|Hiske van Duinen|Benauwdheid
 15 januari|Steven van der Veeke|Bodemonderzoek met radioactiviteit
 22 januari|.|.
 29 januari|.|.
