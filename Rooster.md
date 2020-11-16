@@ -21,7 +21,7 @@ Wanneer|Wie|Wat
 27 november|Stefanie Vink|Samenwerking tussen micro-organismen en planten
 4 december|Johan|Camouflage
 11 december|Merit Hondelink|Archeobotanie
-18 december|.|.
+18 december|Bas en Peter|Quiz + Knetterende proefjes
 25 december|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 9 (2021)
