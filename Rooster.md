@@ -31,14 +31,14 @@ Wanneer|Wie|Wat
 8 januari|Hiske van Duinen|Benauwdheid
 15 januari|Steven van der Veeke|Bodemonderzoek met radioactiviteit
 22 januari|.|.
-29 januari|.|.
+29 januari|Leen van Wijngaarden|Stroomkring tekenen
 5 februari|.|.
 12 februari|.|.
-19 februari|.|.
+19 februari|Leen van Wijngaarden|Papieren kristallen
 26 februari|*Vakantie*|*Geen N&T-cursus*
 5 maart|.|.
 12 maart|.|.
-19 maart|.|.
+19 maart|Leen van Wijngaarden|Thuis bij de huismuis (360°-fotografie)
 26 maart|.|.
 2 april|*Goede Vrijdag*|*Geen N&T-cursus*
 9 april|.|.
