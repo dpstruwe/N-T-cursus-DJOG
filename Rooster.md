@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 20 november|Bas|[Geur en reuk](/Lessen/20november.md)
 27 november|Stefanie Vink|Samenwerking tussen micro-organismen en planten
 4 december|Johan|Camouflage
-11 december|Merit Hondelink|Archeobotanie
+11 december|.|.
 18 december|Bas en Peter|Quiz + Knetterende proefjes
 25 december|*Vakantie*|*Geen N&T-cursus*
 
