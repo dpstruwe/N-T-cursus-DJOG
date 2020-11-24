@@ -44,7 +44,7 @@ Wanneer|Wie|Wat
 9 april|.|.
 16 april|.|.
 23 april|.|.
-30 april|.|.
+30 april|Merit Hondelink|Archeobotanie
 7 mei|*Vakantie*|*Geen N&T-cursus*
 14 mei|*Hemelvaart*|*Geen N&T-cursus*
 21 mei|.|.
