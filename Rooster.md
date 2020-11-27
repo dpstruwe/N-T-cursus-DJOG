@@ -18,7 +18,7 @@ Wanneer|Wie|Wat
 6 november|Steven van der Veeke|Bodemonderzoek met radioactiviteit *[Afgelast]*
 13 november|Johan|Camouflage *[Afgelast]*
 20 november|Bas|[Geur en reuk](/Lessen/20november.md)
-27 november|Stefanie Vink|Samenwerking tussen micro-organismen en planten
+27 november|Stefanie Vink|[Samenwerking tussen micro-organismen en planten](/Lessen/27november.md)
 4 december|Johan|Camouflage
 11 december|.|.
 18 december|Bas en Peter|Quiz + Knetterende proefjes
