@@ -32,7 +32,7 @@ Wanneer|Wie|Wat
 15 januari|Steven van der Veeke|Bodemonderzoek met radioactiviteit
 22 januari|.|.
 29 januari|Leen van Wijngaarden|Stroomkring tekenen
-5 februari|.|.
+5 februari|Tessa van der Voort|
 12 februari|.|.
 19 februari|Leen van Wijngaarden|Papieren kristallen
 26 februari|*Vakantie*|*Geen N&T-cursus*
@@ -47,7 +47,7 @@ Wanneer|Wie|Wat
 30 april|Merit Hondelink|Archeobotanie
 7 mei|*Vakantie*|*Geen N&T-cursus*
 14 mei|*Hemelvaart*|*Geen N&T-cursus*
-21 mei|.|.
+21 mei|Janne Nauta|
 28 mei|.|.
 4 juni|.|.
 11 juni|.|.
