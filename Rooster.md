@@ -32,7 +32,7 @@ Wanneer|Wie|Wat
 15 januari|Steven van der Veeke|Bodemonderzoek met radioactiviteit
 22 januari|.|.
 29 januari|Leen van Wijngaarden|Stroomkring tekenen
-5 februari|Tessa van der Voort|
+5 februari|Tessa van der Voort|Het belang van de bodem
 12 februari|.|.
 19 februari|Leen van Wijngaarden|Papieren kristallen
 26 februari|*Vakantie*|*Geen N&T-cursus*
