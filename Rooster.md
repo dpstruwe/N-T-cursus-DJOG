@@ -47,7 +47,7 @@ Wanneer|Wie|Wat
 30 april|Merit Hondelink|Archeobotanie
 7 mei|*Vakantie*|*Geen N&T-cursus*
 14 mei|*Hemelvaart*|*Geen N&T-cursus*
-21 mei|Janne Nauta|
+21 mei|Janne Nauta|De ecologie van het Wad
 28 mei|.|.
 4 juni|.|.
 11 juni|.|.
