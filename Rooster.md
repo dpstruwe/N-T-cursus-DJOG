@@ -39,7 +39,7 @@ Wanneer|Wie|Wat
 5 maart|.|.
 12 maart|.|.
 19 maart|Leen van Wijngaarden|Thuis bij de huismuis (360°-fotografie)
-26 maart|.|.
+26 maart|Ynze van der Spek|Spaghettibrug bouwen
 2 april|*Goede Vrijdag*|*Geen N&T-cursus*
 9 april|.|.
 16 april|.|.
