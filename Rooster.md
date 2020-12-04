@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 13 november|Johan|Camouflage *[Afgelast]*
 20 november|Bas|[Geur en reuk](/Lessen/20november.md)
 27 november|Stefanie Vink|[Samenwerking tussen micro-organismen en planten](/Lessen/27november.md)
-4 december|Johan|Camouflage
+4 december|Johan|[Camouflage](/Lessen/4december.md)
 11 december|Bas|Hart en bloedsomloop
 18 december|Bas en Peter|Quiz + Knetterende proefjes
 25 december|*Vakantie*|*Geen N&T-cursus*
