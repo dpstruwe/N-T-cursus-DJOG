@@ -33,7 +33,7 @@ Wanneer|Wie|Wat
 22 januari|.|.
 29 januari|Leen van Wijngaarden|Stroomkring tekenen
 5 februari|Tessa van der Voort|Het belang van de bodem
-12 februari|.|.
+12 februari|Jan Komdeur|Waarom werken dieren samen?
 19 februari|Leen van Wijngaarden|Papieren kristallen
 26 februari|*Vakantie*|*Geen N&T-cursus*
 5 maart|.|.
