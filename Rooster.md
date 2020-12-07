@@ -36,7 +36,7 @@ Wanneer|Wie|Wat
 12 februari|Jan Komdeur|Waarom werken dieren samen?
 19 februari|Leen van Wijngaarden|Papieren kristallen
 26 februari|*Vakantie*|*Geen N&T-cursus*
-5 maart|.|.
+5 maart|Theo Elzenga|"Gedrag" van planten?
 12 maart|.|.
 19 maart|Leen van Wijngaarden|Thuis bij de huismuis (360°-fotografie)
 26 maart|Ynze van der Spek|Spaghettibrug bouwen
