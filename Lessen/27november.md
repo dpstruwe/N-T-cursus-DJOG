@@ -4,3 +4,5 @@ Planten zijn heel belangrijk voor al het leven op aarde. Ze produceren niet alle
 Planten nemen hun voedingsstoffen op met hun wortels. Daarbij krijgen ze vaak hulp van speciale schimmels en bacteriën. De schimmels vormen zogeheten mycorrhiza, waarbij een symbiose (een innige samenwerking) ontstaat tussen de plant en de schimmel. De schimmeldraden groeien daarbij op of in de cellen van de wortels. Sommige mycorrhiza-schimmels vormen zelfs paddenstoelen, meestal in de buurt van bomen. De plant geeft hierbij suikers (voedsel) aan de schimmel, en de schimmel geeft hiervoor voedingsstoffen terug aan de plant. Daarnaast vormen bij sommige planten bepaalde bacteriën (rhizobia) kleine knolletjes in de wortels: wortelknolletjes. Hierin zetten de bacteriën stikstof uit de lucht om in stikstofverbindingen die de plant kan gebruiken, in ruil voor suikers. Door deze samenwerking kunnen planten veel beter groeien en hebben veel voedselgewassen een hogere opbrengst.
 
 De cursisten hebben zelf mycorrhiza in stukjes plantenwortel gekleurd met inkt en daarna bekeken onder de microscoop.
+
+*Bekijk [hier](/Lessen/mycorrhiza.pdf) de presentatie*
