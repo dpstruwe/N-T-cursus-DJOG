@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 20 november|Bas|[Geur en reuk](/Lessen/20november.md)
 27 november|Stefanie Vink|[Samenwerking tussen micro-organismen en planten](/Lessen/27november.md)
 4 december|Johan|[Camouflage](/Lessen/4december.md)
-11 december|Bas|Hart en bloedsomloop
+11 december|Bas|[Hart en bloedsomloop](/Lessen/11december.md)
 18 december|Bas en Peter|Quiz + Knetterende proefjes
 25 december|*Vakantie*|*Geen N&T-cursus*
 
