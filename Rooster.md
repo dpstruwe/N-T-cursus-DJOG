@@ -21,15 +21,15 @@ Wanneer|Wie|Wat
 27 november|Stefanie Vink|[Samenwerking tussen micro-organismen en planten](/Lessen/27november.md)
 4 december|Johan|[Camouflage](/Lessen/4december.md)
 11 december|Bas|[Hart en bloedsomloop](/Lessen/11december.md)
-18 december|Bas en Peter|Quiz + Knetterende proefjes
+18 december|Bas en Peter|Quiz + Knetterende proefjes *[Afgelast]*
 25 december|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 9 (2021)
 
 Wanneer|Wie|Wat
 ---|---|---
-8 januari|Hiske van Duinen|Benauwdheid
-15 januari|Steven van der Veeke|Bodemonderzoek met radioactiviteit
+8 januari|Hiske van Duinen|Benauwdheid *[Afgelast]*
+15 januari|Steven van der Veeke|Bodemonderzoek met radioactiviteit *[Afgelast]*
 22 januari|.|.
 29 januari|Leen van Wijngaarden|Stroomkring tekenen
 5 februari|Tessa van der Voort|Het belang van de bodem
