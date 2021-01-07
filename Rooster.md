@@ -1,29 +1,5 @@
 # Rooster
 
-## Seizoen 8 (2020)
-
-Wanneer|Wie|Wat
----|---|---
-21 augustus|Bas|[Enzymen en katalysatoren](/Lessen/21augustus.md)
-28 augustus|Ynze van der Spek|[Bibberbeesten en chaos](/Lessen/28augustus.md)
-4 september|Maria van Leeuwe|[Onderzoek in het poolgebied](/Lessen/4september.md)
-11 september|Annemarie Maan|[Beschermlagen tegen vuil](/Lessen/11september.md)
-18 september|Elkan Akyurek|[Experimentele psychologie](/Lessen/18september.md)
-25 september|Bas|[Erfelijkheid](/Lessen/25september.md)
-2 oktober|Marc Stuart|[Glasblazen](/Lessen/2oktober.md)
-9 oktober|Bas en Peter|[Poedertest + Elektromotoren](/Lessen/9oktober.md)
-16 oktober|*Vakantie*|*Geen N&T-cursus*
-23 oktober|Kim van Maldegem e.a.|iGem *[Afgelast]*
-30 oktober|Jan Komdeur|Het nut van samenwerken in de natuur *[Afgelast]*
-6 november|Steven van der Veeke|Bodemonderzoek met radioactiviteit *[Afgelast]*
-13 november|Johan|Camouflage *[Afgelast]*
-20 november|Bas|[Geur en reuk](/Lessen/20november.md)
-27 november|Stefanie Vink|[Samenwerking tussen micro-organismen en planten](/Lessen/27november.md)
-4 december|Johan|[Camouflage](/Lessen/4december.md)
-11 december|Bas|[Hart en bloedsomloop](/Lessen/11december.md)
-18 december|Bas en Peter|Quiz + Knetterende proefjes *[Afgelast]*
-25 december|*Vakantie*|*Geen N&T-cursus*
-
 ## Seizoen 9 (2021)
 
 Wanneer|Wie|Wat
@@ -55,6 +31,30 @@ Wanneer|Wie|Wat
 25 juni|.|.
 2 juli|.|.
 9 juli|.|.
+
+## Seizoen 8 (2020)
+
+Wanneer|Wie|Wat
+---|---|---
+21 augustus|Bas|[Enzymen en katalysatoren](/Lessen/21augustus.md)
+28 augustus|Ynze van der Spek|[Bibberbeesten en chaos](/Lessen/28augustus.md)
+4 september|Maria van Leeuwe|[Onderzoek in het poolgebied](/Lessen/4september.md)
+11 september|Annemarie Maan|[Beschermlagen tegen vuil](/Lessen/11september.md)
+18 september|Elkan Akyurek|[Experimentele psychologie](/Lessen/18september.md)
+25 september|Bas|[Erfelijkheid](/Lessen/25september.md)
+2 oktober|Marc Stuart|[Glasblazen](/Lessen/2oktober.md)
+9 oktober|Bas en Peter|[Poedertest + Elektromotoren](/Lessen/9oktober.md)
+16 oktober|*Vakantie*|*Geen N&T-cursus*
+23 oktober|Kim van Maldegem e.a.|iGem *[Afgelast]*
+30 oktober|Jan Komdeur|Het nut van samenwerken in de natuur *[Afgelast]*
+6 november|Steven van der Veeke|Bodemonderzoek met radioactiviteit *[Afgelast]*
+13 november|Johan|Camouflage *[Afgelast]*
+20 november|Bas|[Geur en reuk](/Lessen/20november.md)
+27 november|Stefanie Vink|[Samenwerking tussen micro-organismen en planten](/Lessen/27november.md)
+4 december|Johan|[Camouflage](/Lessen/4december.md)
+11 december|Bas|[Hart en bloedsomloop](/Lessen/11december.md)
+18 december|Bas en Peter|Quiz + Knetterende proefjes *[Afgelast]*
+25 december|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 7 (2020)
 
