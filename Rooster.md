@@ -6,9 +6,9 @@ Wanneer|Wie|Wat
 ---|---|---
 8 januari|Hiske van Duinen|Benauwdheid *[Afgelast]*
 15 januari|Steven van der Veeke|Bodemonderzoek met radioactiviteit *[Afgelast]*
-22 januari|.|.
-29 januari|Leen van Wijngaarden|Stroomkring tekenen
-5 februari|Tessa van der Voort|Het belang van de bodem
+22 januari||*[Afgelast]*
+29 januari|Leen van Wijngaarden|Stroomkring tekenen *[Afgelast]*
+5 februari|Tessa van der Voort|Het belang van de bodem *[Afgelast]*
 12 februari|Jan Komdeur|Waarom werken dieren samen?
 19 februari|Leen van Wijngaarden|Papieren kristallen
 26 februari|*Vakantie*|*Geen N&T-cursus*
