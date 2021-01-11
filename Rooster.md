@@ -17,7 +17,7 @@ Wanneer|Wie|Wat
 19 maart|Leen van Wijngaarden|Thuis bij de huismuis (360°-fotografie)
 26 maart|Ynze van der Spek|Spaghettibrug bouwen
 2 april|*Goede Vrijdag*|*Geen N&T-cursus*
-9 april|.|.
+9 april|Tessa van der Voort|Het belang van de bodem
 16 april|.|.
 23 april|Hiske van Duinen|Benauwdheid
 30 april|Merit Hondelink|Archeobotanie
