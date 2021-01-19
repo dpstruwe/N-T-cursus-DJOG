@@ -27,7 +27,7 @@ Wanneer|Wie|Wat
 28 mei|.|.
 4 juni|.|.
 11 juni|.|.
-18 juni|Casper Albers en Bas|Kansen
+18 juni|Casper Albers en Bas|Toeval
 25 juni|.|.
 2 juli|.|.
 9 juli|.|.
