@@ -9,8 +9,8 @@ Wanneer|Wie|Wat
 22 januari||*[Afgelast]*
 29 januari|Leen van Wijngaarden|Stroomkring tekenen *[Afgelast]*
 5 februari|Tessa van der Voort|Het belang van de bodem *[Afgelast]*
-12 februari|Jan Komdeur|Waarom werken dieren samen?
-19 februari|Leen van Wijngaarden|Papieren kristallen
+12 februari|Jan Komdeur|Waarom werken dieren samen? *[Afgelast]*
+19 februari|Leen van Wijngaarden|Papieren kristallen *[Afgelast]*
 26 februari|*Vakantie*|*Geen N&T-cursus*
 5 maart|Theo Elzenga|"Gedrag" van planten?
 12 maart|Steven van der Veeke|Bodemonderzoek met radioactiviteit
