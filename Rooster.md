@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 2 april|*Goede Vrijdag*|*Geen N&T-cursus*
 9 april|Tessa van der Voort|Het belang van de bodem *[Afgelast]*
 16 april||*[Afgelast]*
-23 april|Hiske van Duinen|Benauwdheid
+23 april|Hiske van Duinen|Benauwdheid *[Afgelast]*
 30 april|Merit Hondelink|Archeobotanie
 7 mei|*Vakantie*|*Geen N&T-cursus*
 14 mei|*Hemelvaart*|*Geen N&T-cursus*
