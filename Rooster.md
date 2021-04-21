@@ -24,7 +24,7 @@ Wanneer|Wie|Wat
 7 mei|*Vakantie*|*Geen N&T-cursus*
 14 mei|*Hemelvaart*|*Geen N&T-cursus*
 21 mei|Janne Nauta|De ecologie van het Wad
-28 mei|.|.
+28 mei|Theo Elzenga|"Gedrag" van planten?
 4 juni|.|.
 11 juni|.|.
 18 juni|Casper Albers en Bas|Toeval
