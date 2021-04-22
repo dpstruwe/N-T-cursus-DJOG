@@ -32,6 +32,19 @@ Wanneer|Wie|Wat
 2 juli|.|.
 9 juli|.|.
 
+## Seizoen 10 (2021)
+
+Wanneer|Wie|Wat
+---|---|---
+27 augustus|.|.
+3 september|.|.
+10 september|.|.
+17 september|.|.
+24 september|Merit Hondelink|Archeobotanie
+1 oktober|.|.
+8 oktober|.|.
+.|.|.
+
 ## Seizoen 8 (2020)
 
 Wanneer|Wie|Wat
