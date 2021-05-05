@@ -43,6 +43,13 @@ Wanneer|Wie|Wat
 24 september|Merit Hondelink|Archeobotanie
 1 oktober|.|.
 8 oktober|Tessa van der Voort|Het belang van de bodem
+15 oktober|*Vakantie*|*Geen N&T-cursus*
+22 oktober|.|.
+29 oktober|.|.
+.|.|.
+.|.|.
+.|.|.
+.|.|.
 .|.|.
 
 ## Seizoen 8 (2020)
