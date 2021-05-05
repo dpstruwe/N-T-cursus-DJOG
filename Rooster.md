@@ -42,7 +42,7 @@ Wanneer|Wie|Wat
 17 september|.|.
 24 september|Merit Hondelink|Archeobotanie
 1 oktober|.|.
-8 oktober|.|.
+8 oktober|Tessa van der Voort|Het belang van de bodem
 .|.|.
 
 ## Seizoen 8 (2020)
