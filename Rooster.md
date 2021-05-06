@@ -29,7 +29,7 @@ Wanneer|Wie|Wat
 11 juni|.|.
 18 juni|Casper Albers en Bas|Toeval
 25 juni|Steven van der Veeke|Bodemonderzoek met radioactiviteit
-2 juli|.|.
+2 juli|Leen van Wijngaarden|Stroomkring tekenen
 9 juli|.|.
 
 ## Seizoen 10 (2021)
