@@ -44,7 +44,7 @@ Wanneer|Wie|Wat
 1 oktober|.|.
 8 oktober|Tessa van der Voort|Het belang van de bodem
 15 oktober|*Vakantie*|*Geen N&T-cursus*
-22 oktober|.|.
+22 oktober|Hiske van Duinen|Benauwdheid
 29 oktober|.|.
 .|.|.
 .|.|.
