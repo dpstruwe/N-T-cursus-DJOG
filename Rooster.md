@@ -23,7 +23,7 @@ Wanneer|Wie|Wat
 30 april|Merit Hondelink|Archeobotanie *[Afgelast]*
 7 mei|*Vakantie*|*Geen N&T-cursus*
 14 mei|*Hemelvaart*|*Geen N&T-cursus*
-21 mei|Peter en Bas|Elektronica + Microscopie
+21 mei|*Pinksteren*|*Geen N&T-cursus*
 28 mei|Theo Elzenga|"Gedrag" van planten?
 4 juni|.|.
 11 juni|.|.
