@@ -24,7 +24,7 @@ Wanneer|Wie|Wat
 7 mei|*Vakantie*|*Geen N&T-cursus*
 14 mei|*Hemelvaart*|*Geen N&T-cursus*
 21 mei|*Pinksteren*|*Geen N&T-cursus*
-28 mei|Theo Elzenga|"Gedrag" van planten?
+28 mei|?|?
 4 juni|.|.
 11 juni|.|.
 18 juni|Casper Albers en Bas|Toeval
