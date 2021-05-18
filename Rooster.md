@@ -46,11 +46,14 @@ Wanneer|Wie|Wat
 15 oktober|*Vakantie*|*Geen N&T-cursus*
 22 oktober|Hiske van Duinen|Benauwdheid
 29 oktober|.|.
-.|.|.
-.|.|.
-.|.|.
-.|.|.
-.|.|.
+5 november|.|.
+12 november|.|.
+19 november|.|.
+26 november|.|.
+3 december|.|.
+10 december|.|.
+17 december|.|.
+24 december|*Kerstavond*|*Geen N&T-cursus*
 
 ## Seizoen 8 (2020)
 
