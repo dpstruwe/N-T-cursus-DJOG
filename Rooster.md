@@ -37,7 +37,7 @@ Wanneer|Wie|Wat
 Wanneer|Wie|Wat
 ---|---|---
 27 augustus|.|.
-3 september|.|.
+3 september|Ab Grootjans|Veldexcursie
 10 september|.|.
 17 september|.|.
 24 september|Merit Hondelink|Archeobotanie
