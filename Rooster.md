@@ -39,7 +39,7 @@ Wanneer|Wie|Wat
 27 augustus|.|.
 3 september|Ab Grootjans|Veldexcursie
 10 september|.|.
-17 september|.|.
+17 september|Patrick van Rijn|Gel, mooi haar of een gezond lichaam
 24 september|Merit Hondelink|Archeobotanie
 1 oktober|.|.
 8 oktober|Tessa van der Voort|Het belang van de bodem
