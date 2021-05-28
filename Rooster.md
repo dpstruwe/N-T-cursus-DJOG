@@ -46,7 +46,7 @@ Wanneer|Wie|Wat
 15 oktober|*Vakantie*|*Geen N&T-cursus*
 22 oktober|Hiske van Duinen|Benauwdheid
 29 oktober|.|.
-5 november|.|.
+5 november|Lizette Oudhuis|Voedseltechnologie
 12 november|.|.
 19 november|.|.
 26 november|.|.
