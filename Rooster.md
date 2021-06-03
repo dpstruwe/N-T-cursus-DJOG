@@ -47,7 +47,7 @@ Wanneer|Wie|Wat
 22 oktober|Hiske van Duinen|Benauwdheid
 29 oktober|.|.
 5 november|Lizette Oudhuis|Voedseltechnologie
-12 november|.|.
+12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
 19 november|.|.
 26 november|.|.
 3 december|.|.
