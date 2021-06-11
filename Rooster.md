@@ -26,7 +26,7 @@ Wanneer|Wie|Wat
 21 mei|*Pinksteren*|*Geen N&T-cursus*
 28 mei|Bas en Peter|[Waterkwaliteit](/Lessen/28mei.md)
 4 juni|Bas|[Onderzoek je lichaam met antilichamen](/Lessen/4juni.md)
-11 juni|Bas|Scheidingstechnieken
+11 juni|Bas|[Scheidingstechnieken](/Lessen/11juni.md)
 18 juni|Casper Albers en Bas|Toeval
 25 juni|Steven van der Veeke|Bodemonderzoek met radioactiviteit
 2 juli|Leen van Wijngaarden|Stroomkring tekenen
