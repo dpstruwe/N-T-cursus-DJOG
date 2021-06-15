@@ -38,7 +38,7 @@ Wanneer|Wie|Wat
 ---|---|---
 27 augustus|.|.
 3 september|Ab Grootjans|Veldexcursie
-10 september|.|.
+10 september|Marlieke Sietsema|Watertechnologie
 17 september|Patrick van Rijn|Gel, mooi haar of een gezond lichaam
 24 september|Merit Hondelink|Archeobotanie
 1 oktober|.|.
