@@ -48,7 +48,7 @@ Wanneer|Wie|Wat
 29 oktober|.|.
 5 november|Lizette Oudhuis|Voedseltechnologie
 12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
-19 november|.|.
+19 november|Theo Elzenga|"Gedrag" van planten?
 26 november|.|.
 3 december|.|.
 10 december|.|.
