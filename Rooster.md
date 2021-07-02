@@ -29,7 +29,7 @@ Wanneer|Wie|Wat
 11 juni|Bas|[Scheidingstechnieken](/Lessen/11juni.md)
 18 juni|Casper Albers en Bas|[Toeval](/Lessen/18juni.md)
 25 juni|Steven van der Veeke|[Bodemonderzoek met radioactiviteit](/Lessen/25juni.md)
-2 juli|Leen van Wijngaarden|Stroomkring tekenen
+2 juli|*Geen les*|*Geen les*
 9 juli|Ynze van der Spek|Spaghettibrug bouwen
 
 ## Seizoen 10 (2021)
