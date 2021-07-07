@@ -40,8 +40,8 @@ Wanneer|Wie|Wat
 3 september|Ab Grootjans|Veldexcursie
 10 september|Marlieke Sietsema|Watertechnologie
 17 september|Patrick van Rijn|Gel, mooi haar of een gezond lichaam
-24 september|Merit Hondelink|Archeobotanie
-1 oktober|.|.
+24 september|.|.
+1 oktober|Merit Hondelink|Archeobotanie
 8 oktober|Tessa van der Voort|Het belang van de bodem
 15 oktober|*Vakantie*|*Geen N&T-cursus*
 22 oktober|Hiske van Duinen|Benauwdheid
