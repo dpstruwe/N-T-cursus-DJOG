@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 18 juni|Casper Albers en Bas|[Toeval](/Lessen/18juni.md)
 25 juni|Steven van der Veeke|[Bodemonderzoek met radioactiviteit](/Lessen/25juni.md)
 2 juli|*Geen les*|*Geen les*
-9 juli|?|?
+9 juli|Peter|Keuzeprogramma
 
 ## Seizoen 10 (2021)
 
