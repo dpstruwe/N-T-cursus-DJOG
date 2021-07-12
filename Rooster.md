@@ -1,5 +1,28 @@
 # Rooster
 
+## Seizoen 10 (2021)
+
+Wanneer|Wie|Wat
+---|---|---
+27 augustus|Bas|Moleculaire aantrekkingskrachten
+3 september|Ab Grootjans|Veldexcursie
+10 september|Marlieke Sietsema|Watertechnologie
+17 september|Patrick van Rijn|Gel, mooi haar of een gezond lichaam
+24 september|.|.
+1 oktober|Merit Hondelink|Archeobotanie
+8 oktober|Tessa van der Voort|Het belang van de bodem
+15 oktober|*Vakantie*|*Geen N&T-cursus*
+22 oktober|Hiske van Duinen|Benauwdheid
+29 oktober|.|.
+5 november|Lizette Oudhuis|Voedseltechnologie
+12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
+19 november|Theo Elzenga|"Gedrag" van planten?
+26 november|Marthe Walvoort|Suikers
+3 december|.|.
+10 december|.|.
+17 december|.|.
+24 december|*Kerstavond*|*Geen N&T-cursus*
+
 ## Seizoen 9 (2021)
 
 Wanneer|Wie|Wat
@@ -31,29 +54,6 @@ Wanneer|Wie|Wat
 25 juni|Steven van der Veeke|[Bodemonderzoek met radioactiviteit](/Lessen/25juni.md)
 2 juli|*Geen les*|*Geen les*
 9 juli|Peter|Keuzeprogramma
-
-## Seizoen 10 (2021)
-
-Wanneer|Wie|Wat
----|---|---
-27 augustus|Bas|Moleculaire aantrekkingskrachten
-3 september|Ab Grootjans|Veldexcursie
-10 september|Marlieke Sietsema|Watertechnologie
-17 september|Patrick van Rijn|Gel, mooi haar of een gezond lichaam
-24 september|.|.
-1 oktober|Merit Hondelink|Archeobotanie
-8 oktober|Tessa van der Voort|Het belang van de bodem
-15 oktober|*Vakantie*|*Geen N&T-cursus*
-22 oktober|Hiske van Duinen|Benauwdheid
-29 oktober|.|.
-5 november|Lizette Oudhuis|Voedseltechnologie
-12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
-19 november|Theo Elzenga|"Gedrag" van planten?
-26 november|Marthe Walvoort|Suikers
-3 december|.|.
-10 december|.|.
-17 december|.|.
-24 december|*Kerstavond*|*Geen N&T-cursus*
 
 ## Seizoen 8 (2020)
 
