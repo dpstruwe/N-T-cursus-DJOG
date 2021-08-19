@@ -11,8 +11,8 @@ Wanneer|Wie|Wat
 24 september|.|.
 1 oktober|Merit Hondelink|Archeobotanie
 8 oktober|Tessa van der Voort|Het belang van de bodem
-15 oktober|*Vakantie*|*Geen N&T-cursus*
-22 oktober|Hiske van Duinen|Benauwdheid
+15 oktober|.|.
+22 oktober|*Vakantie*|*Geen N&T-cursus*
 29 oktober|.|.
 5 november|Lizette Oudhuis|Voedseltechnologie
 12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
