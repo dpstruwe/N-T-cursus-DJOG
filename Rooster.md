@@ -20,7 +20,7 @@ Wanneer|Wie|Wat
 26 november|Marthe Walvoort|Suikers
 3 december|.|.
 10 december|.|.
-17 december|.|.
+17 december|Leen van Wijngaarden|PLA-poppetjes maken
 24 december|*Kerstavond*|*Geen N&T-cursus*
 
 ## Seizoen 9 (2021)
