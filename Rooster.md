@@ -18,7 +18,7 @@ Wanneer|Wie|Wat
 12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
 19 november|Theo Elzenga|"Gedrag" van planten?
 26 november|Marthe Walvoort|Suikers
-3 december|.|.
+3 december|Anne-Men Huijzer|Wiskunde
 10 december|.|.
 17 december|Leen van Wijngaarden|PLA-poppetjes maken
 24 december|*Kerstavond*|*Geen N&T-cursus*
