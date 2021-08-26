@@ -11,7 +11,7 @@ Wanneer|Wie|Wat
 24 september|.|.
 1 oktober|Merit Hondelink|Archeobotanie
 8 oktober|Tessa van der Voort|Het belang van de bodem
-15 oktober|.|.
+15 oktober|Silke Ceulemans|Excursie Medusa (bodemonderzoek)
 22 oktober|*Vakantie*|*Geen N&T-cursus*
 29 oktober|Hiske van Duinen|Benauwdheid
 5 november|Lizette Oudhuis|Voedseltechnologie
