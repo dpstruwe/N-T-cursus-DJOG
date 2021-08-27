@@ -4,7 +4,7 @@
 
 Wanneer|Wie|Wat
 ---|---|---
-27 augustus|Bas|Moleculaire aantrekkingskrachten
+27 augustus|Bas|[Moleculaire aantrekkingskrachten](/Lessen/27augustus.md)
 3 september|Ab Grootjans|Veldexcursie
 10 september|Marlieke Sietsema|Watertechnologie
 17 september|Patrick van Rijn|Gel, mooi haar of een gezond lichaam
