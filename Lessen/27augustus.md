@@ -6,3 +6,5 @@ Moleculen zijn de kleinste bouwsteentjes waaruit de materie om ons heen bestaat.
 *(Voorbeeld van capillaire werking: het water staat hoger in de dunste buisjes)*
 
 Er zijn diverse experimenten gedaan om de aantrekkingskrachten tussen moleculen te demonstreren. Bijvoorbeeld door te laten zien dat water en wasbenzine (een hydrofobe stof) niet mengen, en ook op een verschillende manier worden aangetrokken door glas en plastic (plastic is hydrofoob, dus trekt meer aan wasbenzine dan aan water, terwijl dit bij glas juist andersom is). Ook lost suiker veel beter op in water dan in bijvoorbeeld alcohol, wat goed te zien is als je 'knettersuiker' (suikerkristallen met koolzuur) in water en alcohol doet: het knettert veel harder in water dan in alcohol.
+
+*Bekijk [hier](moleculaire-aantrekkingskrachten.pdf) de presentatie*
