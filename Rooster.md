@@ -19,7 +19,7 @@ Wanneer|Wie|Wat
 19 november|Theo Elzenga|"Gedrag" van planten?
 26 november|Marthe Walvoort|Suikers
 3 december|Anne-Men Huijzer|Wiskunde
-10 december|.|.
+10 december|Johan|Ethologie
 17 december|Leen van Wijngaarden|PLA-poppetjes maken
 24 december|*Kerstavond*|*Geen N&T-cursus*
 
