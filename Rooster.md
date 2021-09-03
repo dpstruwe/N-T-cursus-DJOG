@@ -6,7 +6,7 @@ Wanneer|Wie|Wat
 ---|---|---
 27 augustus|Bas|[Moleculaire aantrekkingskrachten](/Lessen/27augustus.md)
 3 september|Ab Grootjans|[Veldexcursie](/Lessen/3september.md)
-10 september|Marlieke Sietsema|Watertechnologie
+10 september|Marlieke Sietsema en Erik de Vries|Watertechnologie
 17 september|Patrick van Rijn|Gel, mooi haar of een gezond lichaam
 24 september|.|.
 1 oktober|Merit Hondelink|Archeobotanie
