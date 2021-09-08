@@ -9,7 +9,7 @@ Wanneer|Wie|Wat
 10 september|Marlieke Sietsema en Erik de Vries|Watertechnologie
 17 september|Patrick van Rijn|Gel, mooi haar of een gezond lichaam
 24 september|Bas|Endotherme en exotherme reacties
-1 oktober|Merit Hondelink|Archeobotanie
+1 oktober|.|.
 8 oktober|Tessa van der Voort|Het belang van de bodem
 15 oktober|Silke Ceulemans|Excursie Medusa (bodemonderzoek)
 22 oktober|*Vakantie*|*Geen N&T-cursus*
