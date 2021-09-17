@@ -7,7 +7,7 @@ Wanneer|Wie|Wat
 27 augustus|Bas|[Moleculaire aantrekkingskrachten](/Lessen/27augustus.md)
 3 september|Ab Grootjans|[Veldexcursie](/Lessen/3september.md)
 10 september|Marlieke Sietsema en Erik de Vries|[Watertechnologie](/Lessen/10september.md)
-17 september|Patrick van Rijn|Gel, mooi haar of een gezond lichaam
+17 september|Patrick van Rijn|[Gel, mooi haar of een gezond lichaam](/Lessen/17september.md)
 24 september|Ynze van der Spek|Spaghettibrug maken
 1 oktober|Bas|Endotherme en exotherme reacties
 8 oktober|Tessa van der Voort|Het belang van de bodem
