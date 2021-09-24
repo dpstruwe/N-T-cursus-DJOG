@@ -1,0 +1,2 @@
+# Spaghettitoren maken
+De cursisten hebben met ongekookte spaghetti en plakband geprobeerd een zo hoog mogelijke toren te maken, die bovenin een marshmallow moest kunnen dragen. Elk groepje kreeg daarvoor 20 spaghettistaafjes, een meter plakband en een kwartier de tijd. Vooraf kregen ze nog enkele voorbeelden te zien van constructies in het dagelijks leven, zoals bruggen en torens. Te zien was dat hiervoor bijna altijd gebruik werd gemaakt van driehoeken om de constructie stevig te maken. Dit zorgt namelijk voor een goede krachtverdeling.
