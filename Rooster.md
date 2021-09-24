@@ -8,7 +8,7 @@ Wanneer|Wie|Wat
 3 september|Ab Grootjans|[Veldexcursie](/Lessen/3september.md)
 10 september|Marlieke Sietsema en Erik de Vries|[Watertechnologie](/Lessen/10september.md)
 17 september|Patrick van Rijn|[Gel, mooi haar of een gezond lichaam](/Lessen/17september.md)
-24 september|Ynze van der Spek|Spaghettibrug maken
+24 september|Ynze van der Spek|[Spaghettitoren maken](/Lessen/24september.md)
 1 oktober|Bas|Endotherme en exotherme reacties
 8 oktober|Tessa van der Voort|Het belang van de bodem
 15 oktober|Silke Ceulemans|Excursie Medusa (bodemonderzoek)
