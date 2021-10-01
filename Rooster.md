@@ -9,7 +9,7 @@ Wanneer|Wie|Wat
 10 september|Marlieke Sietsema en Erik de Vries|[Watertechnologie](/Lessen/10september.md)
 17 september|Patrick van Rijn|[Gel, mooi haar of een gezond lichaam](/Lessen/17september.md)
 24 september|Ynze van der Spek|[Spaghettitoren maken](/Lessen/24september.md)
-1 oktober|Bas|Endotherme en exotherme reacties
+1 oktober|Bas|[Endotherme en exotherme reacties](/Lessen/1oktober.md)
 8 oktober|Tessa van der Voort|De levende koolstofcyclus
 15 oktober|Silke Ceulemans|Excursie Medusa (bodemonderzoek)
 22 oktober|*Vakantie*|*Geen N&T-cursus*
