@@ -10,7 +10,7 @@ Wanneer|Wie|Wat
 17 september|Patrick van Rijn|[Gel, mooi haar of een gezond lichaam](/Lessen/17september.md)
 24 september|Ynze van der Spek|[Spaghettitoren maken](/Lessen/24september.md)
 1 oktober|Bas|[Endotherme en exotherme reacties](/Lessen/1oktober.md)
-8 oktober|Tessa van der Voort|De levende koolstofcyclus
+8 oktober|Tessa van der Voort|[De levende koolstofcyclus](/Lessen/8oktober.md)
 15 oktober|Silke Ceulemans|Excursie Medusa (bodemonderzoek)
 22 oktober|*Vakantie*|*Geen N&T-cursus*
 29 oktober|Hiske van Duinen|Benauwdheid
