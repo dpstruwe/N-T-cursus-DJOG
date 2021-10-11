@@ -23,6 +23,16 @@ Wanneer|Wie|Wat
 17 december|Leen van Wijngaarden|PLA-poppetjes maken
 24 december|*Kerstavond*|*Geen N&T-cursus*
 
+## Seizoen 11 (2022)
+
+Wanneer|Wie|Wat
+---|---|---
+14 januari|.|.
+21 januari|.|.
+28 januari|.|.
+4 februari|.|.
+.|.|.
+
 ## Seizoen 9 (2021)
 
 Wanneer|Wie|Wat
