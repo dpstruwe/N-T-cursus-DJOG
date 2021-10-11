@@ -32,6 +32,8 @@ Wanneer|Wie|Wat
 28 januari|.|.
 4 februari|.|.
 .|.|.
+25 februari|*Vakantie*|*Geen N&T-cursus*
+.|.|.
 
 ## Seizoen 9 (2021)
 
