@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 8 oktober|Tessa van der Voort|[De levende koolstofcyclus](/Lessen/8oktober.md)
 15 oktober|Silke Ceulemans|De bodem beter in beeld (Excursie Medusa)
 22 oktober|*Vakantie*|*Geen N&T-cursus*
-29 oktober|Hiske van Duinen|Benauwdheid
+29 oktober|.|.
 5 november|Lizette Oudhuis|Voedseltechnologie
 12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
 19 november|Theo Elzenga|"Gedrag" van planten?
@@ -28,7 +28,7 @@ Wanneer|Wie|Wat
 Wanneer|Wie|Wat
 ---|---|---
 14 januari|Renée Moerkens|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
-21 januari|.|.
+21 januari|Hiske van Duinen|Benauwdheid
 28 januari|.|.
 4 februari|.|.
 .|.|.
