@@ -27,7 +27,7 @@ Wanneer|Wie|Wat
 
 Wanneer|Wie|Wat
 ---|---|---
-14 januari|.|.
+14 januari|Renée Moerkens|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
 21 januari|.|.
 28 januari|.|.
 4 februari|.|.
