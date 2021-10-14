@@ -11,9 +11,9 @@ Wanneer|Wie|Wat
 24 september|Ynze van der Spek|[Spaghettitoren maken](/Lessen/24september.md)
 1 oktober|Bas|[Endotherme en exotherme reacties](/Lessen/1oktober.md)
 8 oktober|Tessa van der Voort|[De levende koolstofcyclus](/Lessen/8oktober.md)
-15 oktober|Silke Ceulemans|De bodem beter in beeld (Excursie Medusa)
+15 oktober|.|.
 22 oktober|*Vakantie*|*Geen N&T-cursus*
-29 oktober|.|.
+29 oktober|Silke Ceulemans|De bodem beter in beeld (Excursie Medusa)
 5 november|Lizette Oudhuis|Voedseltechnologie
 12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
 19 november|Theo Elzenga|"Gedrag" van planten?
