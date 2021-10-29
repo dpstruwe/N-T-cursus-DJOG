@@ -14,7 +14,7 @@ Wanneer|Wie|Wat
 15 oktober|Peter en Bas|[Divers programma](/Lessen/15oktober.md)
 22 oktober|*Vakantie*|*Geen N&T-cursus*
 29 oktober|Silke Ceulemans|De bodem beter in beeld (Excursie Medusa)
-5 november|Lizette Oudhuis|Voedseltechnologie
+5 november|.|.
 12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
 19 november|Theo Elzenga|"Gedrag" van planten?
 26 november|Marthe Walvoort|Suikers
