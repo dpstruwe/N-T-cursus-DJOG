@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 8 oktober|Tessa van der Voort|[De levende koolstofcyclus](/Lessen/8oktober.md)
 15 oktober|Peter en Bas|[Divers programma](/Lessen/15oktober.md)
 22 oktober|*Vakantie*|*Geen N&T-cursus*
-29 oktober|Silke Ceulemans|De bodem beter in beeld (Excursie Medusa)
+29 oktober|Silke Ceulemans|[De bodem beter in beeld (Excursie Medusa)](/Lessen/29oktober.md)
 5 november|.|.
 12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
 19 november|Theo Elzenga|"Gedrag" van planten?
