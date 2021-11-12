@@ -15,7 +15,7 @@ Wanneer|Wie|Wat
 22 oktober|*Vakantie*|*Geen N&T-cursus*
 29 oktober|Silke Ceulemans en Steven van der Veeke|[De bodem beter in beeld (Excursie Medusa)](/Lessen/29oktober.md)
 5 november|Bas|[Filosoferen + Warm en koud](/Lessen/5november.md)
-12 november|Gerrit Potkamp|Evolutie (excursie aquarium, Levenswetenschappen)
+12 november|Gerrit Potkamp en Willem Diderich|[Evolutie (Excursie aquarium, Levenswetenschappen)](/Lessen/12november.md)
 19 november|Theo Elzenga|"Gedrag" van planten?
 26 november|Marthe Walvoort|Suikers
 3 december|Anne-Men Huijzer|Wiskunde
