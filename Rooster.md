@@ -17,7 +17,7 @@ Wanneer|Wie|Wat
 5 november|Bas|[Filosoferen + Warm en koud](/Lessen/5november.md)
 12 november|Gerrit Potkamp en Willem Diderich|[Evolutie (Excursie aquarium, Levenswetenschappen)](/Lessen/12november.md)
 19 november|Theo Elzenga|"Gedrag" van planten?
-26 november|Marthe Walvoort|Suikers
+26 november|.|.
 3 december|Anne-Men Huijzer|Wiskunde
 10 december|Johan|Ethologie
 17 december|Leen van Wijngaarden|PLA-poppetjes maken
