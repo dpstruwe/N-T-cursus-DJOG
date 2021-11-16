@@ -16,8 +16,8 @@ Wanneer|Wie|Wat
 29 oktober|Silke Ceulemans en Steven van der Veeke|[De bodem beter in beeld (Excursie Medusa)](/Lessen/29oktober.md)
 5 november|Bas|[Filosoferen + Warm en koud](/Lessen/5november.md)
 12 november|Gerrit Potkamp en Willem Diderich|[Evolutie (Excursie aquarium, Levenswetenschappen)](/Lessen/12november.md)
-19 november|Theo Elzenga|"Gedrag" van planten?
-26 november|.|.
+19 november|*Geen cursus*
+26 november|*Geen cursus*
 3 december|Anne-Men Huijzer|Wiskunde
 10 december|Johan|Ethologie
 17 december|Leen van Wijngaarden|PLA-poppetjes maken
