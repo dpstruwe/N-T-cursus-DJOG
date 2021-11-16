@@ -31,8 +31,16 @@ Wanneer|Wie|Wat
 21 januari|Hiske van Duinen|Benauwdheid
 28 januari|Lizette Oudhuis|Voedseltechnologie
 4 februari|.|.
-.|.|.
+11 februari|.|.
+18 februari|.|.
 25 februari|*Vakantie*|*Geen N&T-cursus*
+4 maart|.|.
+11 maart|.|.
+18 maart|.|.
+25 maart|.|.
+1 april|.|.
+8 april|.|.
+15 april|*Goede Vrijdag*|*Geen N&T-cursus*
 .|.|.
 
 ## Seizoen 9 (2021)
