@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 14 januari|Renée Moerkens|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
 21 januari|Hiske van Duinen|Benauwdheid
 28 januari|Lizette Oudhuis|Voedseltechnologie
-4 februari|.|.
+4 februari|Johan|Ethologie *(reservedatum)*
 11 februari|.|.
 18 februari|.|.
 25 februari|*Vakantie*|*Geen N&T-cursus*
