@@ -18,7 +18,7 @@ Wanneer|Wie|Wat
 12 november|Gerrit Potkamp en Willem Diderich|[Evolutie (Excursie aquarium, Levenswetenschappen)](/Lessen/12november.md)
 19 november|*Geen cursus*
 26 november|*Geen cursus*
-3 december|Anne-Men Huijzer|Wiskunde
+3 december|*Geen cursus*
 10 december|Johan|Ethologie
 17 december|Leen van Wijngaarden|PLA-poppetjes maken
 24 december|*Kerstavond*|*Geen N&T-cursus*
