@@ -31,8 +31,8 @@ Wanneer|Wie|Wat
 21 januari|Hiske van Duinen|Benauwdheid
 28 januari|Lizette Oudhuis|Voedseltechnologie
 4 februari|Johan|Ethologie *(reservedatum)*
-11 februari|.|.
-18 februari|.|.
+11 februari|Theo Elzenga|"Gedrag" van planten?
+18 februari|Anne-Men Huijzer|Wiskunde
 25 februari|*Vakantie*|*Geen N&T-cursus*
 4 maart|.|.
 11 maart|.|.
