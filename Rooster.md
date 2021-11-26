@@ -19,9 +19,9 @@ Wanneer|Wie|Wat
 19 november|*Geen cursus*
 26 november|*Geen cursus*
 3 december|*Geen cursus*
-10 december|Johan|Ethologie
-17 december|Leen van Wijngaarden|PLA-poppetjes maken
-24 december|*Kerstavond*|*Geen N&T-cursus*
+10 december|*Geen cursus*
+17 december|*Geen cursus*
+24 december|*Kerstavond*|*Geen cursus*
 
 ## Seizoen 11 (2022)
 
@@ -30,7 +30,7 @@ Wanneer|Wie|Wat
 14 januari|Renée Moerkens|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
 21 januari|Hiske van Duinen|Benauwdheid
 28 januari|Lizette Oudhuis|Voedseltechnologie
-4 februari|Johan|Ethologie *(reservedatum)*
+4 februari|Johan|Ethologie
 11 februari|Theo Elzenga|"Gedrag" van planten?
 18 februari|Anne-Men Huijzer|Wiskunde
 25 februari|*Vakantie*|*Geen N&T-cursus*
