@@ -36,7 +36,7 @@ Wanneer|Wie|Wat
 25 februari|*Vakantie*|*Geen N&T-cursus*
 4 maart|.|.
 11 maart|.|.
-18 maart|.|.
+18 maart|Leen van Wijngaarden|
 25 maart|.|.
 1 april|.|.
 8 april|.|.
