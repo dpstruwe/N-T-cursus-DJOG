@@ -41,6 +41,9 @@ Wanneer|Wie|Wat
 1 april|.|.
 8 april|.|.
 15 april|*Goede Vrijdag*|*Geen N&T-cursus*
+22 april|.|.
+29 april|?|?
+6 mei|*Vakantie*|*Geen N&T-cursus*
 .|.|.
 
 ## Seizoen 9 (2021)
