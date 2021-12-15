@@ -1,28 +1,5 @@
 # Rooster
 
-## Seizoen 10 (2021)
-
-Wanneer|Wie|Wat
----|---|---
-27 augustus|Bas|[Moleculaire aantrekkingskrachten](/Lessen/27augustus.md)
-3 september|Ab Grootjans|[Veldexcursie](/Lessen/3september.md)
-10 september|Marlieke Sietsema en Erik de Vries|[Watertechnologie](/Lessen/10september.md)
-17 september|Patrick van Rijn|[Gel, mooi haar of een gezond lichaam](/Lessen/17september.md)
-24 september|Ynze van der Spek|[Spaghettitoren maken](/Lessen/24september.md)
-1 oktober|Bas|[Endotherme en exotherme reacties](/Lessen/1oktober.md)
-8 oktober|Tessa van der Voort|[De levende koolstofcyclus](/Lessen/8oktober.md)
-15 oktober|Peter en Bas|[Divers programma](/Lessen/15oktober.md)
-22 oktober|*Vakantie*|*Geen N&T-cursus*
-29 oktober|Silke Ceulemans en Steven van der Veeke|[De bodem beter in beeld (Excursie Medusa)](/Lessen/29oktober.md)
-5 november|Bas|[Filosoferen + Warm en koud](/Lessen/5november.md)
-12 november|Gerrit Potkamp en Willem Diderich|[Evolutie (Excursie aquarium, Levenswetenschappen)](/Lessen/12november.md)
-19 november|*Geen cursus*
-26 november|*Geen cursus*
-3 december|*Geen cursus*
-10 december|*Geen cursus*
-17 december|*Geen cursus*
-24 december|*Kerstavond*|*Geen cursus*
-
 ## Seizoen 11 (2022)
 
 Wanneer|Wie|Wat
@@ -45,6 +22,29 @@ Wanneer|Wie|Wat
 29 april|?|?
 6 mei|*Vakantie*|*Geen N&T-cursus*
 .|.|.
+
+## Seizoen 10 (2021)
+
+Wanneer|Wie|Wat
+---|---|---
+27 augustus|Bas|[Moleculaire aantrekkingskrachten](/Lessen/27augustus.md)
+3 september|Ab Grootjans|[Veldexcursie](/Lessen/3september.md)
+10 september|Marlieke Sietsema en Erik de Vries|[Watertechnologie](/Lessen/10september.md)
+17 september|Patrick van Rijn|[Gel, mooi haar of een gezond lichaam](/Lessen/17september.md)
+24 september|Ynze van der Spek|[Spaghettitoren maken](/Lessen/24september.md)
+1 oktober|Bas|[Endotherme en exotherme reacties](/Lessen/1oktober.md)
+8 oktober|Tessa van der Voort|[De levende koolstofcyclus](/Lessen/8oktober.md)
+15 oktober|Peter en Bas|[Divers programma](/Lessen/15oktober.md)
+22 oktober|*Vakantie*|*Geen N&T-cursus*
+29 oktober|Silke Ceulemans en Steven van der Veeke|[De bodem beter in beeld (Excursie Medusa)](/Lessen/29oktober.md)
+5 november|Bas|[Filosoferen + Warm en koud](/Lessen/5november.md)
+12 november|Gerrit Potkamp en Willem Diderich|[Evolutie (Excursie aquarium, Levenswetenschappen)](/Lessen/12november.md)
+19 november|*Geen cursus*
+26 november|*Geen cursus*
+3 december|*Geen cursus*
+10 december|*Geen cursus*
+17 december|*Geen cursus*
+24 december|*Kerstavond*|*Geen cursus*
 
 ## Seizoen 9 (2021)
 
