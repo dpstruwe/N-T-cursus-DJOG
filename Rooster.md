@@ -21,6 +21,8 @@ Wanneer|Wie|Wat
 22 april|.|.
 29 april|?|?
 6 mei|*Vakantie*|*Geen N&T-cursus*
+13 mei|.|.
+20 mei|.|.
 .|.|.
 
 ## Seizoen 10 (2021)
