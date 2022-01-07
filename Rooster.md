@@ -19,11 +19,18 @@ Wanneer|Wie|Wat
 8 april|.|.
 15 april|*Goede Vrijdag*|*Geen N&T-cursus*
 22 april|.|.
-29 april|?|?
+29 april|*Vakantie*|*Geen N&T-cursus*
 6 mei|*Vakantie*|*Geen N&T-cursus*
 13 mei|.|.
 20 mei|.|.
-.|.|.
+27 mei|*Hemelvaart*|*Geen N&T-cursus*
+3 juni|?|? *(Pinksteren)*
+10 juni|.|.
+17 juni|.|.
+24 juni|.|.
+1 juli|.|.
+8 juli|.|.
+15 juli|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 10 (2021)
 
