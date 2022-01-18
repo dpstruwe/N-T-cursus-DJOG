@@ -9,10 +9,10 @@ Wanneer|Wie|Wat
 28 januari|.|.
 4 februari|Johan|Ethologie
 11 februari|Theo Elzenga|"Gedrag" van planten?
-18 februari|Anne-Men Huijzer|Wiskunde
+18 februari|.|.
 25 februari|*Vakantie*|*Geen N&T-cursus*
 4 maart|.|.
-11 maart|.|.
+11 maart|Anne-Men Huijzer|Wiskunde
 18 maart|Leen van Wijngaarden|Stroomkring tekenen
 25 maart|.|.
 1 april|.|.
