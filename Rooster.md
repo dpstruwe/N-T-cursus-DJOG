@@ -16,7 +16,7 @@ Wanneer|Wie|Wat
 18 maart|Leen van Wijngaarden|Stroomkring tekenen
 25 maart|.|.
 1 april|.|.
-8 april|.|.
+8 april|Renée Moerkens|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
 15 april|*Goede Vrijdag*|*Geen N&T-cursus*
 22 april|.|.
 29 april|*Vakantie*|*Geen N&T-cursus*
