@@ -21,7 +21,7 @@ Wanneer|Wie|Wat
 22 april|.|.
 29 april|*Vakantie*|*Geen N&T-cursus*
 6 mei|*Vakantie*|*Geen N&T-cursus*
-13 mei|.|.
+13 mei|Hiske van Duinen|Benauwdheid
 20 mei|.|.
 27 mei|*Hemelvaart*|*Geen N&T-cursus*
 3 juni|?|? *(Pinksteren)*
