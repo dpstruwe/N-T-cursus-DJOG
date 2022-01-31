@@ -14,7 +14,7 @@ Wanneer|Wie|Wat
 4 maart|.|.
 11 maart|Anne-Men Huijzer|Wiskunde
 18 maart|Leen van Wijngaarden|Stroomkring tekenen
-25 maart|.|.
+25 maart|Ynze van der Spek|?
 1 april|.|.
 8 april|Renée Moerkens|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
 15 april|*Goede Vrijdag*|*Geen N&T-cursus*
