@@ -7,7 +7,7 @@ Wanneer|Wie|Wat
 14 januari|*Geen cursus*
 21 januari|*Geen cursus*
 28 januari|Bas|[Elektriciteit en magnetisme](/Lessen/28januari.md)
-4 februari|Johan|Ethologie
+4 februari|Johan|[Ethologie](Lessen/4februari.md)
 11 februari|Theo Elzenga|"Gedrag" van planten?
 18 februari|.|.
 25 februari|*Vakantie*|*Geen N&T-cursus*
