@@ -11,7 +11,7 @@ Wanneer|Wie|Wat
 11 februari|Theo Elzenga|"Gedrag" van planten?
 18 februari|.|.
 25 februari|*Vakantie*|*Geen N&T-cursus*
-4 maart|.|.
+4 maart|Bas|Micro-organismen
 11 maart|Anne-Men Huijzer|Wiskunde
 18 maart|Leen van Wijngaarden|Stroomkring tekenen
 25 maart|Ynze van der Spek|?
