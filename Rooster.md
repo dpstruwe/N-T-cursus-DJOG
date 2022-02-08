@@ -9,7 +9,7 @@ Wanneer|Wie|Wat
 28 januari|Bas|[Elektriciteit en magnetisme](/Lessen/28januari.md)
 4 februari|Johan|[Ethologie](Lessen/4februari.md)
 11 februari|Theo Elzenga|"Gedrag" van planten?
-18 februari|.|.
+18 februari|Bas|Excursie Universiteitsmuseum
 25 februari|*Vakantie*|*Geen N&T-cursus*
 4 maart|Bas|Micro-organismen
 11 maart|Anne-Men Huijzer|Wiskunde
