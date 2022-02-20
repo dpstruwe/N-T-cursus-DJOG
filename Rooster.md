@@ -25,8 +25,8 @@ Wanneer|Wie|Wat
 20 mei|.|.
 27 mei|*Hemelvaart*|*Geen N&T-cursus*
 3 juni|?|? *(Pinksteren)*
-10 juni|.|.
-17 juni|.|.
+10 juni|Cor Scholte|Duurzame energie
+17 juni|*(Reservedatum Cor Scholte)*|.
 24 juni|.|.
 1 juli|.|.
 8 juli|.|.
