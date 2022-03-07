@@ -27,7 +27,7 @@ Wanneer|Wie|Wat
 3 juni|?|? *(Pinksteren)*
 10 juni|Cor Scholte|Duurzame energie
 17 juni|*(Reservedatum Cor Scholte)*|.
-24 juni|.|.
+24 juni|Marthe Walvoort|Suikers
 1 juli|.|.
 8 juli|.|.
 15 juli|*Vakantie*|*Geen N&T-cursus*
