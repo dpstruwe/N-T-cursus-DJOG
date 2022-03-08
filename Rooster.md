@@ -29,7 +29,7 @@ Wanneer|Wie|Wat
 17 juni|*(Reservedatum Cor Scholte)*|.
 24 juni|Marthe Walvoort|Suikers
 1 juli|.|.
-8 juli|.|.
+8 juli|Bas|Divers programma
 15 juli|*Vakantie*|*Geen N&T-cursus*
 
 ## Seizoen 10 (2021)
