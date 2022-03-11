@@ -12,7 +12,7 @@ Wanneer|Wie|Wat
 18 februari|*Geen cursus*
 25 februari|*Vakantie*|*Geen N&T-cursus*
 4 maart|Bas|[Micro-organismen](/Lessen/4maart.md)
-11 maart|Anne-Men Huijzer|Wiskunde
+11 maart|Anne-Men Huijzer|[Wiskunde](/Lessen/11maart.md)
 18 maart|Leen van Wijngaarden|Stroomkring tekenen
 25 maart|Ynze van der Spek|?
 1 april|.|.
