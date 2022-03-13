@@ -18,7 +18,7 @@ Wanneer|Wie|Wat
 1 april|Tammo Jan Dijkema|Het dopplereffect
 8 april|Renée Moerkens|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
 15 april|*Goede Vrijdag*|*Geen N&T-cursus*
-22 april|.|.
+22 april|Bas|Fotografie
 29 april|*Vakantie*|*Geen N&T-cursus*
 6 mei|*Vakantie*|*Geen N&T-cursus*
 13 mei|Hiske van Duinen|Benauwdheid
