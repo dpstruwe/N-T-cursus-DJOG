@@ -13,7 +13,7 @@ Wanneer|Wie|Wat
 25 februari|*Vakantie*|*Geen N&T-cursus*
 4 maart|Bas|[Micro-organismen](/Lessen/4maart.md)
 11 maart|Anne-Men Huijzer|[Wiskunde](/Lessen/11maart.md)
-18 maart|Leen van Wijngaarden|Stroomkring tekenen
+18 maart|Leen van Wijngaarden|[Stroomkring tekenen](/Lessen/18maart.md)
 25 maart|Ynze van der Spek|?
 1 april|Tammo Jan Dijkema|Het dopplereffect
 8 april|Renée Moerkens|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
