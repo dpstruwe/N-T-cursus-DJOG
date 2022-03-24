@@ -15,7 +15,7 @@ Wanneer|Wie|Wat
 11 maart|Anne-Men Huijzer|[Wiskunde](/Lessen/11maart.md)
 18 maart|Leen van Wijngaarden|[Stroomkring tekenen](/Lessen/18maart.md)
 25 maart|Ynze van der Spek|Geluid en trillingen
-1 april|Tammo Jan Dijkema|Het dopplereffect
+1 april|Tammo Jan Dijkema|Het dopplereffect (Radiosterrenkunde)
 8 april|Renée Moerkens|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
 15 april|*Goede Vrijdag*|*Geen N&T-cursus*
 22 april|Bas|Fotografie
