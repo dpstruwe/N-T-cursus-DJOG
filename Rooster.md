@@ -16,7 +16,7 @@ Wanneer|Wie|Wat
 18 maart|Leen van Wijngaarden|[Stroomkring tekenen](/Lessen/18maart.md)
 25 maart|Ynze van der Spek|[Geluid en trillingen](/Lessen/25maart.md)
 1 april|Tammo Jan Dijkema|[Het dopplereffect en radiosterrenkunde](/Lessen/1april.md)
-8 april|Renée Moerkens en Joram Mooiweer|Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen
+8 april|Renée Moerkens en Joram Mooiweer|[Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen](/Lessen/8april.md)
 15 april|*Goede Vrijdag*|*Geen N&T-cursus*
 22 april|Bas|Fotografie
 29 april|*Vakantie*|*Geen N&T-cursus*
