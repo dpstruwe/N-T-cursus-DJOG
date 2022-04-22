@@ -18,7 +18,7 @@ Wanneer|Wie|Wat
 1 april|Tammo Jan Dijkema|[Het dopplereffect en radiosterrenkunde](/Lessen/1april.md)
 8 april|Renée Moerkens en Joram Mooiweer|[Miniorganen-op-chips: kleine apparaatjes die je lichaam kunnen nabootsen](/Lessen/8april.md)
 15 april|*Goede Vrijdag*|*Geen N&T-cursus*
-22 april|Bas|Fotografie
+22 april|Bas|[Fotografie](/Lessen/22april.md)
 29 april|*Vakantie*|*Geen N&T-cursus*
 6 mei|*Vakantie*|*Geen N&T-cursus*
 13 mei|Hiske van Duinen|Benauwdheid
