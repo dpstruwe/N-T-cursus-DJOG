@@ -26,7 +26,7 @@ Wanneer|Wie|Wat
 27 mei|*Hemelvaart*|*Geen N&T-cursus*
 3 juni|?|? *(Pinksteren)*
 10 juni|Cor Scholte|Duurzame energie
-17 juni|*(Reservedatum Cor Scholte)*|.
+17 juni|Stijn Mouton|Veroudering
 24 juni|Marthe Walvoort|Suikers
 1 juli|.|.
 8 juli|Bas|Divers programma
