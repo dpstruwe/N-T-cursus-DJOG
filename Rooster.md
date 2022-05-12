@@ -32,6 +32,13 @@ Wanneer|Wie|Wat
 8 juli|Bas|Divers programma
 15 juli|*Vakantie*|*Geen N&T-cursus*
 
+2 september|.|.
+9 september|Merit Hondelink|Archeobotanie
+16 september|.|.
+23 september|.|.
+30 september|.|.
+7 oktober|Annemarie Maan en Bas|De magie van chemie
+
 ## Seizoen 10 (2021)
 
 Wanneer|Wie|Wat
