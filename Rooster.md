@@ -31,6 +31,7 @@ Wanneer|Wie|Wat
 1 juli|.|.
 8 juli|Bas|Divers programma
 15 juli|*Vakantie*|*Geen N&T-cursus*
+
 ---|---|---
 2 september|.|.
 9 september|Merit Hondelink|Archeobotanie
