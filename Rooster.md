@@ -33,6 +33,7 @@ Wanneer|Wie|Wat
 15 juli|*Vakantie*|*Geen N&T-cursus*
 
 *(vervolg seizoen 11)*
+Wanneer|Wie|Wat
 ---|---|---
 2 september|.|.
 9 september|Merit Hondelink|Archeobotanie
