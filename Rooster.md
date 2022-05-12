@@ -32,6 +32,7 @@ Wanneer|Wie|Wat
 8 juli|Bas|Divers programma
 15 juli|*Vakantie*|*Geen N&T-cursus*
 
+*(vervolg seizoen 11)*
 ---|---|---
 2 september|.|.
 9 september|Merit Hondelink|Archeobotanie
