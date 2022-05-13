@@ -21,7 +21,7 @@ Wanneer|Wie|Wat
 22 april|Bas|[Fotografie](/Lessen/22april.md)
 29 april|*Vakantie*|*Geen N&T-cursus*
 6 mei|*Vakantie*|*Geen N&T-cursus*
-13 mei|Hiske van Duinen|[Benauwdheid](/Lessen/13mei.md)
+13 mei|Hiske van Duinen|[Ademhaling en benauwdheid](/Lessen/13mei.md)
 20 mei|Jocelien Olivier|De hersenen
 27 mei|*Hemelvaart*|*Geen N&T-cursus*
 3 juni|?|? *(Pinksteren)*
