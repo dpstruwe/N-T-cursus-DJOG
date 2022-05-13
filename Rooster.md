@@ -29,7 +29,7 @@ Wanneer|Wie|Wat
 17 juni|Stijn Mouton|Veroudering (Excursie ERIBA)
 24 juni|Marthe Walvoort|Suikers
 1 juli|.|.
-8 juli|Bas|Divers programma
+8 juli|Alex van den Berg|Scheikundeprogramma (Praedinius Gymnasium)
 15 juli|*Vakantie*|*Geen N&T-cursus*
 
 *(vervolg seizoen 11)*
