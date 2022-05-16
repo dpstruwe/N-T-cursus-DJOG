@@ -22,7 +22,7 @@ Wanneer|Wie|Wat
 29 april|*Vakantie*|*Geen N&T-cursus*
 6 mei|*Vakantie*|*Geen N&T-cursus*
 13 mei|Hiske van Duinen|[Ademhaling en benauwdheid](/Lessen/13mei.md)
-20 mei|Jocelien Olivier en Warner Hoornenborg|De hersenen
+20 mei|Jocelien Olivier en Warner Hoornenborg|De hersenen (Excursie Linnaeusborg)
 27 mei|*Hemelvaart*|*Geen N&T-cursus*
 3 juni|?|? *(Pinksteren)*
 10 juni|Cor Scholte|Duurzame energie
