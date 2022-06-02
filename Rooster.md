@@ -24,7 +24,7 @@ Wanneer|Wie|Wat
 13 mei|Hiske van Duinen|[Ademhaling en benauwdheid](/Lessen/13mei.md)
 20 mei|Jocelien Olivier en Warner Hoornenborg|[De hersenen (Excursie Linnaeusborg)](/Lessen/20mei.md)
 27 mei|*Hemelvaart*|*Geen N&T-cursus*
-3 juni|Bas|bezoek Universiteitsmuseum
+3 juni|*Pinksteren*|*Geen N&T-cursus*
 10 juni|Cor Scholte|Duurzame energie
 17 juni|Stijn Mouton|Veroudering (Excursie ERIBA)
 24 juni|.|.
