@@ -25,7 +25,7 @@ Wanneer|Wie|Wat
 20 mei|Jocelien Olivier en Warner Hoornenborg|[De hersenen (Excursie Linnaeusborg)](/Lessen/20mei.md)
 27 mei|*Hemelvaart*|*Geen N&T-cursus*
 3 juni|*Pinksteren*|*Geen N&T-cursus*
-10 juni|Cor Scholte|Duurzame energie
+10 juni|Cor Scholte|[Waterstof als (duurzame) energiebron](/Lessen/10juni.md)
 17 juni|Stijn Mouton|Veroudering (Excursie ERIBA)
 24 juni|Bas|Suikers
 1 juli|.|.
