@@ -39,7 +39,7 @@ Wanneer|Wie|Wat
 9 september|Merit Hondelink|Archeobotanie
 16 september|.|.
 23 september|.|.
-30 september|Bart Verkerke|
+30 september|Bart Verkerke|Biomedische technologie
 7 oktober|Annemarie Maan en Bas|De magie van chemie
 
 ## Seizoen 10 (2021)
