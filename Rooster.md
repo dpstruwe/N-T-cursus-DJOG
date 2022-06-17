@@ -26,7 +26,7 @@ Wanneer|Wie|Wat
 27 mei|*Hemelvaart*|*Geen N&T-cursus*
 3 juni|*Pinksteren*|*Geen N&T-cursus*
 10 juni|Cor Scholte|[Waterstof als (duurzame) energiebron](/Lessen/10juni.md)
-17 juni|Stijn Mouton|Veroudering (Excursie ERIBA)
+17 juni|Stijn Mouton|[Veroudering (Excursie ERIBA)](/Lessen/17juni.md)
 24 juni|Bas|Suikers
 1 juli|.|.
 8 juli|Alex van den Berg|Scheikundeprogramma (Praedinius Gymnasium)
