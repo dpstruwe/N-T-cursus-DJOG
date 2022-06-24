@@ -1,5 +1,7 @@
 # Natuur & Techniek-cursus
 
+## ***Let op: Deze cursus stopt per 7 oktober 2022!***
+
 ![djogkleiner](https://cloud.githubusercontent.com/assets/25673660/22806842/50171992-ef24-11e6-89bc-607339c92c05.png)
 
 Ben je tussen de 8 en de 18 jaar oud en vind je het leuk om te weten hoe de wereld in elkaar zit? Zoals je lichaam, gezondheid, natuurverschijnselen en (duurzame) energie? En vind je het leuk om zelf dingen te doen, te maken en te onderzoeken? Dan kan je natuurlijk braaf blijven wachten totdat deze onderwerpen eindelijk aan bod komen in de klas, of nog later, tijdens studie of werk...
