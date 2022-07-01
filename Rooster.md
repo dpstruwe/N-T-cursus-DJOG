@@ -38,7 +38,7 @@ Wanneer|Wie|Wat
 2 september|.|.
 9 september|Merit Hondelink|Archeobotanie
 16 september|Piet Zijlstra|Civiele techniek
-23 september|.|.
+23 september|Jeroen Onrust|Wormen en weidevogels
 30 september|Bart Verkerke|Biomedische technologie
 7 oktober|Annemarie Maan en Bas|De magie van chemie
 
