@@ -40,7 +40,7 @@ Wanneer|Wie|Wat
 16 september|Piet Zijlstra|Civiele techniek
 23 september|Jeroen Onrust|Wormen en weidevogels
 30 september|Bart Verkerke|Biomedische technologie
-7 oktober|Annemarie Maan en Bas|De magie van chemie
+7 oktober|Annemarie Maan|De magie van chemie
 
 ## Seizoen 10 (2021)
 
