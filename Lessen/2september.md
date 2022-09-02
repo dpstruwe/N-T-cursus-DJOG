@@ -13,4 +13,4 @@ Een andere eigenschap van licht is polarisatie. Dat wil zeggen dat een lichtgolf
 
 ![polarisatie](polarisatie.png)
 
-*(De polarisatie van licht)*
+*(De polarisatie van licht en de werking van een polarisatiefilter)*
