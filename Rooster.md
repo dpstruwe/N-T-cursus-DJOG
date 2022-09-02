@@ -35,7 +35,7 @@ Wanneer|Wie|Wat
 *(vervolg seizoen 11)*
 Wanneer|Wie|Wat
 ---|---|---
-2 september|Bas|Licht en kleur
+2 september|Bas|[Licht en kleur](/Lessen/2september.md)
 9 september|Merit Hondelink|Archeobotanie
 16 september|Piet Zijlstra|Civiele techniek
 23 september|Jeroen Onrust|Wormen en weidevogels
