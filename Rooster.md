@@ -36,7 +36,7 @@ Wanneer|Wie|Wat
 Wanneer|Wie|Wat
 ---|---|---
 2 september|Bas|[Licht en kleur](/Lessen/2september.md)
-9 september|Merit Hondelink|Archeobotanie
+9 september|Merit Hondelink|[Archeobotanie](/Lessen/9september.md)
 16 september|Piet Zijlstra|Civiele techniek
 23 september|Jeroen Onrust|Wormen en weidevogels
 30 september|Bart Verkerke|Biomedische technologie
