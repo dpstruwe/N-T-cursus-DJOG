@@ -37,8 +37,8 @@ Wanneer|Wie|Wat
 ---|---|---
 2 september|Bas|[Licht en kleur](/Lessen/2september.md)
 9 september|Merit Hondelink|[Archeobotanie](/Lessen/9september.md)
-16 september|Piet Zijlstra|Civiele techniek
-23 september|Jeroen Onrust|Wormen en weidevogels
+16 september|*Geen cursus*
+23 september|?|?
 30 september|Bart Verkerke|Biomedische technologie
 7 oktober|Annemarie Maan|De magie van chemie
 
