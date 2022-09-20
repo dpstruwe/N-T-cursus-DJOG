@@ -38,7 +38,7 @@ Wanneer|Wie|Wat
 2 september|Bas|[Licht en kleur](/Lessen/2september.md)
 9 september|Merit Hondelink|[Archeobotanie](/Lessen/9september.md)
 16 september|*Geen cursus*
-23 september|?|?
+23 september|Bas en Peter|Herfstkleuren + Overleg cursus
 30 september|Bart Verkerke|Biomedische technologie
 7 oktober|Annemarie Maan|De magie van chemie
 
