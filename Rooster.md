@@ -39,7 +39,7 @@ Wanneer|Wie|Wat
 9 september|Merit Hondelink|[Archeobotanie](/Lessen/9september.md)
 16 september|*Geen cursus*
 23 september|Bas en Peter|[Herfstkleuren + Gezamenlijke brainstormsessie](/Lessen/23september.md)
-30 september|Bart Verkerke|Biomedische technologie
+30 september|Bart Verkerke|[Biomedische technologie](/Lessen/30september.md)
 7 oktober|Annemarie Maan|De magie van chemie
 
 ## Seizoen 10 (2021)
