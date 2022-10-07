@@ -1,6 +1,6 @@
 # Natuur & Techniek-cursus
 
-## ***Let op: Deze cursus stopt per 7 oktober 2022!***
+## ***Let op: Deze cursus is gestopt per 7 oktober 2022!***
 
 ![djogkleiner](https://cloud.githubusercontent.com/assets/25673660/22806842/50171992-ef24-11e6-89bc-607339c92c05.png)
 
