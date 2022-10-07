@@ -48,7 +48,7 @@ We gaan bijvoorbeeld aan de slag met:
 
 ## Praktische info:
 
-* Dag: Elke vrijdagavond (sinds 3-3-2017)
+* Dag: Elke vrijdagavond (van 3-3-2017 t/m 7-10 2022)
 * Tijd: 
    * 18:00: inloop
    * 18:15: start les
