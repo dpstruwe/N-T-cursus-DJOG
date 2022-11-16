@@ -1,7 +1,7 @@
 # Natuur & Techniek-cursus
 
 ## ***Let op: Deze cursus is gestopt per 7 oktober 2022!***
-*We werken momenteel aan een alternatief voor deze cursus. Heb je interesse in natuur en techniek en wil je hier meer over leren? Laat het ons dan weten, dan houden we je op de hoogte. (info@dejongeonderzoekers.nl)* 
+**Er is een alternatief voor deze cursus in de plaats gekomen, zie: https://github.com/djog/MinicursussenWT/blob/main/README.md**
 
 ![djogkleiner](https://cloud.githubusercontent.com/assets/25673660/22806842/50171992-ef24-11e6-89bc-607339c92c05.png)
 
